@@ -28,8 +28,8 @@ jobs:
 
       - name: 🎯 Run scraping script
         run: |
-          echo "▶ Running Backup.py..."
-          python Backup.py
+          echo "▶ Running Backup with_epg.py..."
+          python Backup with_epg.py
           echo "✅ Script finished."
 
       - name: 💾 Commit & Push if Playlist Changed
@@ -39,7 +39,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions@users.noreply.github.com"
 
-          git add AriaPlus.m3u8
+          git add Backup.m3u
 
           if git diff --cached --quiet; then
             echo "✅ No changes detected in Backup.m3u — skipping commit."
