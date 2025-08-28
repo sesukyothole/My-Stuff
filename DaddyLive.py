@@ -67,7 +67,7 @@ def is_nsfw(extinf, headers, url):
 
 def write_merged_playlist(all_channels, timestamp_line):
     lines = [f'#EXTM3U url-tvg="{EPG_URL}"']
-        f'# Last forced update: {datetime.utcnow().isoformat()}Z',
+    f'# Last forced update: {datetime.utcnow().isoformat()}Z',
         f''
    
     sortable = []
