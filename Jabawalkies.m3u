@@ -1,0 +1,757 @@
+#EXTM3U 
+#EXTM3U x-tvg-url="http://jabawalkies.club:8080/live/xmltv.php?username=K1uWWBmaxJ&password=Xa1TFucw91"
+
+# ◄◄◄ CANADA ►►►
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Canada",Global News BC
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
+#EXTINF:-1,group-title="Canada",CBC News Network HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112734.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet One.ca
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112821.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet 360.ca
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112822.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet (Ontario).ca
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112826.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet (East).ca
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112823.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet (Pacific).ca
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112827.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet (West).ca
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112828.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet World.ca
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112829.rtmp
+#EXTINF:-1,group-title="Canada",TSN1 HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112850.rtmp
+#EXTINF:-1,group-title="Canada",TSN2 HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112851.rtmp
+#EXTINF:-1,group-title="Canada",TSN3 HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112852.rtmp
+#EXTINF:-1,group-title="Canada",TSN4 HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112853.rtmp
+#EXTINF:-1,group-title="Canada",TSN5 HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112854.rtmp
+#EXTINF:-1,group-title="Canada",Fight Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112767.rtmp
+#EXTINF:-1,group-title="Canada",Fubo Sports Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114154.rtmp
+#EXTINF:-1,group-title="Canada",Fubo Sports Network 2
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114155.rtmp
+#EXTINF:-1,group-title="Canada",REV TV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112987.rtmp
+#EXTINF:-1,group-title="Canada",Fox Sports Racing
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112771.rtmp
+#EXTINF:-1,group-title="Canada",BeIN Sports
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112728.rtmp
+#EXTINF:-1,group-title="Canada",CTV News Channel HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112747.rtmp
+#EXTINF:-1,group-title="Canada",CBC Vancouver
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112789.rtmp
+#EXTINF:-1,group-title="Canada",Global Vancouver
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/113019.rtmp
+#EXTINF:-1,group-title="Canada",Animal Planet Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/60951.rtmp
+#EXTINF:-1,group-title="Canada",CTV Comedy East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112742.rtmp
+#EXTINF:-1,group-title="Canada",Bravo
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114130.rtmp
+#EXTINF:-1,group-title="Canada",History Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112788.rtmp
+#EXTINF:-1,group-title="Canada",History2 Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/106357.rtmp
+#EXTINF:-1,group-title="Canada",Discovery Channel
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/60977.rtmp
+#EXTINF:-1,group-title="Canada",Discovery Science 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/60978.rtmp
+#EXTINF:-1,group-title="Canada",CTV Speed
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112753.rtmp
+#EXTINF:-1,group-title="Canada",Dejaview
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112750.rtmp
+#EXTINF:-1,group-title="Canada",Crime + Investigation Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112731.rtmp
+#EXTINF:-1,group-title="Canada",Showcase Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114183.rtmp
+#EXTINF:-1,group-title="Canada",A&E
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/15878.rtmp
+#EXTINF:-1,group-title="Canada",CNN HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112741.rtmp
+#EXTINF:-1,group-title="Canada",National Geographic Wild Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112807.rtmp
+#EXTINF:-1,group-title="Canada",National Geographic Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112806.rtmp
+#EXTINF:-1,group-title="Canada",Love Nature
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112799.rtmp
+#EXTINF:-1,group-title="Canada",CTV Nature
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112752.rtmp
+#EXTINF:-1,group-title="Canada",CTV Drama HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112730.rtmp
+#EXTINF:-1,group-title="Canada",Treehouse TV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112848.rtmp
+#EXTINF:-1,group-title="Canada",Smithsonian Channel
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112820.rtmp
+#EXTINF:-1,group-title="Canada",Slice
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112819.rtmp
+#EXTINF:-1,group-title="Canada",Game Plus
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112768.rtmp
+#EXTINF:-1,group-title="Canada",Flavour Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112769.rtmp
+#EXTINF:-1,group-title="Canada",Silver Screen Classics
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/113012.rtmp
+#EXTINF:-1,group-title="Canada",MovieTime HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112802
+#EXTINF:-1,group-title="Canada",Lifetime Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112798
+#EXTINF:-1,group-title="Canada",HBO 1
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112785
+#EXTINF:-1,group-title="Canada",HBO 2 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112784
+#EXTINF:-1,group-title="Canada",Hollywood Suite 2000s
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112790
+#EXTINF:-1,group-title="Canada",Hollywood Suite 70s
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112791.rtmp
+#EXTINF:-1,group-title="Canada",Hollywood Suite 80s
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112792.rtmp
+#EXTINF:-1,group-title="Canada",Hollywood Suite 90s
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112793.rtmp
+#EXTINF:-1,group-title="Canada",Golf Channel Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/60985.rtmp
+#EXTINF:-1,group-title="Canada",FX Canada East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112772.rtmp
+#EXTINF:-1,group-title="Canada",FX Canada Pacific
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112883.rtmp
+#EXTINF:-1,group-title="Canada",FXX Canada East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112773.rtmp
+#EXTINF:-1,group-title="Canada",FXX Canada Pacific
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112885.rtmp
+#EXTINF:-1,group-title="Canada",Family Jr.
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112766.rtmp
+#EXTINF:-1,group-title="Canada",E! Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112761.rtmp
+#EXTINF:-1,group-title="Canada",DTOUR
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112760.rtmp
+#EXTINF:-1,group-title="Canada",Disney XD Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112757.rtmp
+#EXTINF:-1,group-title="Canada",Disney Junior Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112756.rtmp
+#EXTINF:-1,group-title="Canada",Disney Channel
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112755.rtmp
+#EXTINF:-1,group-title="Canada",CTV Sci-Fi
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112830.rtmp
+#EXTINF:-1,group-title="Canada",Crave 1
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114133.rtmp
+#EXTINF:-1,group-title="Canada",Crave 2
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114134.rtmp
+#EXTINF:-1,group-title="Canada",Crave 3
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114135.rtmp
+#EXTINF:-1,group-title="Canada",Crave 4
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114136.rtmp
+#EXTINF:-1,group-title="Canada",Cottage Life
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112744.rtmp
+#EXTINF:-1,group-title="Canada",OUT tv
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112813.rtmp
+#EXTINF:-1,group-title="Canada",CMT Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112739.rtmp
+#EXTINF:-1,group-title="Canada",Cartoon Network Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112838.rtmp
+#EXTINF:-1,group-title="Canada",AMC Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112716.rtmp
+#EXTINF:-1,group-title="Canada",AMC+ CANADA
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114127.rtmp
+#EXTINF:-1,group-title="Canada",ABC Spark
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112714.rtmp
+#EXTINF:-1,group-title="Canada",CTV Wild
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112719.rtmp
+#EXTINF:-1,group-title="Canada",W Network East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112864.rtmp
+#EXTINF:-1,group-title="Canada",W Network West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112930.rtmp
+#EXTINF:-1,group-title="Canada",Starz 1
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114185.rtmp
+#EXTINF:-1,group-title="Canada",Starz 2
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114184.rtmp
+#EXTINF:-1,group-title="Canada",Super Channel Vault
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112835.rtmp
+#EXTINF:-1,group-title="Canada",Super Channel Heart and Home
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112834.rtmp
+#EXTINF:-1,group-title="Canada",Super Channel Fuse
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112832.rtmp
+#EXTINF:-1,group-title="Canada",Super Channel Quest
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112833.rtmp
+#EXTINF:-1,group-title="Canada",Makeful
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112999.rtmp
+#EXTINF:-1,group-title="Canada",Nickelodeon Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112810.rtmp
+#EXTINF:-1,group-title="Canada",HLN
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/113053.rtmp
+#EXTINF:-1,group-title="Canada",Home Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112786.rtmp
+#EXTINF:-1,group-title="Canada",Family Channel Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114148.rtmp
+#EXTINF:-1,group-title="Canada",Boomerang Network Canada
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112907.rtmp
+#EXTINF:-1,group-title="Canada",BBC Earth
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112725.rtmp
+#EXTINF:-1,group-title="Canada",Sportsman Channel
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112866.rtmp
+#EXTINF:-1,group-title="Canada",WildBrainTV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112867.rtmp
+#EXTINF:-1,group-title="Canada",Wild TV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112870.rtmp
+#EXTINF:-1,group-title="Canada",YTV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112875.rtmp
+#EXTINF:-1,group-title="Canada",Adult Swim
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112877.rtmp
+#EXTINF:-1,group-title="Canada",BBC World News
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112879.rtmp
+#EXTINF:-1,group-title="Canada",AMI TV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112718.rtmp
+
+# ◄◄◄ USA ►►►
+#EXTINF:-1,group-title="USA",PPV- WWE
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1712.rtmp
+#EXTINF:-1,group-title="USA",ABC (WCVB)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/85812.rtmp
+#EXTINF:-1,group-title="USA",ABC (KOMO)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/101558.rtmp
+#EXTINF:-1,group-title="USA",CBS (KIRO)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/101960.rtmp
+#EXTINF:-1,group-title="USA",FOX (KCPQ)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/113478.rtmp
+#EXTINF:-1,group-title="USA",NBC (KING)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/113480.rtmp
+#EXTINF:-1,group-title="USA",CW 11 (WPIX)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/101774.rtmp
+#EXTINF:-1,group-title="USA",Fox Sports 1
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/100889.rtmp
+#EXTINF:-1,group-title="USA",FOX SPORTS 2
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/100890.rtmp
+#EXTINF:-1,group-title="USA",NESN
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3638.rtmp
+#EXTINF:-1,group-title="USA",NESN+
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9627.rtmp
+#EXTINF:-1,group-title="USA",ESPN
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/60255.rtmp
+#EXTINF:-1,group-title="USA",ESPN HD Backup 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1924.rtmp
+#EXTINF:-1,group-title="USA",ESPN 2
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/100880.rtmp
+#EXTINF:-1,group-title="USA",ESPN 2 Backup
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1925.rtmp
+#EXTINF:-1,group-title="USA",ESPN News
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3366.rtmp
+#EXTINF:-1,group-title="USA",ESPN U
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3377.rtmp
+#EXTINF:-1,group-title="USA",ESPN SEC Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3365.rtmp
+#EXTINF:-1,group-title="USA ",UFC 24/7
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/8617.rtmp
+#EXTINF:-1,group-title="USA",ACC Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/18739.rtmp
+#EXTINF:-1,group-title="USA",Big Ten Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3345.rtmp
+#EXTINF:-1,group-title="USA",Big 12 Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/2071.rtmp
+#EXTINF:-1,group-title="USA",Mav TV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9574.rtmp
+#EXTINF:-1,group-title="USA",TNT EAST
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1929.rtmp
+#EXTINF:-1,group-title="USA",TNT WEST
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3358.rtmp
+#EXTINF:-1,group-title="USA",Altitude Sports
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/57026.rtmp
+#EXTINF:-1,group-title="USA",MASN
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9610.rtmp
+#EXTINF:-1,group-title="USA",MASN 2
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/961.rtmp
+#EXTINF:-1,group-title="USA"MSG
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/100917.rtmp
+#EXTINF:-1,group-title="USA"MSG Plus
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/100918.rtmp
+#EXTINF:-1,group-title="USA"MSG 2
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/100919.rtmp
+#EXTINF:-1,group-title="USA"MSG Plus 2
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/100920.rtmp
+#EXTINF:-1,group-title="USA",CHICAGO Sports Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9611.rtmp
+#EXTINF:-1,group-title="USA",Root Sports
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/82059.rtmp
+#EXTINF:-1,group-title="USA",CBS Sports Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/8315.rtmp
+#EXTINF:-1,group-title="USA",NBC SPORTS PHILADELPHIA
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9613.rtmp
+#EXTINF:-1,group-title="USA",NBC SPORTS PHILADELPHIA PLUS
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9614.rtmp
+#EXTINF:-1,group-title="USA",NBC SPORTS CALIFORNIA
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9618.rtmp
+#EXTINF:-1,group-title="USA",NBC SPORTS BAY AREA
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9620.rtmp
+#EXTINF:-1,group-title="USA",NBC SPORTS BAY AREA PLUS
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9621.rtmp
+#EXTINF:-1,group-title="USA",Monumental Sports Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9615.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Detroit
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86684.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Detroit Plus
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86713.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Kansas City
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86685.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Florida
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86686.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Indiana
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86688.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Midwest Plus
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86692.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports New Orleans
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86693.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports New Orleans Plus
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86694.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports North
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86695.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports North Plus
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86696.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Ohio
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86697.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Ohio Plus
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86698.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Oklahoma
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86699.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Oklahoma Plus
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86700.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports San Diego
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86701.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports San Diego Plus
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86702.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports SoCal
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86703.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports South
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86704.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports South Extra
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86705.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Southeast
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86706.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Southwest
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86707.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Southwest Plus
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86708.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Sun
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86709.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86710.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Wisconsin
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86711.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Wisconsin Plus
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/86712.rtmp
+#EXTINF:-1,group-title="USA",HBO Boxing
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/60372.rtmp
+#EXTINF:-1,group-title="USA",Stadium
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9671.rtmp
+#EXTINF:-1,group-title="USA",Charge!
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1991.rtmp
+#EXTINF:-1,group-title="USA",A&E
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1522.rtmp
+#EXTINF:-1,group-title="USA",AMC
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1527.rtmp
+#EXTINF:-1,group-title="USA",American Heroes Chammel
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1528.rtmp
+#EXTINF:-1,group-title="USA",Animal Planet
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1529.rtmp
+#EXTINF:-1,group-title="USA",Antenna TV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1531.rtmp
+#EXTINF:-1,group-title="USA",AWE
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1533.rtmp
+#EXTINF:-1,group-title="USA",AXS Tv
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1534.rtmp
+#EXTINF:-1,group-title="USA",Bravo
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1545.rtmp
+#EXTINF:-1,group-title="USA",CMT
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1920.rtmp
+#EXTINF:-1,group-title="USA",CNN
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1560.rtmp
+#EXTINF:-1,group-title="USA",Comedy Central
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1561.rtmp
+#EXTINF:-1,group-title="USA",Comet
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1990.rtmp
+#EXTINF:-1,group-title="USA",Country Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/8317.rtmp
+#EXTINF:-1,group-title="USA",Cozi
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1564.rtmp
+#EXTINF:-1,group-title="USA",Discovery Channel East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1567.rtmp
+#EXTINF:-1,group-title="USA",Discovery Channel West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1568.rtmp
+#EXTINF:-1,group-title="USA",Science
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1573.rtmp
+#EXTINF:-1,group-title="USA",Discovery Family
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1569.rtmp
+#EXTINF:-1,group-title="USA",Discovery Life
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1572.rtmp
+#EXTINF:-1,group-title="USA",Investigation Discovery
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/4261.rtmp
+#EXTINF:-1,group-title="USA",Disney Channel East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1574.rtmp
+#EXTINF:-1,group-title="USA",Disney Channel West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1575.rtmp
+#EXTINF:-1,group-title="USA",Disney JR East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1576.rtmp
+#EXTINF:-1,group-title="USA",Disney JR. West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1577.rtmp
+#EXTINF:-1,group-title="USA",Disney XD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1578.rtmp
+#EXTINF:-1,group-title="USA",E! Entertainment East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1581.rtmp
+#EXTINF:-1,group-title="USA",E! Entertainment West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3973.rtmp
+#EXTINF:-1,group-title="USA",Freeform
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1595.rtmp
+#EXTINF:-1,group-title="USA",Fuse
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1597.rtmp
+#EXTINF:-1,group-title="USA",FX East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1599.rtmp
+#EXTINF:-1,group-title="USA",FX West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1600.rtmp
+#EXTINF:-1,group-title="USA",FXM
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/46182.rtmp
+#EXTINF:-1,group-title="USA",FXX East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/8321.rtmp
+#EXTINF:-1,group-title="USA",FXX West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1602.rtmp
+#EXTINF:-1,group-title="USA",FYI
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1603.rtmp
+#EXTINF:-1,group-title="USA",Get TV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/20723.rtmp
+#EXTINF:-1,group-title="USA",Grit TV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1604.rtmp
+#EXTINF:-1,group-title="USA",Hallmark
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1607.rtmp
+#EXTINF:-1,group-title="USA",Hallmark Drama
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1606.rtmp
+#EXTINF:-1,group-title="USA",Hallmark Movies & Mystery
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1608.rtmp
+#EXTINF:-1,group-title="USA",HGTV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1926.rtmp
+#EXTINF:-1,group-title="USA",History
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1927.rtmp
+#EXTINF:-1,group-title="USA",HLN
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1618.rtmp
+#EXTINF:-1,group-title="USA",Hunt Channel
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/2054.rtmp
+#EXTINF:-1,group-title="USA",IFC HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1621.rtmp
+#EXTINF:-1,group-title="USA",INSP
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/8322.rtmp
+#EXTINF:-1,group-title="USA",ION
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/8323.rtmp
+#EXTINF:-1,group-title="USA",ION Mystery
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/105154.rtmp
+#EXTINF:-1,group-title="USA",Law & Crime
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1625.rtmp
+#EXTINF:-1,group-title="USA",Court TV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/100867.rtmp
+#EXTINF:-1,group-title="USA",LAFF
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/36639.rtmp
+#EXTINF:-1,group-title="USA",Lifetime
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1626.rtmp
+#EXTINF:-1,group-title="USA",Lifetime Movie
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/100912.rtmp
+#EXTINF:-1,group-title="USA",LOGO
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1628.rtmp
+#EXTINF:-1,group-title="USA",Magnolia Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1580.rtmp
+#EXTINF:-1,group-title="USA",MeTV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1629.rtmp
+#EXTINF:-1,group-title="USA",Motor Trend
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3965.rtmp
+#EXTINF:-1,group-title="USA",Nat Geo Wild
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1641.rtmp
+#EXTINF:-1,group-title="USA",Nat Geo
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/2065.rtmp
+#EXTINF:-1,group-title="USA",NBC Golf
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/7747.rtmp
+#EXTINF:-1,group-title="USA",Newsmax
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1649.rtmp
+#EXTINF:-1,group-title="USA",Outdoor Channel 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9644.rtmp
+#EXTINF:-1,group-title="USA",Outside TV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9645.rtmp
+#EXTINF:-1,group-title="USA",Ovation HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/36637.rtmp
+#EXTINF:-1,group-title="USA",OWN
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1657.rtmp
+#EXTINF:-1,group-title="USA",Oxygen True Crime
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1658.rtmp
+#EXTINF:-1,group-title="USA",Paramount TV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1660.rtmp
+#EXTINF:-1,group-title="USA",PixL
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/105146.rtmp
+#EXTINF:-1,group-title="USA",Premier Fighting League 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1963.rtmp
+#EXTINF:-1,group-title="USA",POP
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1663.rtmp
+#EXTINF:-1,group-title="USA",Pursuit
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1664.rtmp
+#EXTINF:-1,group-title="USA",Reelz
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/8326.rtmp
+#EXTINF:-1,group-title="USA",Retroplex HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/13119.rtmp
+#EXTINF:-1,group-title="USA",REVOLT
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1666.rtmp
+#EXTINF:-1,group-title="USA",Smithsonian
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1672.rtmp
+#EXTINF:-1,group-title="USA",Sportsman
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9670.rtmp
+#EXTINF:-1,group-title="USA",Sundance
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1686.rtmp
+#EXTINF:-1,group-title="USA",Syfy
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1687.rtmp
+#EXTINF:-1,group-title="USA",TBS East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1928.rtmp
+#EXTINF:-1,group-title="USA",TBS West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3465.rtmp
+#EXTINF:-1,group-title="USA",The Cowboy Channel
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/47444.rtmp
+#EXTINF:-1,group-title="USA",TruTV East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1699.rtmp
+#EXTINF:-1,group-title="USA",truTV West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3634.rtmp
+#EXTINF:-1,group-title="USA",TVland
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1701.rtmp
+#EXTINF:-1,group-title="USA",TV One
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1702.rtmp
+#EXTINF:-1,group-title="USA",USA Network East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1930.rtmp
+#EXTINF:-1,group-title="USA",USA Network West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3954.rtmp
+#EXTINF:-1,group-title="USA",Viceland
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1708.rtmp
+#EXTINF:-1,group-title="USA",WE Tv
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1709.rtmp
+#EXTINF:-1,group-title="USA",WGN9
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1711.rtmp
+#EXTINF:-1,group-title="USA",World Fishing Network
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/9767.rtmp
+#EXTINF:-1,group-title="USA",Start TV
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1675.rtmp
+#EXTINF:-1,group-title="USA",Cinemax East
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3585.rtmp
+#EXTINF:-1,group-title="USA",Cinemax West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3586.rtmp
+#EXTINF:-1,group-title="USA",Cinemax MoreMax
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/25421.rtmp
+#EXTINF:-1,group-title="USA",Cinemax MovieMax
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/25422.rtmp
+#EXTINF:-1,group-title="USA",Cinemax OuterMax
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/25423.rtmp
+#EXTINF:-1,group-title="USA",Cinemax ThrillerMax
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/25424.rtmp
+#EXTINF:-1,group-title="USA",Starz
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1677.rtmp
+#EXTINF:-1,group-title="USA",Starz Cinema
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/13124.rtmp
+#EXTINF:-1,group-title="USA",STARZ Comedy
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/25425.rtmp
+#EXTINF:-1,group-title="USA",STARZ Edge
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/25427.rtmp
+#EXTINF:-1,group-title="USA",Starz Encore
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1682.rtmp
+#EXTINF:-1,group-title="USA",STARZ Encore Action
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/25426.rtmp
+#EXTINF:-1,group-title="USA",Starz Encore Classic
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/46342.rtmp
+#EXTINF:-1,group-title="USA",Starz Encore Family
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1683.rtmp
+#EXTINF:-1,group-title="USA",Starz Encore Suspense
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/13127.rtmp
+#EXTINF:-1,group-title="USA",Starz Encore West
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/46346.rtmp
+#EXTINF:-1,group-title="USA",Starz Encore Westerns
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/13128.rtmp
+#EXTINF:-1,group-title="USA",Starz In Black
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1679.rtmp
+#EXTINF:-1,group-title="USA",Starz Kids & Family
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1680.rtmp
+#EXTINF:-1,group-title="USA",Starz West HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1681.rtmp
+#EXTINF:-1,group-title="USA",Showtime 1
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3771.rtmp
+#EXTINF:-1,group-title="USA",Showtime 2 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/46316.rtmp
+#EXTINF:-1,group-title="USA",ShoXbet
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1667.rtmp
+#EXTINF:-1,group-title="USA",Showtime Extreme HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/13121.rtmp
+#EXTINF:-1,group-title="USA",Showtime Family Zone
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/25428.rtmp
+#EXTINF:-1,group-title="USA",Showtime Next HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/13122.rtmp
+#EXTINF:-1,group-title="USA",Showtime Showcase
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1670.rtmp
+#EXTINF:-1,group-title="USA",Showtime West HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1671.rtmp
+#EXTINF:-1,group-title="USA",Showtime Women HD
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/13123.rtmp
+#EXTINF:-1,group-title="USA",MoviePlex
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/13118.rtmp
+#EXTINF:-1,group-title="USA",HDNet Movies
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/13116.rtmp
+#EXTINF:-1,group-title="USA",HBO 1
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3581.rtmp
+#EXTINF:-1,group-title="USA",HBO 2
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/18267.rtmp
+#EXTINF:-1,group-title="USA",HBO Comedy
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1609.rtmp
+#EXTINF:-1,group-title="USA",HBO Family
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1611.rtmp
+#EXTINF:-1,group-title="USA",HBO Signature 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1612.rtmp
+#EXTINF:-1,group-title="USA",HBO West 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/3582.rtmp
+#EXTINF:-1,group-title="USA",HBO Zone
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1614.rtmp
+#EXTINF:-1,group-title="USA",MGM+
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1584.rtmp
+#EXTINF:-1,group-title="USA",MGM+ Drive In
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/13115.rtmp
+#EXTINF:-1,group-title="USA",MGM+ Hits
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1585.rtmp
+#EXTINF:-1,group-title="USA",MGM+ Marquee
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/1586.rtmp
+#EXTINF:-1,ESPN+ EVENT 1
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114248.rtmp
+#EXTINF:-1,ESPN+ EVENT 2
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114249.rtmp
+#EXTINF:-1,ESPN+ EVENT 3
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114250.rtmp
+#EXTINF:-1,ESPN+ EVENT 4
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114251.rtmp
+#EXTINF:-1,ESPN+ EVENT 5
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114252.rtmp
+#EXTINF:-1,ESPN+ EVENT 6
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114253.rtmp
+#EXTINF:-1,ESPN+ EVENT 7
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114254.rtmp
+#EXTINF:-1,ESPN+ EVENT 8
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114255.rtmp
+#EXTINF:-1,ESPN+ EVENT 9
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114256.rtmp
+#EXTINF:-1,ESPN+ EVENT 10
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114257.rtmp
+#EXTINF:-1,ESPN+ EVENT 11
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114258.rtmp
+#EXTINF:-1,ESPN+ EVENT 12
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114259.rtmp
+#EXTINF:-1,ESPN+ EVENT 13
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114260.rtmp
+#EXTINF:-1,ESPN+ EVENT 14
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114261.rtmp
+#EXTINF:-1,ESPN+ EVENT 15
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114262.rtmp
+#EXTINF:-1,ESPN+ EVENT 16
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114263.rtmp
+#EXTINF:-1,ESPN+ EVENT 17
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114264.rtmp
+#EXTINF:-1,ESPN+ EVENT 18
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114265.rtmp
+#EXTINF:-1,ESPN+ EVENT 19
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114266.rtmp
+#EXTINF:-1,ESPN+ EVENT 20
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114267.rtmp
+#EXTINF:-1,ESPN+ EVENT 21
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114268.rtmp
+#EXTINF:-1,ESPN+ EVENT 22
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114269.rtmp
+#EXTINF:-1,ESPN+ EVENT 23
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114270.rtmp
+#EXTINF:-1,ESPN+ EVENT 24
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114271.rtmp
+#EXTINF:-1,ESPN+ EVENT 25
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114272.rtmp
+#EXTINF:-1,ESPN+ EVENT 26
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114273.rtmp
+#EXTINF:-1,ESPN+ EVENT 27
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114274.rtmp
+#EXTINF:-1,ESPN+ EVENT 28
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114275.rtmp
+#EXTINF:-1,ESPN+ EVENT 29
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114276.rtmp
+#EXTINF:-1,ESPN+ EVENT 30
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114277.rtmp
+#EXTINF:-1,ESPN+ EVENT 31
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114278.rtmp
+#EXTINF:-1,ESPN+ EVENT 32
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114279.rtmp
+#EXTINF:-1,ESPN+ EVENT 33
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114280.rtmp
+#EXTINF:-1,ESPN+ EVENT 34
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114281.rtmp
+#EXTINF:-1,ESPN+ EVENT 35
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114282.rtmp
+#EXTINF:-1,ESPN+ EVENT 36
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114283.rtmp
+#EXTINF:-1,ESPN+ EVENT 37
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114284.rtmp
+#EXTINF:-1,ESPN+ EVENT 38
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114285.rtmp
+#EXTINF:-1,ESPN+ EVENT 39
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114286.rtmp
+#EXTINF:-1,ESPN+ EVENT 40
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114287.rtmp
+#EXTINF:-1,ESPN+ EVENT 41
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114288.rtmp
+#EXTINF:-1,ESPN+ EVENT 42
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114289.rtmp
+#EXTINF:-1,ESPN+ EVENT 43
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114290.rtmp
+#EXTINF:-1,ESPN+ EVENT 44
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114291.rtmp
+#EXTINF:-1,ESPN+ EVENT 45
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114292.rtmp
+#EXTINF:-1,ESPN+ EVENT 46
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114293.rtmp
+#EXTINF:-1,ESPN+ EVENT 47
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114294.rtmp
+#EXTINF:-1,ESPN+ EVENT 48
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114295.rtmp
+#EXTINF:-1,ESPN+ EVENT 49
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114296.rtmp
+#EXTINF:-1,ESPN+ EVENT 50
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114297.rtmp
+#EXTINF:-1,ESPN+ EVENT 51
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114298.rtmp
+#EXTINF:-1,PPV01 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104574.rtmp
+#EXTINF:-1,PPV02 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104575.rtmp
+#EXTINF:-1,PPV03 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104576.rtmp
+#EXTINF:-1,PPV04 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104577.rtmp
+#EXTINF:-1,PPV05 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104578.rtmp
+#EXTINF:-1,PPV06 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104579.rtmp
+#EXTINF:-1,PPV07 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104580.rtmp
+#EXTINF:-1,PPV08 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104581.rtmp
+#EXTINF:-1,PPV09 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104582.rtmp
+#EXTINF:-1,PPV10
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104583.rtmp
+#EXTINF:-1,PPV11 
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104584.rtmp
+#EXTINF:-1,PPV12
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104585.rtmp
+#EXTINF:-1,PPV13
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104586.rtmp
+#EXTINF:-1,PPV14
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104587.rtmp
+#EXTINF:-1,PPV15
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/104588.rtmp
+#EXTINF:-1,group-title="UK",TNT Sports 1
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112680.rtmp
+#EXTINF:-1,group-title="UK",TNT Sports 2
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112681.rtmp
+#EXTINF:-1,group-title="UK",TNT Sports 3
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112682.rtmp
+#EXTINF:-1,group-title="UK",TNT Sports 4
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112683.rtmp
+

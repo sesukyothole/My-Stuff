@@ -1,0 +1,432 @@
+#EXTM3U 
+# ◄◄◄ CANADA ►►►
+#EXTM3U x-tvg-url="https://starlite.best/xmltv.php?username=burns&password=burns"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Canada",Global News BC
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
+#EXTINF:-1,group-title="Canada",CBC News Network HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/CBC.News.Network.ca.m3u8
+#EXTINF:-1,group-title="Canada",Showcase Canada HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/Showcase.Canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",Discovery Channel (CAN) HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/discovery.channel.can.ca.m3u8
+#EXTINF:-1,group-title="Canada",Crime + Investigation Canada
+https://starlite.best/api/stream/burns/burns/livetv.epg/crime.investigation.ca.m3u8
+#EXTINF:-1,group-title="USA",Fox Sports 1
+https://starlite.best/api/stream/burns/burns/livetv.epg/fox.sports.1.us.m3u8
+#EXTINF:-1,group-title="USA",FOX SPORTS 2
+https://starlite.best/api/stream/burns/burns/livetv.epg/fox.sports.2.us.m3u8
+#EXTINF:-1,group-title="Canada",Sportsnet One.ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/sportsnet.one.ca.m3u8
+#EXTINF:-1,group-title="Canada",Sportsnet 360.ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/sportsnet.360.ca.m3u8
+#EXTINF:-1,group-title="Canada",Sportsnet (Ontario).ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/sportsnet.Ontario.ca.m3u8
+#EXTINF:-1,group-title="Canada",Sportsnet (East).ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/sportsnet.east.ca.m3u8
+#EXTINF:-1,group-title="Canada",Sportsnet (Pacific).ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/sportsnet.Pacific.ca.m3u8
+#EXTINF:-1,group-title="Canada",Sportsnet (West).ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/sportsnet.West.ca.m3u8
+#EXTINF:-1,group-title="Canada",Sportsnet World.ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/sportsnet.World.ca.m3u8
+#EXTINF:-1,group-title="Canada",TSN1 HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/tsn1.ca.m3u8
+#EXTINF:-1,group-title="Canada",TSN2 HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/tsn2.ca.m3u8
+#EXTINF:-1,group-title="Canada",TSN3 HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/tsn3.ca.m3u8
+#EXTINF:-1,group-title="Canada",TSN4 HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/tsn4.ca.m3u8
+#EXTINF:-1,group-title="Canada",TSN5 HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/tsn5.ca.m3u8
+#EXTINF:-1,group-title="USA",NESN
+https://starlite.best/api/stream/burns/burns/livetv.epg/new.england.sports.network.us.m3u8
+#EXTINF:-1,group-title="USA",ESPN
+https://starlite.best/api/stream/burns/burns/livetv.epg/espn.us.m3u8
+#EXTINF:-1,group-title="USA",ESPN2 
+https://starlite.best/api/stream/burns/burns/livetv.epg/espn2.us.m3u8
+#EXTINF:-1,group-title="USA",ESPN SEC Network
+https://starlite.best/api/stream/burns/burns/livetv.epg/sec.network.us.m3u8
+#EXTINF:-1,group-title="USA",ESPN U
+https://starlite.best/api/stream/burns/burns/livetv.epg/espn.u.us.m3u8
+#EXTINF:-1,group-title="USA",ESPN News
+https://starlite.best/api/stream/burns/burns/livetv.epg/espn.news.us
+#EXTINF:-1,group-title="USA ",UFC
+https://starlite.best/api/stream/burns/burns/livetv.epg/ufc.us.m3u8
+#EXTINF:-1,group-title="USA",Big 10 Network
+https://starlite.best/api/stream/burns/burns/livetv.epg/big.ten.network.us.m3u8
+#EXTINF:-1,group-title="USA",ACC Network
+https://starlite.best/api/stream/burns/burns/livetv.epg/acc.network.us.m3u8
+#EXTINF:-1,group-title="Canada",MAV TV HDTV
+https://starlite.best/api/stream/burns/burns/livetv.epg/mavtv.usa.us.m3u8
+#EXTINF:-1,group-title="Canada",CTV News Channel HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/CTV.News.Channel.ca.m3u8
+#EXTINF:-1,group-title="Canada",CBC Vancouver
+https://starlite.best/api/stream/burns/burns/livetv.epg/cbc.cbut.vancouver.bc.ca.m3u8
+#EXTINF:-1,group-title="Canada",Global Vancouver
+https://starlite.best/api/stream/burns/burns/livetv.epg/global.bc.ca.m3u8
+#EXTINF:-1,group-title="USA",ABC East (WCVB)
+https://starlite.best/api/stream/burns/burns/livetv.epg/abc.wcvb.boston.ma.us.m3u8
+#EXTINF:-1,group-title="USA",ABC (KOMO) Seattle, WA.ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/abc.komo.seattle.wa.us.m3u8
+#EXTINF:-1,group-title="USA",CBS (KIRO) Seattle, WA.ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/cbs.kiro.seattle.wa.us.m3u8
+#EXTINF:-1,group-title="USA",FOX (KCPQ) Tacoma, WA - Canada.ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/fox.kcpq.tacoma.wa.us.m3u8
+#EXTINF:-1,group-title="USA",NBC (KING) Seattle, WA.ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/nbc.king.seattle.wa.us.m3u8
+#EXTINF:-1,group-title="Canada",Animal Planet Canada HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/Animal.Planet.Canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",CTV Comedy - East HD.ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/ctv.comedy.east.ca.m3u8
+#EXTINF:-1,group-title="Canada",Bravo
+https://starlite.best/api/stream/burns/burns/livetv.epg/Bravo.Canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",History Canada East
+https://starlite.best/api/stream/burns/burns/livetv.epg/History.Canada.East.ca.m3u8
+#EXTINF:-1,group-title="Canada",History2 Canada
+https://starlite.best/api/stream/burns/burns/livetv.epg/History.2.Canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",Discovery Science (Canada)
+https://starlite.best/api/stream/burns/burns/livetv.epg/Discovery.Science.canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",Discovery Velocity HD.ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/Discovery.Velocity.ca.m3u8
+#EXTINF:-1,group-title="Canada",Investigation Discovery (Canada)
+https://starlite.best/api/stream/burns/burns/livetv.epg/Investigation.Discovery.canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",A&E
+https://starlite.best/api/stream/burns/burns/livetv.epg/ae.eastern.ca.m3u8
+#EXTINF:-1,group-title="Canada",CNN HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/cnn.ca.m3u8
+#EXTINF:-1,group-title="Canada",National Geographic Wild Canada HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/national.geographic.wild.ca.m3u8
+#EXTINF:-1,group-title="Canada",National Geographic Canada HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/National.Geographic.Canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",Love Nature
+https://starlite.best/api/stream/burns/burns/livetv.epg/Love.Nature.ca.m3u8
+#EXTINF:-1,group-title="Canada",CTV Drama HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/ctv.drama.ca.m3u8
+#EXTINF:-1,group-title="Canada",Treehouse TV
+https://starlite.best/api/stream/burns/burns/livetv.epg/Treehouse.ca.m3u8
+#EXTINF:-1,group-title="Canada",The Weather Network (National)
+https://starlite.best/api/stream/burns/burns/livetv.epg/Weather.Network.ca.m3u8
+#EXTINF:-1,group-title="Canada",Smithsonian Channel Canada HD.ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/Smithsonian.Channel.Canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",Slice
+https://starlite.best/api/stream/burns/burns/livetv.epg/Slice.ca.m3u8
+#EXTINF:-1,group-title="Canada",Silver Screen Classics
+https://starlite.best/api/stream/burns/burns/livetv.epg/Silver.Screen.Classics.ca.m3u8
+#EXTINF:-1,group-title="Canada",Outdoor Life Network Canada HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/Outdoor.Life.Network.Canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",MovieTime HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/MovieTime.ca.m3u8
+#EXTINF:-1,group-title="Canada",CTV Life
+https://starlite.best/api/stream/burns/burns/livetv.epg/ctv.life.ca.m3u8
+#EXTINF:-1,group-title="Canada",HBO 1 HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/HBO.ca.m3u8
+#EXTINF:-1,group-title="Canada",HBO Canada 2 - West.ca
+https://starlite.best/api/stream/burns/burns/livetv.epg/hbo.2.eastern.ca.m3u8
+#EXTINF:-1,group-title="Canada",Golf Channel Canada
+https://starlite.best/api/stream/burns/burns/livetv.epg/Golf.Channel.Canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",FX Canada
+https://starlite.best/api/stream/burns/burns/livetv.epg/fx.networks.ca.m3u8
+#EXTINF:-1,group-title="Canada",FXX Canada
+https://starlite.best/api/stream/burns/burns/livetv.epg/fxx.networks.ca.m3u8
+#EXTINF:-1,group-title="Canada",Fight Network Canada
+https://starlite.best/api/stream/burns/burns/livetv.epg/Fight.Network.canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",Family Jr.
+https://starlite.best/api/stream/burns/burns/livetv.epg/Family.Jr.ca.m3u8
+#EXTINF:-1,group-title="Canada",E! Canada HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/E.canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",DTOUR HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/DTOUR.ca.m3u8
+#EXTINF:-1,group-title="Canada",Disney XD Canada
+https://starlite.best/api/stream/burns/burns/livetv.epg/Disney.XD.canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",Disney Junior Canada
+https://starlite.best/api/stream/burns/burns/livetv.epg/Disney.Junior.canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",Disney Channel Canada - East
+https://starlite.best/api/stream/burns/burns/livetv.epg/Disney.channel.canada.east.ca.m3u8
+#EXTINF:-1,group-title="Canada",CTV Sci-Fi HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/ctv.sci.fi.ca.m3u8
+#EXTINF:-1,group-title="Canada",Out Tv
+https://starlite.best/api/stream/burns/burns/livetv.epg/outtv.ca.m3u8
+#EXTINF:-1,group-title="Canada",Crave1 - East HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/Crave1.east.ca.m3u8
+#EXTINF:-1,group-title="Canada",Crave2 - East HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/Crave2.east.ca.m3u8
+#EXTINF:-1,group-title="Canada",Crave3 - East HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/Crave3.east.ca.m3u8
+#EXTINF:-1,group-title="Canada",Crave4 HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/Crave4.east.ca.m3u8
+#EXTINF:-1,group-title="Canada",Cottage Life HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/Cottage.Life.ca.m3u8
+#EXTINF:-1,group-title="Canada",CMT Canada
+https://starlite.best/api/stream/burns/burns/livetv.epg/CMT.Canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",Cartoon Network Canada - East HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/Cartoon.Network.canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",AMC (Canada)
+https://starlite.best/api/stream/burns/burns/livetv.epg/AMC.canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",ABC Spark
+https://starlite.best/api/stream/burns/burns/livetv.epg/ABC.Spark.ca.m3u8
+#EXTINF:-1,group-title="Canada",Wild Television Network
+https://starlite.best/api/stream/burns/burns/livetv.epg/wild.tv.ca.m3u8
+#EXTINF:-1,group-title="Canada",W Network (East)
+https://starlite.best/api/stream/burns/burns/livetv.epg/w.wtn.east.ca.m3u8
+#EXTINF:-1,group-title="Canada",Super Channel Vault
+https://starlite.best/api/stream/burns/burns/livetv.epg/super.channel.vault.ca.m3u8
+#EXTINF:-1,group-title="Canada",Super Channel Heart and Home
+https://starlite.best/api/stream/burns/burns/livetv.epg/super.channel.heart.home.ca.m3u8
+#EXTINF:-1,group-title="Canada",Super Channel Fuse
+https://starlite.best/api/stream/burns/burns/livetv.epg/super.channel.fuse.ca.m3u8
+#EXTINF:-1,group-title="Canada",Nickelodeon Canada
+https://starlite.best/api/stream/burns/burns/livetv.epg/nickelodeon.canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",HLN
+https://starlite.best/api/stream/burns/burns/livetv.epg/hln.us.m3u8
+#EXTINF:-1,group-title="Canada",Home and Garden Television Canada
+https://starlite.best/api/stream/burns/burns/livetv.epg/hgtv.canada.ca.m3u8
+#EXTINF:-1,group-title="Canada",Family Channel Canada - East HD
+https://starlite.best/api/stream/burns/burns/livetv.epg/family.channel.east.ca.m3u8
+#EXTINF:-1,group-title="Canada",Boomerang Network Canada
+https://starlite.best/api/stream/burns/burns/livetv.epg/boomerang.us.m3u8
+#EXTINF:-1,group-title="Canada",BBC Earth
+https://starlite.best/api/stream/burns/burns/livetv.epg/bbc.earth.ca.m3u8
+# ◄◄◄ USA ►►►
+#EXTINF:-1,group-title="USA",Mav TV
+https://starlite.best/api/stream/burns/burns/livetv.epg/mavtv.usa.us.m3u8
+#EXTINF:-1,group-title="USA",TNT East
+https://starlite.best/api/stream/burns/burns/livetv.epg/tnt.east.us.m3u8
+#EXTINF:-1,group-title="USA",TNT WEST
+https://starlite.best/api/stream/burns/burns/livetv.epg/tnt.pacific.us.m3u8
+#EXTINF:-1,group-title="USA",Altitude Sports
+https://starlite.best/api/stream/burns/burns/livetv.epg/altitude.sports.us.m3u8
+#EXTINF:-1,group-title="USA",MASN
+https://starlite.best/api/stream/burns/burns/livetv.epg/mid.atlantic.sports.network.us.m3u8
+#EXTINF:-1,group-title="USA",MASN 2
+https://starlite.best/api/stream/burns/burns/livetv.epg/mid.atlantic.sports.network.2.us.m3u8
+#EXTINF:-1,group-title="USA",MSG
+https://starlite.best/api/stream/burns/burns/livetv.epg/msg.us.m3u8
+#EXTINF:-1,group-title="USA",MSG 2
+https://starlite.best/api/stream/burns/burns/livetv.epg/msg.2.us.m3u8
+#EXTINF:-1,group-title="USA",MSG+
+https://starlite.best/api/stream/burns/burns/livetv.epg/msg.plus.us.m3u8
+#EXTINF:-1,group-title="USA",Root Sports
+https://starlite.best/api/stream/burns/burns/livetv.epg/root.sports.northwest.us.m3u8
+#EXTINF:-1,group-title="USA",CBS Sports Network
+https://starlite.best/api/stream/burns/burns/livetv.epg/cbs.sports.network.usa.us.m3u8
+#EXTINF:-1,group-title="USA",NBC Sports Philadelphia
+https://starlite.best/api/stream/burns/burns/livetv.epg/nbc.sports.philadelphia.us.m3u8
+#EXTINF:-1,group-title="USA",NBC Sports Boston
+https://starlite.best/api/stream/burns/burns/livetv.epg/nbc.sports.boston.us.m3u8
+#EXTINF:-1,group-title="USA",NBC Sports California
+https://starlite.best/api/stream/burns/burns/livetv.epg/nbc.sports.california.us.m3u8
+#EXTINF:-1,group-title="USA",NBC Sports Bay Area
+https://starlite.best/api/stream/burns/burns/livetv.epg/nbc.sports.bay.area.us.m3u8
+#EXTINF:-1,group-title="USA",Monumental Sports
+https://starlite.best/api/stream/burns/burns/livetv.epg/nbc.sports.washington.us.m3u8
+#EXTINF:-1,group-title="USA",FanDuel Sports Detroit
+https://starlite.best/api/stream/burns/burns/livetv.epg/fox.sports.detroit.us.m3u8
+#EXTINF:-1,group-title="USA",FanDuel Sports Cincinnati
+https://starlite.best/api/stream/burns/burns/livetv.epg/fox.sports.ohio.cincinnati.2.us.m3u8
+#EXTINF:-1,group-title="USA",FanDuel Sports North
+https://starlite.best/api/stream/burns/burns/livetv.epg/fox.sports.north.us.m3u8
+#EXTINF:-1,group-title="USA",FanDuel Sports South
+https://starlite.best/api/stream/burns/burns/livetv.epg/fox.sports.south.us.m3u8
+#EXTINF:-1,group-title="USA",FanDuel Sports Sun
+https://starlite.best/api/stream/burns/burns/livetv.epg/fox.sports.sun.lightningmagic.us.m3u8
+#EXTINF:-1,group-title="USA",FanDuel Sports Florida
+https://starlite.best/api/stream/burns/burns/livetv.epg/fox.sports.florida.us.m3u8
+#EXTINF:-1,group-title="USA",FanDuel Sports Carolina
+https://starlite.best/api/stream/burns/burns/livetv.epg/bally.sports.south.carolinas.us.m3u8
+#EXTINF:-1,group-title="USA",FanDuel Sports Midwest
+https://starlite.best/api/stream/burns/burns/livetv.epg/fox.sports.midwest.us.m3u8
+#EXTINF:-1,group-title="USA",Stadium
+https://starlite.best/api/stream/burns/burns/livetv.epg/stadium.us.m3u8
+#EXTINF:-1,group-title="USA",Charge!
+https://starlite.best/api/stream/burns/burns/livetv.epg/charge.us.m3u8
+#EXTINF:-1,group-title="USA",A&E
+https://starlite.best/api/stream/burns/burns/livetv.epg/ae.us.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Animal Planet
+https://starlite.best/api/stream/burns/burns/livetv.epg/animal.planet.us.east.us.m3u8
+#EXTINF:-1,group-title="USA",AXS Tv
+https://starlite.best/api/stream/burns/burns/livetv.epg/axs.tv.usa.us.m3u8
+#EXTINF:-1,group-title="USA",Bravo (East)
+https://starlite.best/api/stream/burns/burns/livetv.epg/bravo.usa.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",CMT
+https://starlite.best/api/stream/burns/burns/livetv.epg/cmt.us.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",CNN
+https://starlite.best/api/stream/burns/burns/livetv.epg/cnn.us.m3u8
+#EXTINF:-1,group-title="USA",Comedy Central
+https://starlite.best/api/stream/burns/burns/livetv.epg/comedy.central.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Comet
+https://starlite.best/api/stream/burns/burns/livetv.epg/comet.tv.us.m3u8
+#EXTINF:-1,group-title="USA",Cozi
+https://starlite.best/api/stream/burns/burns/livetv.epg/cozi.network.us.m3u8
+#EXTINF:-1,group-title="USA",Discovery Channel
+https://starlite.best/api/stream/burns/burns/livetv.epg/discovery.channel.us.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Discovery Science
+https://starlite.best/api/stream/burns/burns/livetv.epg/science.us.m3u8
+#EXTINF:-1,group-title="USA",Discovery Family
+https://starlite.best/api/stream/burns/burns/livetv.epg/discovery.family.channel.us.m3u8
+#EXTINF:-1,group-title="USA",Discovery Life
+https://starlite.best/api/stream/burns/burns/livetv.epg/discovery.life.channel.us.m3u8
+#EXTINF:-1,group-title="USA",Investigation Discovery
+https://starlite.best/api/stream/burns/burns/livetv.epg/investigation.discovery.usa.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",E! Entertainment
+https://starlite.best/api/stream/burns/burns/livetv.epg/e.entertainment.usa.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Freeform
+https://starlite.best/api/stream/burns/burns/livetv.epg/freeform.east.us.m3u8
+#EXTINF:-1,group-title="USA",Fuse
+https://starlite.best/api/stream/burns/burns/livetv.epg/fuse.tv.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",FX
+https://starlite.best/api/stream/burns/burns/livetv.epg/fx.movie.channel.us.m3u8
+#EXTINF:-1,group-title="USA",FXX
+https://starlite.best/api/stream/burns/burns/livetv.epg/fxx.usa.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",FYI
+https://starlite.best/api/stream/burns/burns/livetv.epg/fyi.usa.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Get TV
+https://starlite.best/api/stream/burns/burns/livetv.epg/gettv.us.m3u8
+#EXTINF:-1,group-title="USA",Grit TV
+https://starlite.best/api/stream/burns/burns/livetv.epg/grit.network.us.m3u8
+#EXTINF:-1,group-title="USA",Hallmark
+https://starlite.best/api/stream/burns/burns/livetv.epg/hallmark.channel.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Hallmark Drama
+https://starlite.best/api/stream/burns/burns/livetv.epg/hallmark.drama.us.m3u8
+#EXTINF:-1,group-title="USA",Hallmark Movies & Mystery
+https://starlite.best/api/stream/burns/burns/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",HGTV
+https://starlite.best/api/stream/burns/burns/livetv.epg/hgtv.usa.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",History
+https://starlite.best/api/stream/burns/burns/livetv.epg/history.channel.us.east.us.m3u8
+#EXTINF:-1,group-title="USA",HLN
+https://starlite.best/api/stream/burns/burns/livetv.epg/hln.us.m3u8
+#EXTINF:-1,group-title="USA",ION
+https://starlite.best/api/stream/burns/burns/livetv.epg/ion.central.us.m3u8
+#EXTINF:-1,group-title="USA",ION Plus
+https://starlite.best/api/stream/burns/burns/livetv.epg/ion.plus.us.m3u8
+#EXTINF:-1,group-title="USA",Justice Central
+https://starlite.best/api/stream/burns/burns/livetv.epg/justice.central.us.m3u8
+#EXTINF:-1,group-title="USA",Law & Crime
+https://starlite.best/api/stream/burns/burns/livetv.epg/law.crime.network.us.m3u8
+#EXTINF:-1,group-title="USA",Court TV
+https://starlite.best/api/stream/burns/burns/livetv.epg/court.tv.network.us.m3u8
+#EXTINF:-1,group-title="USA",Court TV Mystery
+https://starlite.best/api/stream/burns/burns/livetv.epg/court.tv.mystery.network.us.m3u8
+#EXTINF:-1,group-title="USA",LAFF
+https://starlite.best/api/stream/burns/burns/livetv.epg/laff.network.us.m3u8
+#EXTINF:-1,group-title="USA",Lifetime
+https://starlite.best/api/stream/burns/burns/livetv.epg/lifetime.network.us.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Lifetime Movie
+https://starlite.best/api/stream/burns/burns/livetv.epg/lifetime.movies.east.us.m3u8
+#EXTINF:-1,group-title="USA",ME TV
+https://starlite.best/api/stream/burns/burns/livetv.epg/metv.network.us.m3u8
+#EXTINF:-1,group-title="USA",Motor Trend
+https://starlite.best/api/stream/burns/burns/livetv.epg/motor.trend.us.m3u8
+#EXTINF:-1,group-title="USA",Nat Geo Wild
+https://starlite.best/api/stream/burns/burns/livetv.epg/national.geographic.wild.us.m3u8
+#EXTINF:-1,group-title="USA",Nat Geo
+https://starlite.best/api/stream/burns/burns/livetv.epg/national.geographic.us.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Outdoor Channel
+https://starlite.best/api/stream/burns/burns/livetv.epg/outdoor.channel.us.us.m3u8
+#EXTINF:-1,group-title="USA",Ovation
+https://starlite.best/api/stream/burns/burns/livetv.epg/ovation.us.m3u8
+#EXTINF:-1,group-title="USA",OWN
+https://starlite.best/api/stream/burns/burns/livetv.epg/oprah.winfrey.network.usa.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Oxygen True Crime
+https://starlite.best/api/stream/burns/burns/livetv.epg/oxygen.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Paramount TV
+https://starlite.best/api/stream/burns/burns/livetv.epg/paramount.network.usa.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",PixL
+https://starlite.best/api/stream/burns/burns/livetv.epg/pixl.tv.us.m3u8
+#EXTINF:-1,group-title="USA",Pursuit
+https://starlite.best/api/stream/burns/burns/livetv.epg/pursuit.channel.us.m3u8
+#EXTINF:-1,group-title="USA",Reelz
+https://starlite.best/api/stream/burns/burns/livetv.epg/reelzchannel.us.m3u8
+#EXTINF:-1,group-title="USA",Smithsonian
+https://starlite.best/api/stream/burns/burns/livetv.epg/smithsonian.channel.usa.us.m3u8
+#EXTINF:-1,group-title="USA",Sportsman
+https://starlite.best/api/stream/burns/burns/livetv.epg/sportsman.channel.us.m3u8
+#EXTINF:-1,group-title="USA",Sundance
+https://starlite.best/api/stream/burns/burns/livetv.epg/sundancetv.usa.east.us.m3u8
+#EXTINF:-1,group-title="USA",Syfy
+https://starlite.best/api/stream/burns/burns/livetv.epg/syfy.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",TBS
+https://starlite.best/api/stream/burns/burns/livetv.epg/tbs.east.us.m3u8
+#EXTINF:-1,group-title="USA",TRU TV
+https://starlite.best/api/stream/burns/burns/livetv.epg/trutv.usa.east.us.m3u8
+#EXTINF:-1,group-title="USA",TVland
+https://starlite.best/api/stream/burns/burns/livetv.epg/tv.land.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",TV One
+https://starlite.best/api/stream/burns/burns/livetv.epg/tv.one.us.m3u8
+#EXTINF:-1,group-title="USA",USA Network
+https://starlite.best/api/stream/burns/burns/livetv.epg/usa.network.east.us.m3u8
+#EXTINF:-1,group-title="USA",Viceland
+https://starlite.best/api/stream/burns/burns/livetv.epg/vice.us.m3u8
+#EXTINF:-1,group-title="USA",WE Tv
+https://starlite.best/api/stream/burns/burns/livetv.epg/we.us.m3u8
+#EXTINF:-1,group-title="USA",WGN9
+https://starlite.best/api/stream/burns/burns/livetv.epg/wgn.chicago.local.us.m3u8
+#EXTINF:-1,group-title="USA",Cowboy Channel
+https://starlite.best/api/stream/burns/burns/livetv.epg/the.cowboy.channel.us.m3u8
+#EXTINF:-1,group-title="USA",Start TV
+https://starlite.best/api/stream/burns/burns/livetv.epg/start.tv.us.m3u8
+#EXTINF:-1,group-title="USA",Family Entertainment TV
+https://starlite.best/api/stream/burns/burns/livetv.epg/fetv.family.entertainment.television.us.m3u8
+#EXTINF:-1,group-title="USA",5 star Max
+https://starlite.best/api/stream/burns/burns/livetv.epg/5.star.max.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Cinemax East
+https://starlite.best/api/stream/burns/burns/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",ActionMax
+https://starlite.best/api/stream/burns/burns/livetv.epg/actionmax.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Cinemax MoreMax
+https://starlite.best/api/stream/burns/burns/livetv.epg/moremax.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Cinemax MovieMax
+https://starlite.best/api/stream/burns/burns/livetv.epg/moviemax.us.m3u8
+#EXTINF:-1,group-title="USA",Cinemax OuterMax
+https://starlite.best/api/stream/burns/burns/livetv.epg/outermax.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Cinemax ThrillerMax
+https://starlite.best/api/stream/burns/burns/livetv.epg/thrillermax.east.us.m3u8
+#EXTINF:-1,group-title="USA",Starz East
+https://starlite.best/api/stream/burns/burns/livetv.epg/starz.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Starz West
+https://starlite.best/api/stream/burns/burns/livetv.epg/starz.pacific.us.m3u8
+#EXTINF:-1,group-title="USA",Starz in Black
+https://starlite.best/api/stream/burns/burns/livetv.epg/starz.in.black.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Starz Cinema
+https://starlite.best/api/stream/burns/burns/livetv.epg/starz.cinema.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Starz Comedy
+https://starlite.best/api/stream/burns/burns/livetv.epg/starz.comedy.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Starz Edge
+https://starlite.best/api/stream/burns/burns/livetv.epg/starz.edge.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Showtime East
+https://starlite.best/api/stream/burns/burns/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Showtime 2
+https://starlite.best/api/stream/burns/burns/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Showtime Extreme
+https://starlite.best/api/stream/burns/burns/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",Showtime Next
+https://starlite.best/api/stream/burns/burns/livetv.epg/showtime.next.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",MoviePlex
+https://starlite.best/api/stream/burns/burns/livetv.epg/movies.us.m3u8
+#EXTINF:-1,group-title="USA",HDNet Movies
+https://starlite.best/api/stream/burns/burns/livetv.epg/hdnet.movies.us.m3u8
+#EXTINF:-1,group-title="USA",HBO
+https://starlite.best/api/stream/burns/burns/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",HBO 2
+https://starlite.best/api/stream/burns/burns/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",HBO Signature
+https://starlite.best/api/stream/burns/burns/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
+#EXTINF:-1,group-title="USA",HBO Zone
+https://starlite.best/api/stream/burns/burns/livetv.epg/hbo.zone.east.us.m3u8
+#EXTINF:-1,group-title="USA",HBO Comedy
+https://starlite.best/api/stream/burns/burns/livetv.epg/hbo.comedy.east.us.m3u8
+#EXTINF:-1,group-title="USA",EPIX
+https://starlite.best/api/stream/burns/burns/livetv.epg/epix.east.us.m3u8
+#EXTINF:-1,group-title="USA",EPIX 2
+https://starlite.best/api/stream/burns/burns/livetv.epg/epix2.east.us.m3u8
+#EXTINF:-1,group-title="USA",EPIX Drive-in
+https://starlite.best/api/stream/burns/burns/livetv.epg/epix.drive.in.us.m3u8
+#EXTINF:-1,group-title="USA",EPIX Hits
+https://starlite.best/api/stream/burns/burns/livetv.epg/epix.hits.us.m3u8
+#EXTINF:-1,group-title="USA",Sony Ten 1
+https://starlite.best/api/stream/burns/burns/livetv.epg/sony.ten.1.in.m3u8
+#EXTINF:-1,group-title="USA",Sony Ten 2
+https://starlite.best/api/stream/burns/burns/livetv.epg/sony.ten.2.in.m3u8
+#EXTINF:-1,group-title="USA",Sony Ten 3
+https://starlite.best/api/stream/burns/burns/livetv.epg/sony.ten.3.in.m3u8

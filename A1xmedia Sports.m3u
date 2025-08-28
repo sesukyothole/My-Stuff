@@ -1,0 +1,141 @@
+#EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"
+
+#EXTGRP:A1xmedia CA Sports
+#EXTINF:-1  tvg-name="Sportsnet 360 FHD" tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/8YNVKqC.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet 360 FHD
+https://a1xs.vip/6000014
+#EXTINF:-1  tvg-name="Sportsnet One FHD" tvg-id="Sportsnet.One.ca" tvg-logo="https://i.imgur.com/SxBnZN0.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet One FHD
+https://a1xs.vip/6000012
+#EXTINF:-1  tvg-name="Sportsnet Ontario FHD" tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://i.imgur.com/o6Ct6Ce.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet Ontario FHD
+https://a1xs.vip/6000011
+#EXTINF:-1  tvg-name="Sportsnet West" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://i.imgur.com/GAlu4gn.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet West
+https://a1xs.vip/6000015
+#EXTINF:-1  tvg-name="Sportsnet World FHD" tvg-id="Sportsnet.World.ca" tvg-logo="https://i.imgur.com/EJy8K7F.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet World FHD
+https://a1xs.vip/6000013
+#EXTINF:-1  tvg-name="TSN1" tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/xF3cHNd.png" group-title="A1xmedia CA Sports" radio="false",TSN1
+https://a1xs.vip/6000001
+#EXTINF:-1  tvg-name="TSN2" tvg-id="TSN2.ca" tvg-logo="https://i.imgur.com/iTSoxQW.png" group-title="A1xmedia CA Sports" radio="false",TSN2
+https://a1xs.vip/6000002
+#EXTINF:-1  tvg-name="TSN3" tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/dPMY5Kc.png" group-title="A1xmedia CA Sports" radio="false",TSN3
+https://a1xs.vip/6000003
+#EXTINF:-1  tvg-name="TSN4" tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/9EInDNq.png" group-title="A1xmedia CA Sports" radio="false",TSN4
+https://a1xs.vip/6000004
+#EXTINF:-1  tvg-name="TSN5" tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/houBcHX.png" group-title="A1xmedia CA Sports" radio="false",TSN5
+https://a1xs.vip/6000005
+
+#EXTGRP:A1xmedia US Sports
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" group-title="US Channels",TNT FHD
+#EXTINF:-1  tvg-name="ACC Network HD" tvg-id="ACC.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/acc-nw.png" group-title="A1xmedia US Sports" radio="false",ACC Network HD
+https://a1xs.vip/40000016
+#EXTINF:-1  tvg-name="Altitude Sports" tvg-id="Altitude.Sports.-.Denver.us" tvg-logo="https://pixvid.org/images/2025/02/20/altitude-sports.png" group-title="A1xmedia US Sports" radio="false",Altitude Sports
+https://a1xs.vip/40000048
+#EXTINF:-1  tvg-name="Big Ten Network" tvg-id="Big.Ten.Network.us" tvg-logo="https://pixvid.org/images/2025/02/12/big-ten.png" group-title="A1xmedia US Sports" radio="false",Big Ten Network
+https://a1xs.vip/40000047
+#EXTINF:-1  tvg-name="CBS Sports Golazo Network" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://pixvid.org/images/2025/02/06/golazo.png" group-title="A1xmedia US Sports" radio="false",CBS Sports Golazo Network
+https://a1xs.vip/4000009
+#EXTINF:-1  tvg-name="CBS Sports HQ" tvg-id="plex.tv.CBS.Sports.HQ.plex" tvg-logo="https://pixvid.org/images/2025/01/31/CBS_Sports_HQ.png" group-title="A1xmedia US Sports" radio="false",CBS Sports HQ FHD
+https://a1xs.vip/4000007
+#EXTINF:-1  tvg-name="CBS Sports Network" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://pixvid.org/images/2025/01/15/cbs-sports.png" group-title="A1xmedia US Sports" radio="false",CBS Sports Network
+https://a1xs.vip/4000008
+#EXTINF:-1  tvg-name="Chicago Sports Network" tvg-id="Chicago.Sports.Network.us" tvg-logo="https://i.imgur.com/wJvwsKH.png" group-title="A1xmedia US Sports" radio="false",Chicago Sports Network
+https://a1xs.vip/4000049
+#EXTINF:-1  tvg-name="ESPN HD" tvg-id="ESPN.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="A1xmedia US Sports" radio="false",ESPN HD
+https://a1xs.vip/40000011
+#EXTINF:-1  tvg-name="ESPN News HD" tvg-id="ESPN.News.us" tvg-logo="https://pixvid.org/images/2025/01/25/espnews.png" group-title="A1xmedia US Sports" radio="false",ESPN News HD
+https://a1xs.vip/40000014
+#EXTINF:-1  tvg-name="ESPN2 HD" tvg-id="ESPN2.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-2.png" group-title="A1xmedia US Sports" radio="false",ESPN2 HD
+https://a1xs.vip/40000012
+#EXTINF:-1  tvg-name="ESPNU HD" tvg-id="ESPN.U.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-u.png" group-title="A1xmedia US Sports" radio="false",ESPNU HD
+https://a1xs.vip/40000013
+#EXTINF:-1  tvg-name="FanDuel Sports Florida" tvg-id="FanDuel.Sports.Network.Florida.us" tvg-logo="https://pixvid.org/images/2025/02/08/FanDuel_Florida.png" group-title="A1xmedia US Sports" radio="false",FanDuel Sports Florida
+https://a1xs.vip/4000050
+#EXTINF:-1  tvg-name="FanDuel Sports Midwest" tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_Midwest.png" group-title="A1xmedia US Sports" radio="false",FanDuel Sports Midwest
+https://a1xs.vip/4000054
+#EXTINF:-1  tvg-name="FanDuel Sports North" tvg-id="FanDuel.Sports.Network.North.us" tvg-logo="https://pixvid.org/images/2025/02/13/FanDuel_North.png" group-title="A1xmedia US Sports" radio="false",FanDuel Sports North
+https://a1xs.vip/4000057
+#EXTINF:-1  tvg-name="FanDuel Sports South" tvg-id="FanDuel.Sports.Network.South.us" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_South.png" group-title="A1xmedia US Sports" radio="false",FanDuel Sports South
+https://a1xs.vip/4000053
+#EXTINF:-1  tvg-name="FanDuel Sports Sun" tvg-id="Fanduel.Sports.Sun.us" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_Sun.png" group-title="A1xmedia US Sports" radio="false",FanDuel Sports Sun
+https://a1xs.vip/4000051
+#EXTINF:-1  tvg-name="FanDuel Sports West" tvg-id="FanDuel.Sports.Network.West.us" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_West.png" group-title="A1xmedia US Sports" radio="false",FanDuel Sports West
+https://a1xs.vip/4000052
+#EXTINF:-1  tvg-name="FanDuel Sports Wisconsin" tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel-Wisconsin.png" group-title="A1xmedia US Sports" radio="false",FanDuel Sports Wisconsin
+https://a1xs.vip/4000056
+#EXTINF:-1  tvg-name="FanDuel TV" tvg-id="FanDuel.TV.us" tvg-logo="https://pixvid.org/images/2025/02/07/fanduel_tv.png" group-title="A1xmedia US Sports" radio="false",FanDuel TV
+https://a1xs.vip/40000046
+#EXTINF:-1  tvg-name="FS1 HD" tvg-id="Fox.Sports.1.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="A1xmedia US Sports" radio="false",FS1 HD
+https://a1xs.vip/40000021
+#EXTINF:-1  tvg-name="FS2 HD" tvg-id="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="A1xmedia US Sports" radio="false",FS2 HD
+https://a1xs.vip/40000022
+#EXTINF:-1  tvg-name="Golf Channel USA FHD" tvg-id="Golf.Channel.USA.us" tvg-logo="https://pixvid.org/images/2025/02/18/golf-channel.png" group-title="A1xmedia US Sports" radio="false",Golf Channel USA FHD
+https://a1xs.vip/40000060
+#EXTINF:-1  tvg-name="Marquee Sports Network" tvg-id="Marquee.Sports.Network.us" tvg-logo="https://pixvid.org/images/2025/02/06/marquee-sn.png" group-title="A1xmedia US Sports" radio="false",Marquee Sports Network
+https://a1xs.vip/4000010
+#EXTINF:-1  tvg-name="MLB Network" tvg-id="MLB.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/mlb-nw.png" group-title="A1xmedia US Sports" radio="false",MLB Network
+https://a1xs.vip/40000030
+#EXTINF:-1  tvg-name="MSG" tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="A1xmedia US Sports" radio="false",MSG FHD
+https://a1xs.vip/4000001
+#EXTINF:-1  tvg-name="MSG_PLUS" tvg-id="MSG.Plus.us" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="A1xmedia US Sports" radio="false",MSG_PLUS FHD
+https://a1xs.vip/4000002
+#EXTINF:-1  tvg-name="NBA TV" tvg-id="NBA.TV.USA.us" tvg-logo="https://pixvid.org/images/2025/01/25/nba-tv.png" group-title="A1xmedia US Sports" radio="false",NBA TV
+https://a1xs.vip/40000031
+#EXTINF:-1  tvg-name="NBC Sports Bay Area" tvg-id="NBC.Sports.Bay.Area.us" tvg-logo="https://i.imgur.com/lxdcjBQ.png" group-title="A1xmedia US Sports" radio="false",NBC Sports Bay Area
+https://a1xs.vip/400050
+#EXTINF:-1  tvg-name="NBC Sports Philadelphia" tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-logo="https://i.imgur.com/ClsPpm6.png" group-title="A1xmedia US Sports" radio="false",NBC Sports Philadelphia
+https://a1xs.vip/400051
+#EXTINF:-1  tvg-name="NESN FHD" tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="A1xmedia US Sports" radio="false",NESN FHD
+https://a1xs.vip/4000004
+#EXTINF:-1  tvg-name="NFL Network" tvg-id="NFL.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-nw.png" group-title="A1xmedia US Sports" radio="false",NFL Network
+https://a1xs.vip/40000032
+#EXTINF:-1  tvg-name="NFL RedZone" tvg-id="NFL.RedZone.us" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-rz.png" group-title="A1xmedia US Sports" radio="false",NFL RedZone
+https://a1xs.vip/40000033
+#EXTINF:-1  tvg-name="NHL Network" tvg-id="NHL.Network.USA.us" tvg-logo="https://pixvid.org/images/2025/01/25/nhl-nw.png" group-title="A1xmedia US Sports" radio="false",NHL Network
+https://a1xs.vip/40000034
+#EXTINF:-1  tvg-name="SEC ESPN Network HD" tvg-id="SEC.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/sec-nw.png" group-title="A1xmedia US Sports" radio="false",SEC Network HD
+https://a1xs.vip/40000015
+#EXTINF:-1  tvg-name="Spectrum Sportsnet" tvg-id="Spectrum.SportsNet.us" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="A1xmedia US Sports" radio="false",Spectrum Sportsnet FHD
+https://a1xs.vip/4000006
+#EXTINF:-1  tvg-name="Spectrum Sportsnet" tvg-id="Spectrum.Sportsnet.Dodgers.us" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="A1xmedia US Sports" radio="false",Spectrum Sportsnet LA Dodgers
+https://a1xs.vip/400052
+#EXTINF:-1  tvg-name="Spectrum Sportsnet" tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="A1xmedia US Sports" radio="false",Spectrum Sportsnet Lakers
+https://a1xs.vip/400053
+#EXTINF:-1  tvg-name="SportsNet NY FHD" tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-logo="https://pixvid.org/images/2025/02/05/Sportsnet_NY.png" group-title="A1xmedia US Sports" radio="false",SportsNet NY FHD
+https://a1xs.vip/40000045
+#EXTINF:-1  tvg-name="Tennis Channel FHD" tvg-id="The.Tennis.Channel.us" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="A1xmedia US Sports" radio="false",Tennis Channel FHD
+https://a1xs.vip/40000040
+#EXTINF:-1  tvg-name="Tennis Channel Plus FHD" tvg-id="The.Tennis.Channel.us" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="A1xmedia US Sports" radio="false",Tennis Channel Plus FHD
+https://a1xs.vip/40000041
+#EXTINF:-1  tvg-name="Willow Cricket FHD" tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-logo="https://pixvid.org/images/2025/02/04/willow.png" group-title="A1xmedia US Sports" radio="false",Willow Cricket FHD
+https://a1xs.vip/40000042
+#EXTINF:-1  tvg-name="Willow Cricket Xtra FHD" tvg-id="Willow.Xtra.us" tvg-logo="https://pixvid.org/images/2025/02/04/willow-xtra.png" group-title="A1xmedia US Sports" radio="false",Willow Cricket Xtra
+https://a1xs.vip/40000043
+
+#EXTGRP:A1xmedia World Sports
+#EXTINF:-1  tvg-name="Star Sports Select 1 FHD" tvg-id="STAR.SPORTS.SELECT.1.HD.in" tvg-logo="https://i.imgur.com/VFyADIN.png" group-title="A1xmedia World Sports" radio="false",Star Sports Select 1 FHD
+https://a1xs.vip/8000011
+#EXTINF:-1  tvg-name="Star Sports Select 2 FHD" tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-logo="https://i.imgur.com/6u2iOjA.png" group-title="A1xmedia World Sports" radio="false",Star Sports Select 2 FHD
+https://a1xs.vip/8000012
+
+#EXTGRP:A1xmedia UK Sports
+#EXTINF:-1  tvg-name="TNT Sports 1 FHD" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="A1xmedia UK Sports" radio="false",TNT Sports 1 FHD
+https://a1xs.vip/2000021
+#EXTINF:-1  tvg-name="TNT Sports 2 FHD" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="A1xmedia UK Sports" radio="false",TNT Sports 2 FHD
+https://a1xs.vip/2000022
+#EXTINF:-1  tvg-name="TNT Sports 3 FHD" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://i.imgur.com/z1d9M65.png" group-title="A1xmedia UK Sports" radio="false",TNT Sports 3 FHD
+https://a1xs.vip/2000023
+#EXTINF:-1  tvg-name="TNT Sports 4 FHD" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="A1xmedia UK Sports" radio="false",TNT Sports 4 FHD
+https://a1xs.vip/2000024
+#EXTINF:-1  tvg-name="TNT Sports Ultimate UHD" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="A1xmedia UK Sports" radio="false",TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+
+#EXTGRP:A1xmedia Live Event | PPV
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 1
+https://a1xs.vip/ppv1
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 2
+https://a1xs.vip/ppv2
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 3
+https://a1xs.vip/ppv3
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 4
+https://a1xs.vip/ppv4
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 5
+https://a1xs.vip/ppv5
+
