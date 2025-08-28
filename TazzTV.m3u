@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-08-27T12:46:58.738010 UTC
+# Generated on 2025-08-28T19:03:26.829939 UTC
 
 # 📺 Source: https://world-proxifier.xyz/tazz/playlist?timezone=pdt
 
@@ -271,25 +271,259 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcRUQcUGV8rL0ErRUZ
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazz.tv/uploads/eptemplates/icons/4muvs7CtAQoMYfgzvemNSMXNeHWwrB0YEHyYgThO5DsdIn6SMS.png" ,DAZN LaLiga
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcRUQcPEQECAhErIVQwRUhKVysTVDAJCl8cWgFGGkBCRjA0.m3u8
 
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Wuhan Open - Snooker [TNT SPORTS 2 UK]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxsoJ0YrL0ErRUZfTCsdQStSMlhIRVQfO0xLQSZaUF46OkhXOSs6.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,TV Coverage - US Open 2025 [SKY SPORTS TENNIS HD]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMD9CXkVAMCdGKy9BK0VGX0wrHUErX1NBCDozVzlITFdaJlRHXloKIExFVAAlGxAwNA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Wuhan Open - Snooker [MAX-1]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYUMCFaJV5IREIwE1olSTxDRl5aBDVXRVooQV5FNCFGTDcwNA==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,TV Coverage - US Open 2025 [SKY SPORTS + HD]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMDtJJz4rL0ErRUZfTCsdQStfU0EIOjNXOUhMV1omVEdeWgogTEVUACUbEDA0.m3u8
 
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Wuhan Open - Snooker [MAX-2]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYVMCFaJV5IREIwE1olSTxDRl5aBDVXRVooQV5FNCFGTDcwNA==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,TV Coverage - US Open 2025 [TSN 1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRolOlorS1NETCUIWitRRloINCZMOUZZTFooQVxeVB87TEtBGyUVBSs0.m3u8
 
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Wuhan Open - Snooker [MAX-3]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYWMCFaJV5IREIwE1olSTxDRl5aBDVXRVooQV5FNCFGTDcwNA==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,TV Coverage - US Open 2025 [TSN 3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRglOlorS1NETCUIWitRRloINCZMOUZZTFooQVxeVB87TEtBGyUVBSs0.m3u8
 
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Wuhan Open - Snooker [MAX-4]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYXMCFaJV5IREIwE1olSTxDRl5aBDVXRVooQV5FNCFGTDcwNA==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,TV Coverage - US Open 2025 [TSN 4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRklOlorS1NETCUIWitRRloINCZMOUZZTFooQVxeVB87TEtBGyUVBSs0.m3u8
 
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png" ,Lithuania - Great Britain [EUROBASKET HD 1]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToUMCFaJV5IREIwE1olGkA_TSdIRU5TWiZUFzlMRiRaCzdbP0hOXis0.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,TV Coverage - US Open 2025 [ESPN]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UlOlorS1NETCUIWitRRloINCZMOUZZTFooQVxeVB87TEtBGyUVBSs0.m3u8
 
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png" ,Portugal - Czech Republic [EUROBASKET HD 2]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToVMCFaJV5IREIwE1olQDo5MSdCSElBJloGKkxOTUFZTDUnSUdOVSs0.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,TV Coverage - US Open 2025 [ESPN 2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UVMCFaJV5IREIwE1olRF1aBiE9TDdTQkxUPVpcUEEEO0JeWhsrAB4rOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,TV Coverage - US Open 2025 [ESPN DEPORTES]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0VBVzs6NyRMPiU6WitLU0RMJQhaK1FGWgg0Jkw5RllMWihBXF5UHztMS0EbJRUFKzQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,TV Coverage - US Open 2025 [ESPN-EVENT-8]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmHSU6WitLU0RMJQhaK1FGWgg0Jkw5RllMWihBXF5UHztMS0EbJRUFKzQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,TV Coverage - US Open 2025 [ESPN-EVENT-6]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmHyU6WitLU0RMJQhaK1FGWgg0Jkw5RllMWihBXF5UHztMS0EbJRUFKzQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/Yw35V1u2ZYrjhK9vwEex0w26ZUiDNkUCjKylgvxsNQoN1kSiBn.png" ,Diamond League - Athletics [SPORT TV3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFjAhWiVeSERCMBNaJRJASEohRU9UGkxITCdMWihBCj9NXEw_TlU-Kzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Majchrzak K. - Khachanov K. [ESPN-EVENT-10]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGiswIVolXkhEQjATWiUdSEFAWDkxRl1aAClBJloOWEhOTVNFOjNBACclLw==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Majchrzak K. - Khachanov K. [TENNIS 12]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRobJTpaK0tTREwlCForCFNBTk0iMUhIQQAnVD1aAE1TTkNGXjo9VBsnKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Cobolli F. - Brooksby J. [ESPN-EVENT-11]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGhQwIVolXkhEQjATWiUTOkk0XEdAVBQnWihBCzk0IUY-RytaAykwNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Cobolli F. - Brooksby J. [TENNIS 4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRkrL0ErRUZfTCsdQSsINFI6R0lbWg8pQSZaBSI6OkglSTBUGCcrOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Cerundolo F. - Riedi L. [ESPN-EVENT-13]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGhYwIVolXkhEQjATWiUTTDkyXk86SSFaDylBJlpXW0xPTkEBJyUv.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Cerundolo F. - Riedi L. [TENNIS 5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJR4rL0ErRUZfTCsdQSsIQiI8RUEhRzpUFCdaKEFZQEJUQFoPPCs0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Shapovalov D. - Royer V. [ESPN-EVENT-3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGCU6WitLU0RMJQhaK1BYSDs0JkhHNCZaCSlBJlpXITBMN0FdJyUv.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Shapovalov D. - Royer V. [TENNIS 8]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJR0rL0ErRUZfTCsdQSteTVM7OjNTRzozQQknVD1aWTQrTDlURicrOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Stearns P. - Fręch M. [ESPN-EVENT-4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGSU6WitLU0RMJQhaK1AkTEg3Xj5aVTxaJlQUOVcyPhoaHFVDWgg8KzQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Stearns P. - Fręch M. [TENNIS 7]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRwrL0ErRUZfTCsdQSteMVdIOUslWlspQSZaASJXPCsBGhJAWFoGKTA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Kostyuk M. - Sönmez Z. [ESPN-EVENT-7]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmHCU6WitLU0RMJQhaKw4hPj8-J0ZaCDxaJlRFVzwrPk0fS19MMVRKJys6.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Kostyuk M. - Sönmez Z. [TENNIS 13]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRoYJTpaK0tTREwlCForDiE-Pz4nRloIPFomVEVXPCs-TR9LX0wxVEonKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Birrell K / Gadecki O - Parks A / Yastremska D [ESPN-EVENT-9]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmEiU6WitLU0RMJQhaKwVbOTlCXEdaDkEkWgJTT0xAXUBaCkEmWlVTOUYwQQpaKkFQSDAkOUxKJUZIVBIrNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Birrell K / Gadecki O - Parks A / Yastremska D [TENNIS 14]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRoZJTpaK0tTREwlCForBVs5OUJcR1oOQSRaAlNPTEBdQFoKQSZaVVM5RjBBCloqQVBIMCQ5TEolRkhUEis0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Detiuc A / Pridankina E - Guo H / Panova A [ESPN-EVENT-5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmHiU6WitLU0RMJQhaKwdXP0AyVVoKVD9aWzdbT0hLXUBFRkEOWihBDDw0QQ1aKkFbSEshPUhUESs0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Detiuc A / Pridankina E - Guo H / Panova A [TENNIS 16]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRofJTpaK0tTREwlCForB1c_QDJVWgpUP1pbN1tPSEtdQEVGQQ5aKEEMPDRBDVoqQVtISyE9SFQRKzQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Popyrin A. - Sinner J. [ESPN-EVENT-14]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGhcwIVolXkhEQjATWiVAOjs-IkBFVBEnWihBXkBLXkw5VBgnKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Popyrin A. - Sinner J. [ESPN]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UlOlorS1NETCUIWitVITswN1tFWgQ8WiZURUBFS1c5Wg08KzQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Popyrin A. - Sinner J. [TSN 3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRglOlorS1NETCUIWitVITswN1tFWgQ8WiZURUBFS1c5Wg08KzQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Popyrin A. - Sinner J. [TENNIS 1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRorL0ErRUZfTCsdQStbNCAwOU5eWgopQSZaUFtFRUIiWgMpMDQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/NiYQYdpDC4jwnTgbsdzJ40D26MuFVJdJsNrUuOTd9P84rVAfcI.png" ,Hamrun Spartans FC - RFS [SOCCER 8]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzAhTk5CIh0rL0ErRUZfTCsdQSsNRl85PEtBXjtGIj9ISyVaDwZBJlpXFF4rOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/NiYQYdpDC4jwnTgbsdzJ40D26MuFVJdJsNrUuOTd9P84rVAfcI.png" ,FC Lausanne-Sport - Beşiktaş JK [SPORT1 DE]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzAgOjkxAU9MJTpaK0tTREwlCForARNaAUYnPkhLXkwmUCA6OTFBJloFV1c8KwEeTU5dP0hZJyUaEFZaAw4wNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/NiYQYdpDC4jwnTgbsdzJ40D26MuFVJdJsNrUuOTd9P84rVAfcI.png" ,FC Lausanne-Sport - Beşiktaş JK [SOCCER 4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzAhTk5CIhkrL0ErRUZfTCsdQSsPBkEBSDIlSEVLVyZeNSE5P1Q9WgtCTDwlFAVNQEgkSFcyPhoeQ0EDACUv.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VQsxK6iukuCWN55o5gYqGNG1K83aaa4xcmaUB2sCuqJgsqnpm6.png" ,Panathinaikos - Samsunspor [SOCCER 6]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzAhTk5CIh8rL0ErRUZfTCsdQStbRl5IP01bRUhOXTo-VD1aXkZfPjxLJTs6NzA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Baltimore Orioles - Boston Red Sox [SN EAST]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBeTEgwJCshVDBFSEpXKxNUMAtISSRARDQiTFoKIkA6SVc-WihBCzowJDpFVEJMT1RFOjMlLw==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Baltimore Orioles - Boston Red Sox [TNT SPORTS 2 UK]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxsoJ0YrL0ErRUZfTCsdQSsLRlw_QEohOUxUHzlANFxMPlQ9Wgs0JT86S0FZTEFBXjo9MDQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Baltimore Orioles - Boston Red Sox [MASN]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0pTPkUlOlorS1NETCUIWisFU0c_Tl86OUJBBDlOIUdMMEEmWgUhPj80XlpZQlRaXjQoKzQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Baltimore Orioles - Boston Red Sox [NESN]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0tXPkUUACshVDBFSEpXKxNUMAtISSRARDQiTFoKIkA6SVc-WihBCzowJDpFVEJMT1RFOjMlLw==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Baltimore Orioles - Boston Red Sox [SN ONTARIO]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBeOkUxUzlANDAhWiVeSERCMBNaJRBIRzFbRDo3V1oEN1s6R0IlWiZUEDo-MSFFWldXT1pQITMrOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Baltimore Orioles - Boston Red Sox [SN PACIFIC]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBeO0hAW01AQDAhWiVeSERCMBNaJRBIRzFbRDo3V1oEN1s6R0IlWiZUEDo-MSFFWldXT1pQITMrOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Baltimore Orioles - Boston Red Sox [SN WEST]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBeMkwwJCshVDBFSEpXKxNUMAtISSRARDQiTFoKIkA6SVc-WihBCzowJDpFVEJMT1RFOjMlLw==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Baltimore Orioles - Boston Red Sox [MLB-EVENT-7]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgaCyYARg4HUT0cKy9BK0VGX0wrHUErC0ZcP0BKITlMVB85QDRcTD5UPVoLNCU_OktBWUxBQV46PTA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Muchová K. - Cîrstea S. [ESPN-EVENT-1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGiU6WitLU0RMJQhaKwgnTkM0Jlc8Kz5MGlQbJ1ooQQhXMj4lTEIiPj9CU1peKTA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Muchová K. - Cîrstea S. [TENNIS 3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRgrL0ErRUZfTCsdQSsGMlVDOjNMPCUrVxpaDjxaJlQTVzwrPkxMNyU_TEZBXiclLw==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/NiYQYdpDC4jwnTgbsdzJ40D26MuFVJdJsNrUuOTd9P84rVAfcI.png" ,Levski Sofia - AZ Alkmaar [SOCCER 5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzAhTk5CIh4rL0ErRUZfTCsdQSsBQiY-Rk5BXjpDW0haKEEKUVQRR0ZKU0g5JS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VQsxK6iukuCWN55o5gYqGNG1K83aaa4xcmaUB2sCuqJgsqnpm6.png" ,HNK Rijeka - PAOK [MAX SPORT 1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0pTMz41ITk_FDAhWiVeSERCMBNaJRYHAFRCQEFCXUhaKEFbCgobKzQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Siegemund L. - Zakharova A. [ESPN-EVENT-2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGyU6WitLU0RMJQhaK1BbTEJCXzxFQUEBJ1Q9WlFGXUNINyE9SFQRJys6.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Siegemund L. - Zakharova A. [TENNIS 11]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRoaJTpaK0tTREwlCForUFtMQkJfPEVBQQEnVD1aUUZdQ0g3IT1IVBEnKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/NiYQYdpDC4jwnTgbsdzJ40D26MuFVJdJsNrUuOTd9P84rVAfcI.png" ,RSC Anderlecht - AEK Athens [SOCCER 7]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzAhTk5CIhwrL0ErRUZfTCsdQStZUBNaCktUTDlJV05DMUEmWgQVAFoEJENMSyUrNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/NiYQYdpDC4jwnTgbsdzJ40D26MuFVJdJsNrUuOTd9P84rVAfcI.png" ,RC Strasbourg - Brøndby IF [SOCCER 2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzAhTk5CIhsrL0ErRUZfTCsdQStZBkFePzdTPkk0JzlCVD1aCzdMPCUrVh1FQVIwWgwUKzQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VQsxK6iukuCWN55o5gYqGNG1K83aaa4xcmaUB2sCuqJgsqnpm6.png" ,ŠK Slovan Bratislava - Young Boys [SOCCER 1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzAhTk5CIhorL0ErRUZfTCsdQStXMj4aHysbWl5JIT1IS0ELOUYkQD5JUz1IVD1aUDQnRUJUEDowMDA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Lamens S / Lys E - Kudermetova V / Mertens E [ESPN-EVENT-4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGSU6WitLU0RMJQhaKw9TRExLJVpeVD9aAT4lWg5UPVoAMlRMOUpXPzozU1pdVD9aBkIiP0xLJVoOJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Lamens S / Lys E - Kudermetova V / Mertens E [TENNIS 7]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRwrL0ErRUZfTCsdQSsBRl9MRTBBXloqQQEwMEEOWihBADxBVzlEQiQ6PUZBXVoqQQZMNyRMRTBBDis6.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Andreeva M / Shnaider D - Dart H / Putintseva Y [ESPN-EVENT-7]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmHCU6WitLU0RMJQhaKwReTzlCVz1IVB1aJFRFQ0VGW09MN0EJWihBCUg3JFoNVD9aWzIkQEUxJUw9RkFQKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Andreeva M / Shnaider D - Dart H / Putintseva Y [TENNIS 13]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRoYJTpaK0tTREwlCForBF5POUJXPUhUHVokVEVDRUZbT0w3QQlaKEEJSDckWg1UP1pbMiRARTElTD1GQVArOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Kichenok N / Sutjiadi A - Siniakova K / Townsend T [ESPN-EVENT-9]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmEiU6WitLU0RMJQhaKw5bTkNCXjpGVBxaJFRFPD9PW0hPTkEKWihBXkBLW0hGNCZIWg5BJFpRITJFMFdFT1REKzQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Kichenok N / Sutjiadi A - Siniakova K / Townsend T [TENNIS 14]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRoZJTpaK0tTREwlCForDltOQ0JeOkZUHFokVEU8P09bSE9OQQpaKEFeQEtbSEY0JkhaDkEkWlEhMkUwV0VPVEQrNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Babos T / Stefani L - Krejcikova B / Ostapenko J [ESPN-EVENT-5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmHiU6WitLU0RMJQhaKwVTSTowQV9aKkFeP0JWSEVOQQFaKEEAOUJaTkBIIT1IVBBaJFQfPj9GIExFSCFaAyUv.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Babos T / Stefani L - Krejcikova B / Ostapenko J [TENNIS 16]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRofJTpaK0tTREwlCForBVNJOjBBX1oqQV4_QlZIRU5BAVooQQA5QlpOQEghPUhUEFokVB8-P0YgTEVIIVoDJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Milwaukee Brewers - Arizona Diamondbacks [MLB-EVENT-10]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgaCyYARg4HUT0aJSU6WitLU0RMJQhaKwhbRzJGJ0ZMQkELOUIpTDkwQSZaBCJAMTReSFoHW0hENF5PSUZVRj4lLw==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Houston Astros - Colorado Rockies [SPACE CITY HOME NETWORK]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzAgSE5CPU5AMSsmQ0swIVolXkhEQjATWiUWOjwwJDpFVBE-PzchPlooQQg6SSE5SEEhWlk0VUZAQiUrNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Houston Astros - Colorado Rockies [ROCKIES]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0pcSSZAIUc6N1NPOiU6WitLU0RMJQhaKwMhPD4xIUVaBCU_OTQlWiZUEzpHNCJITzRBWTpAXUBMMDA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Houston Astros - Colorado Rockies [MLB-EVENT-8]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgaCyYARg4HUT0dKy9BK0VGX0wrHUErDTQnPj80XloKMCQ5OjBBJloGIUc6N1NPOlRCOk5IW0w-JS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Stanford Cardinal - Pittsburgh Pirates [SPORTSNET PITTSBURGH]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzAgOjkxJUVMMT07QDEkPkkyIkJDJTpaK0tTREwlCForUCRIRUMhOU9UE0g5QVtFSElBJlpVWz8_MFI8OUxYWltOIkg_QiUrNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Stanford Cardinal - Pittsburgh Pirates [MLB-EVENT-11]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgaCyYARg4HUT0aGiU6WitLU0RMJQhaK1AkSEVDITlPVBNIOUFbRUhJQSZaVVs_PzBSPDlMWFpbTiJIP0IlKzQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Munar J. - Diallo G. [ESPN-EVENT-3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGCU6WitLU0RMJQhaKwgnRUg3QQMnVD1aCU5TR0c0QQwnJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Munar J. - Diallo G. [TENNIS 8]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJR0rL0ErRUZfTCsdQSsGMl5IOVQYJ1ooQQlARlxHOlQXJys6.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png" ,Italy - Greece [EUROBASKET HD 5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToQMCFaJV5IREIwE1olGT9ISStaJlQXOUxCVUwrOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png" ,Poland - Slovenia [EUROBASKET HD 6]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToRMCFaJV5IREIwE1olQDpHRl5PWihBXkc0JkxFTlMrNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Parry D. - Zarazúa R. [ESPN-EVENT-13]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGhYwIVolXkhEQjATWiVASDk3K1oJKUEmWl9TOUg_TDwlK1ZISFRCJys6.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Parry D. - Zarazúa R. [TENNIS 5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJR4rL0ErRUZfTCsdQStbRiI5MFQSJ1ooQVFIN1MxVzI-JU1GU1pZKTA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Krueger A. - Cristian J. [ESPN-EVENT-10]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGiswIVolXkhEQjATWiUbOTxCWUw5VBEnWihBCDlOJT9ARl5aAykwNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Krueger A. - Cristian J. [TENNIS 12]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRobJTpaK0tTREwlCForDiI8TExXOVoEPFomVBM5QDAkQEhLQQMnJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/NiYQYdpDC4jwnTgbsdzJ40D26MuFVJdJsNrUuOTd9P84rVAfcI.png" ,Rosenborg BK - 1. FSV Mainz 05 [SOCCER 4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzAhTk5CIhkrL0ErRUZfTCsdQStZNCVMRUchOUJUEABaKEEaJ1QUXl1UHUhASypaJRAwNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/NiYQYdpDC4jwnTgbsdzJ40D26MuFVJdJsNrUuOTd9P84rVAfcI.png" ,Hibernian - Legia Warszawa [SOCCER 3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzAhTk5CIhgrL0ErRUZfTCsdQSsNTlJMOUtbSEVUPVoBQllASFRJSDkwKkgyRjA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/NiYQYdpDC4jwnTgbsdzJ40D26MuFVJdJsNrUuOTd9P84rVAfcI.png" ,CD Santa Clara - Shamrock Rovers [SPORT TV2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFTAhWiVeSERCMBNaJRMJWlBTRT9GQQhHRiJIWihBXkNGXzk6QF1aWTQmTDkwMDQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VQsxK6iukuCWN55o5gYqGNG1K83aaa4xcmaUB2sCuqJgsqnpm6.png" ,Lincoln Red Imps - SC Braga [SPORT TV1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFDAhWiVeSERCMBNaJRpARUAhR0VUQkxPVBlEOzBBJlpQE1oLN1NCSCUv.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VQsxK6iukuCWN55o5gYqGNG1K83aaa4xcmaUB2sCuqJgsqnpm6.png" ,Lincoln Red Imps - SC Braga [SPORT TV5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dEDAhWiVeSERCMBNaJRpARUAhR0VUQkxPVBlEOzBBJlpQE1oLN1NCSCUv.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Rakhimova K. - Kasatkina D. [ESPN-EVENT-11]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGhQwIVolXkhEQjATWiVCSEZNW0Q6M1NaAClBJloOUz5IMV1ARUZBCSclLw==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Rakhimova K. - Kasatkina D. [TENNIS 4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRkrL0ErRUZfTCsdQStZRl1DQEohPUhUGydaKEEASDBTP0ZOXkhaBzwrNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Kichenok L / Perez E - Fernandez L / Williams V [ESPN-EVENT-1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGiU6WitLU0RMJQhaKw5bTkNCXjpGVBpaJFRATDlCKloOVD1aD0IiRUhLVEwxVBpaJFRJQEdJW0hEMEFdKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Kichenok L / Perez E - Fernandez L / Williams V [TENNIS 3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRgrL0ErRUZfTCsdQSsATlVDTEshRloPQSRaVVc5TD9BDlooQQ9MN15IRUFXMVoPQSRaXFtHR05TRD5URis0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Dabrowski G / Routliffe E - Skoch M / Vondrousova M [ESPN-EVENT-2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGyU6WitLU0RMJQhaKwdTSTk0KT5GTkEMWipBWToyJEdAQ1ZMWgBBJlpQXTpOTUEGWipBXTpLVDk6MiU6PUZBBis6.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png" ,Dabrowski G / Routliffe E - Skoch M / Vondrousova M [TENNIS 11]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXRUVOJRoaJTpaK0tTREwlCForB1NJOTQpPkZOQQxaKkFZOjIkR0BDVkxaAEEmWlBdOk5NQQZaKkFdOktUOToyJTo9RkEGKzo=.m3u8
 
 
