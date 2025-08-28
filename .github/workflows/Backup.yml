@@ -28,8 +28,8 @@ jobs:
 
       - name: 🎯 Run scraping script
         run: |
-          echo "▶ Running Backup with_epg.py..."
-          python Backup with_epg.py
+          echo "▶ Running Backup.py..."
+          python Backup.py
           echo "✅ Script finished."
 
       - name: 💾 Commit & Push if Playlist Changed
