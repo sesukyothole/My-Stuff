@@ -42,7 +42,7 @@ jobs:
           git add DaddyLive.m3u
 
           if git diff --cached --quiet; then
-            echo "✅ No changes detected in DaddyLive — skipping commit."
+            echo "✅ No changes detected in DaddyLive.m3u — skipping commit."
             exit 0
           fi
 
