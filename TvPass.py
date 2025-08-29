@@ -1,4 +1,4 @@
-name: 🔄 Force Update TazzTV Playlist
+name: 🔄 Force Update TvPass Playlist
 
 on:
   schedule:
@@ -60,3 +60,4 @@ jobs:
               exit 1
             }
           fi
+
