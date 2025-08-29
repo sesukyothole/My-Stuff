@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-08-29T09:09:48.096163 UTC
+# Generated on 2025-08-29T10:09:48.948556 UTC
 
 # 📺 Source: https://world-proxifier.xyz/tazz/playlist?timezone=pdt
 
@@ -280,7 +280,22 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxsoJ0YrL0ErRUZ
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Wuhan Open - Snooker [MAX-1]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYUMCFaJV5IREIwE1olSTxDRl5aBDVXRVooQV5FNCFGTDcwNA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/294.png" ,Parramatta Eels - New Zealand Warriors [FOX SOCCER PLUS]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0MlOk5AVzk7SSc-Ky9BK0VGX0wrHUErW0YiOUhKUz8_RkEOTEklWiZUHEwyVEpMSElTRU9USUg5N1s6OTAwNA==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Wuhan Open - Snooker [MAX-3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYWMCFaJV5IREIwE1olSTxDRl5aBDVXRVooQV5FNCFGTDcwNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/294.png" ,Sydney Roosters - Melbourne Storm [SKY SPORTS ACTION HD]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMEhAJEA6SydGKy9BK0VGX0wrHUErXj5URUw-QVk6NCU_TDclWiZUHUxHRyE8OUtXWl4xITlEJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/294.png" ,Sydney Roosters - Melbourne Storm [FOX SOCCER PLUS]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0MlOk5AVzk7SSc-Ky9BK0VGX0wrHUErXj5URUw-QVk6NCU_TDclWiZUHUxHRyE8OUtXWl4xITlEJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/uTIsNgoWyjgxQZ8MOasKX08LQ1x513ntz1bpLxBoAuYhtRmEdW.png" ,Dutch Grand Prix - Formula 1 [SKY SPORTS F1 HD ]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdME0UJ0YrL0ErRUZfTCsdQSsJMiROQ1QXOUhLVFpbN1szWihBDzo3XzxHRkEaKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/uTIsNgoWyjgxQZ8MOasKX08LQ1x513ntz1bpLxBoAuYhtRmEdW.png" ,Dutch Grand Prix - Formula 1 [ESPN 2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UVMCFaJV5IREIwE1olEjw_QFhaDDdTRU9UQDlAPUEmWgEhOUQyXEhaFDA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png" ,Sweden - Germany [EUROBASKET HD 1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToUMCFaJV5IREIwE1olRTJMQVdFWihBDEw3X0hFPjA0.m3u8
 
 
