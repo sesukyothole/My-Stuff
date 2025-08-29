@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-08-29T22:21:31.311654 UTC
+# Generated on 2025-08-29T23:20:58.867696 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/Mac2M3uPlaylist_SPORT.m3u
 #EXTINF:-1 tvg-id="skysportsmaineventfhd" tvg-name="Sky Sports Main Event FHD" tvg-logo="http://wizardapks.co.uk/picons/SkySports/SSME.png" ,Sky Sports Main Event FHD
@@ -1481,7 +1481,7 @@ http://groundhogday.in:80/live/Jok123/Jok123/5648321.ts
 http://groundhogday.in:80/live/Jok123/Jok123/5648320.ts
 #EXTINF:-1 tvg-id="modussuperseriesdarts" tvg-name="MODUS Super Series Darts" tvg-logo="https://yt3.googleusercontent.com/m6Gov53Ugv-_dYrmVjAMyQHv-WrfwUtbz1NHn5MG2NiWIow_3B6IybNnw3rLBQUF866pDl2bmA=s900-c-k-c0x00ffffff-no-rj" ,MODUS Super Series Darts
 http://groundhogday.in:80/live/Jok123/Jok123/7344510.ts
-#EXTINF:-1 tvg-id="ws01:2025fladersdartstrophydayone12:00" tvg-name="WS01: 2025 Fladers Darts Trophy - Day One 12:00" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" ,WS01: 2025 Fladers Darts Trophy - Day One 12:00
+#EXTINF:-1 tvg-id="ws01:2025fladersdartstrophydaytwo12:00" tvg-name="WS01: 2025 Fladers Darts Trophy - Day Two 12:00" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" ,WS01: 2025 Fladers Darts Trophy - Day Two 12:00
 http://groundhogday.in:80/live/Jok123/Jok123/1008004.ts
 #EXTINF:-1 tvg-id="ws02:" tvg-name="WS02:" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbolZ9mx8EfcFpwA7_X7gc1_-LMwUQeQR6A6rkoz7UU_VCSal5DqclF4LdRbocqj0P_H4&usqp=CAU" ,WS02:
 http://groundhogday.in:80/live/Jok123/Jok123/1008003.ts
