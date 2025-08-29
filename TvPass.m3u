@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 
-# Generated on 2025-08-29T15:08:07.809408 UTC
+# Generated on 2025-08-29T16:11:29.237991 UTC
 
 # 📺 Source: https://tvpass.org/playlist/m3u
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" ,A&E US Eastern Feed SD
@@ -711,116 +711,116 @@ https://tvpass.org/live/WPIX/hd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network HD" ,Yes Network HD
 https://tvpass.org/live/yes-network/hd
-#EXTINF:-1 tvg-id="" tvg-name="Boston Red Sox @ Baltimore Orioles (08/28 1:06 PM ET) SD" ,Boston Red Sox @ Baltimore Orioles (08/28 1:06 PM ET) SD
-https://tvpass.org/live/mlb-17/sd
-#EXTINF:-1 tvg-id="" tvg-name="Boston Red Sox @ Baltimore Orioles (08/28 1:06 PM ET) HD" ,Boston Red Sox @ Baltimore Orioles (08/28 1:06 PM ET) HD
-https://tvpass.org/live/mlb-17/hd
-#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Milwaukee Brewers (08/28 2:10 PM ET) SD" ,Arizona Diamondbacks @ Milwaukee Brewers (08/28 2:10 PM ET) SD
-https://tvpass.org/live/mlb-16/sd
-#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Milwaukee Brewers (08/28 2:10 PM ET) HD" ,Arizona Diamondbacks @ Milwaukee Brewers (08/28 2:10 PM ET) HD
-https://tvpass.org/live/mlb-16/hd
-#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies @ Houston Astros (08/28 2:11 PM ET) SD" ,Colorado Rockies @ Houston Astros (08/28 2:11 PM ET) SD
-https://tvpass.org/live/mlb-06/sd
-#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies @ Houston Astros (08/28 2:11 PM ET) HD" ,Colorado Rockies @ Houston Astros (08/28 2:11 PM ET) HD
-https://tvpass.org/live/mlb-06/hd
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ St. Louis Cardinals (08/28 2:16 PM ET) SD" ,Pittsburgh Pirates @ St. Louis Cardinals (08/28 2:16 PM ET) SD
-https://tvpass.org/live/mlb-08/sd
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ St. Louis Cardinals (08/28 2:16 PM ET) HD" ,Pittsburgh Pirates @ St. Louis Cardinals (08/28 2:16 PM ET) HD
-https://tvpass.org/live/mlb-08/hd
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Cubs @ San Francisco Giants (08/28 3:46 PM ET) SD" ,Chicago Cubs @ San Francisco Giants (08/28 3:46 PM ET) SD
-https://tvpass.org/live/mlb-27/sd
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Cubs @ San Francisco Giants (08/28 3:46 PM ET) HD" ,Chicago Cubs @ San Francisco Giants (08/28 3:46 PM ET) HD
-https://tvpass.org/live/mlb-27/hd
-#EXTINF:-1 tvg-id="" tvg-name="Boise State Broncos @ South Florida Bulls (08/28 5:30 PM ET) SD" ,Boise State Broncos @ South Florida Bulls (08/28 5:30 PM ET) SD
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="" tvg-name="Boise State Broncos @ South Florida Bulls (08/28 5:30 PM ET) HD" ,Boise State Broncos @ South Florida Bulls (08/28 5:30 PM ET) HD
-https://tvpass.org/live/ESPN/hd
-#EXTINF:-1 tvg-id="" tvg-name="Ohio Bobcats @ Rutgers Scarlet Knights (08/28 6:00 PM ET) SD" ,Ohio Bobcats @ Rutgers Scarlet Knights (08/28 6:00 PM ET) SD
-https://tvpass.org/live/BTN/sd
-#EXTINF:-1 tvg-id="" tvg-name="Ohio Bobcats @ Rutgers Scarlet Knights (08/28 6:00 PM ET) HD" ,Ohio Bobcats @ Rutgers Scarlet Knights (08/28 6:00 PM ET) HD
-https://tvpass.org/live/BTN/hd
-#EXTINF:-1 tvg-id="" tvg-name="Lafayette Leopards @ Bowling Green Falcons (08/28 6:05 PM ET) SD" ,Lafayette Leopards @ Bowling Green Falcons (08/28 6:05 PM ET) SD
-https://tvpass.org/live/NCAAF03/sd
-#EXTINF:-1 tvg-id="" tvg-name="Lafayette Leopards @ Bowling Green Falcons (08/28 6:05 PM ET) HD" ,Lafayette Leopards @ Bowling Green Falcons (08/28 6:05 PM ET) HD
-https://tvpass.org/live/NCAAF03/hd
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Braves @ Philadelphia Phillies (08/28 6:46 PM ET) SD" ,Atlanta Braves @ Philadelphia Phillies (08/28 6:46 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Tarleton State Texans @ Army Black Knights (08/29 6:00 PM ET) SD" ,Tarleton State Texans @ Army Black Knights (08/29 6:00 PM ET) SD
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="" tvg-name="Tarleton State Texans @ Army Black Knights (08/29 6:00 PM ET) HD" ,Tarleton State Texans @ Army Black Knights (08/29 6:00 PM ET) HD
+https://tvpass.org/live/CBSSportsNetworkUSA/hd
+#EXTINF:-1 tvg-id="" tvg-name="St. Louis Cardinals @ Cincinnati Reds (08/29 6:41 PM ET) SD" ,St. Louis Cardinals @ Cincinnati Reds (08/29 6:41 PM ET) SD
+https://tvpass.org/live/mlb-04/sd
+#EXTINF:-1 tvg-id="" tvg-name="St. Louis Cardinals @ Cincinnati Reds (08/29 6:41 PM ET) HD" ,St. Louis Cardinals @ Cincinnati Reds (08/29 6:41 PM ET) HD
+https://tvpass.org/live/mlb-04/hd
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Braves @ Philadelphia Phillies (08/29 6:46 PM ET) SD" ,Atlanta Braves @ Philadelphia Phillies (08/29 6:46 PM ET) SD
 https://tvpass.org/live/mlb-18/sd
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Braves @ Philadelphia Phillies (08/28 6:46 PM ET) HD" ,Atlanta Braves @ Philadelphia Phillies (08/28 6:46 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Braves @ Philadelphia Phillies (08/29 6:46 PM ET) HD" ,Atlanta Braves @ Philadelphia Phillies (08/29 6:46 PM ET) HD
 https://tvpass.org/live/mlb-18/hd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Mystics @ New York Liberty (08/28 7:00 PM ET) SD" ,Washington Mystics @ New York Liberty (08/28 7:00 PM ET) SD
-https://tvpass.org/live/WNBA01/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Mystics @ New York Liberty (08/28 7:00 PM ET) HD" ,Washington Mystics @ New York Liberty (08/28 7:00 PM ET) HD
-https://tvpass.org/live/WNBA01/hd
-#EXTINF:-1 tvg-id="" tvg-name="Wyoming Cowboys @ Akron Zips (08/28 7:00 PM ET) SD" ,Wyoming Cowboys @ Akron Zips (08/28 7:00 PM ET) SD
-https://tvpass.org/live/NCAAF06/sd
-#EXTINF:-1 tvg-id="" tvg-name="Wyoming Cowboys @ Akron Zips (08/28 7:00 PM ET) HD" ,Wyoming Cowboys @ Akron Zips (08/28 7:00 PM ET) HD
-https://tvpass.org/live/NCAAF06/hd
-#EXTINF:-1 tvg-id="" tvg-name="East Carolina Pirates @ NC State Wolfpack (08/28 7:00 PM ET) SD" ,East Carolina Pirates @ NC State Wolfpack (08/28 7:00 PM ET) SD
-https://tvpass.org/live/ACCNetwork/sd
-#EXTINF:-1 tvg-id="" tvg-name="East Carolina Pirates @ NC State Wolfpack (08/28 7:00 PM ET) HD" ,East Carolina Pirates @ NC State Wolfpack (08/28 7:00 PM ET) HD
-https://tvpass.org/live/ACCNetwork/hd
-#EXTINF:-1 tvg-id="" tvg-name="St. Francis (PA) Red Flash @ UL Monroe Warhawks (08/28 7:00 PM ET) SD" ,St. Francis (PA) Red Flash @ UL Monroe Warhawks (08/28 7:00 PM ET) SD
-https://tvpass.org/live/NCAAF07/sd
-#EXTINF:-1 tvg-id="" tvg-name="St. Francis (PA) Red Flash @ UL Monroe Warhawks (08/28 7:00 PM ET) HD" ,St. Francis (PA) Red Flash @ UL Monroe Warhawks (08/28 7:00 PM ET) HD
-https://tvpass.org/live/NCAAF07/hd
-#EXTINF:-1 tvg-id="" tvg-name="Delaware State Hornets @ Delaware Blue Hens (08/28 7:05 PM ET) SD" ,Delaware State Hornets @ Delaware Blue Hens (08/28 7:05 PM ET) SD
-https://tvpass.org/live/NCAAF10/sd
-#EXTINF:-1 tvg-id="" tvg-name="Delaware State Hornets @ Delaware Blue Hens (08/28 7:05 PM ET) HD" ,Delaware State Hornets @ Delaware Blue Hens (08/28 7:05 PM ET) HD
-https://tvpass.org/live/NCAAF10/hd
-#EXTINF:-1 tvg-id="" tvg-name="Jacksonville State Gamecocks @ UCF Knights (08/28 7:05 PM ET) SD" ,Jacksonville State Gamecocks @ UCF Knights (08/28 7:05 PM ET) SD
-https://tvpass.org/live/NCAAF08/sd
-#EXTINF:-1 tvg-id="" tvg-name="Jacksonville State Gamecocks @ UCF Knights (08/28 7:05 PM ET) HD" ,Jacksonville State Gamecocks @ UCF Knights (08/28 7:05 PM ET) HD
-https://tvpass.org/live/NCAAF08/hd
-#EXTINF:-1 tvg-id="" tvg-name="Miami Marlins @ New York Mets (08/28 7:11 PM ET) SD" ,Miami Marlins @ New York Mets (08/28 7:11 PM ET) SD
-https://tvpass.org/live/mlb-24/sd
-#EXTINF:-1 tvg-id="" tvg-name="Miami Marlins @ New York Mets (08/28 7:11 PM ET) HD" ,Miami Marlins @ New York Mets (08/28 7:11 PM ET) HD
-https://tvpass.org/live/mlb-24/hd
-#EXTINF:-1 tvg-id="" tvg-name="Central Arkansas Bears @ Missouri Tigers (08/28 7:30 PM ET) SD" ,Central Arkansas Bears @ Missouri Tigers (08/28 7:30 PM ET) SD
-https://tvpass.org/live/SECN/sd
-#EXTINF:-1 tvg-id="" tvg-name="Central Arkansas Bears @ Missouri Tigers (08/28 7:30 PM ET) HD" ,Central Arkansas Bears @ Missouri Tigers (08/28 7:30 PM ET) HD
-https://tvpass.org/live/SECN/hd
-#EXTINF:-1 tvg-id="" tvg-name="Elon Phoenix @ Duke Blue Devils (08/28 7:30 PM ET) SD" ,Elon Phoenix @ Duke Blue Devils (08/28 7:30 PM ET) SD
-https://tvpass.org/live/NCAAF12/sd
-#EXTINF:-1 tvg-id="" tvg-name="Elon Phoenix @ Duke Blue Devils (08/28 7:30 PM ET) HD" ,Elon Phoenix @ Duke Blue Devils (08/28 7:30 PM ET) HD
-https://tvpass.org/live/NCAAF12/hd
-#EXTINF:-1 tvg-id="" tvg-name="UT Martin Skyhawks @ Oklahoma State Cowboys (08/28 7:30 PM ET) SD" ,UT Martin Skyhawks @ Oklahoma State Cowboys (08/28 7:30 PM ET) SD
-https://tvpass.org/live/NCAAF14/sd
-#EXTINF:-1 tvg-id="" tvg-name="UT Martin Skyhawks @ Oklahoma State Cowboys (08/28 7:30 PM ET) HD" ,UT Martin Skyhawks @ Oklahoma State Cowboys (08/28 7:30 PM ET) HD
-https://tvpass.org/live/NCAAF14/hd
-#EXTINF:-1 tvg-id="" tvg-name="New York Yankees @ Chicago White Sox (08/28 7:41 PM ET) SD" ,New York Yankees @ Chicago White Sox (08/28 7:41 PM ET) SD
-https://tvpass.org/live/mlb-03/sd
-#EXTINF:-1 tvg-id="" tvg-name="New York Yankees @ Chicago White Sox (08/28 7:41 PM ET) HD" ,New York Yankees @ Chicago White Sox (08/28 7:41 PM ET) HD
-https://tvpass.org/live/mlb-03/hd
-#EXTINF:-1 tvg-id="" tvg-name="Buffalo Bulls @ Minnesota Golden Gophers (08/28 8:00 PM ET) SD" ,Buffalo Bulls @ Minnesota Golden Gophers (08/28 8:00 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays @ Washington Nationals (08/29 6:46 PM ET) SD" ,Tampa Bay Rays @ Washington Nationals (08/29 6:46 PM ET) SD
+https://tvpass.org/live/mlb-01/sd
+#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays @ Washington Nationals (08/29 6:46 PM ET) HD" ,Tampa Bay Rays @ Washington Nationals (08/29 6:46 PM ET) HD
+https://tvpass.org/live/mlb-01/hd
+#EXTINF:-1 tvg-id="" tvg-name="Western Michigan Broncos @ Michigan State Spartans (08/29 7:00 PM ET) SD" ,Western Michigan Broncos @ Michigan State Spartans (08/29 7:00 PM ET) SD
 https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id="" tvg-name="Buffalo Bulls @ Minnesota Golden Gophers (08/28 8:00 PM ET) HD" ,Buffalo Bulls @ Minnesota Golden Gophers (08/28 8:00 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Western Michigan Broncos @ Michigan State Spartans (08/29 7:00 PM ET) HD" ,Western Michigan Broncos @ Michigan State Spartans (08/29 7:00 PM ET) HD
 https://tvpass.org/live/FoxSports1/hd
-#EXTINF:-1 tvg-id="" tvg-name="Stephen F. Austin Lumberjacks @ Houston Cougars (08/28 8:00 PM ET) SD" ,Stephen F. Austin Lumberjacks @ Houston Cougars (08/28 8:00 PM ET) SD
-https://tvpass.org/live/NCAAF15/sd
-#EXTINF:-1 tvg-id="" tvg-name="Stephen F. Austin Lumberjacks @ Houston Cougars (08/28 8:00 PM ET) HD" ,Stephen F. Austin Lumberjacks @ Houston Cougars (08/28 8:00 PM ET) HD
-https://tvpass.org/live/NCAAF15/hd
-#EXTINF:-1 tvg-id="" tvg-name="Seattle Storm @ Minnesota Lynx (08/28 8:00 PM ET) SD" ,Seattle Storm @ Minnesota Lynx (08/28 8:00 PM ET) SD
-https://tvpass.org/live/WNBA02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Seattle Storm @ Minnesota Lynx (08/28 8:00 PM ET) HD" ,Seattle Storm @ Minnesota Lynx (08/28 8:00 PM ET) HD
-https://tvpass.org/live/WNBA02/hd
-#EXTINF:-1 tvg-id="" tvg-name="Alabama State Hornets @ UAB Blazers (08/28 8:30 PM ET) SD" ,Alabama State Hornets @ UAB Blazers (08/28 8:30 PM ET) SD
-https://tvpass.org/live/NCAAF18/sd
-#EXTINF:-1 tvg-id="" tvg-name="Alabama State Hornets @ UAB Blazers (08/28 8:30 PM ET) HD" ,Alabama State Hornets @ UAB Blazers (08/28 8:30 PM ET) HD
-https://tvpass.org/live/NCAAF18/hd
-#EXTINF:-1 tvg-id="" tvg-name="Nebraska Cornhuskers @ Cincinnati Bearcats (08/28 9:00 PM ET) SD" ,Nebraska Cornhuskers @ Cincinnati Bearcats (08/28 9:00 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Kennesaw State Owls @ Wake Forest Demon Deacons (08/29 7:00 PM ET) SD" ,Kennesaw State Owls @ Wake Forest Demon Deacons (08/29 7:00 PM ET) SD
+https://tvpass.org/live/ACCNetwork/sd
+#EXTINF:-1 tvg-id="" tvg-name="Kennesaw State Owls @ Wake Forest Demon Deacons (08/29 7:00 PM ET) HD" ,Kennesaw State Owls @ Wake Forest Demon Deacons (08/29 7:00 PM ET) HD
+https://tvpass.org/live/ACCNetwork/hd
+#EXTINF:-1 tvg-id="" tvg-name="Bethune-Cookman Wildcats @ Florida International Panthers (08/29 7:00 PM ET) SD" ,Bethune-Cookman Wildcats @ Florida International Panthers (08/29 7:00 PM ET) SD
+https://tvpass.org/live/NCAAF05/sd
+#EXTINF:-1 tvg-id="" tvg-name="Bethune-Cookman Wildcats @ Florida International Panthers (08/29 7:00 PM ET) HD" ,Bethune-Cookman Wildcats @ Florida International Panthers (08/29 7:00 PM ET) HD
+https://tvpass.org/live/NCAAF05/hd
+#EXTINF:-1 tvg-id="" tvg-name="Appalachian State Mountaineers @ Charlotte 49ers (08/29 7:00 PM ET) SD" ,Appalachian State Mountaineers @ Charlotte 49ers (08/29 7:00 PM ET) SD
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="" tvg-name="Appalachian State Mountaineers @ Charlotte 49ers (08/29 7:00 PM ET) HD" ,Appalachian State Mountaineers @ Charlotte 49ers (08/29 7:00 PM ET) HD
+https://tvpass.org/live/ESPNU/hd
+#EXTINF:-1 tvg-id="" tvg-name="Milwaukee Brewers @ Toronto Blue Jays (08/29 7:08 PM ET) SD" ,Milwaukee Brewers @ Toronto Blue Jays (08/29 7:08 PM ET) SD
+https://tvpass.org/live/mlb-12/sd
+#EXTINF:-1 tvg-id="" tvg-name="Milwaukee Brewers @ Toronto Blue Jays (08/29 7:08 PM ET) HD" ,Milwaukee Brewers @ Toronto Blue Jays (08/29 7:08 PM ET) HD
+https://tvpass.org/live/mlb-12/hd
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ Boston Red Sox (08/29 7:11 PM ET) SD" ,Pittsburgh Pirates @ Boston Red Sox (08/29 7:11 PM ET) SD
+https://tvpass.org/live/mlb-22/sd
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ Boston Red Sox (08/29 7:11 PM ET) HD" ,Pittsburgh Pirates @ Boston Red Sox (08/29 7:11 PM ET) HD
+https://tvpass.org/live/mlb-22/hd
+#EXTINF:-1 tvg-id="" tvg-name="Seattle Mariners @ Cleveland Guardians (08/29 7:11 PM ET) SD" ,Seattle Mariners @ Cleveland Guardians (08/29 7:11 PM ET) SD
+https://tvpass.org/live/mlb-30/sd
+#EXTINF:-1 tvg-id="" tvg-name="Seattle Mariners @ Cleveland Guardians (08/29 7:11 PM ET) HD" ,Seattle Mariners @ Cleveland Guardians (08/29 7:11 PM ET) HD
+https://tvpass.org/live/mlb-30/hd
+#EXTINF:-1 tvg-id="" tvg-name="Miami Marlins @ New York Mets (08/29 7:11 PM ET) SD" ,Miami Marlins @ New York Mets (08/29 7:11 PM ET) SD
+https://tvpass.org/live/mlb-24/sd
+#EXTINF:-1 tvg-id="" tvg-name="Miami Marlins @ New York Mets (08/29 7:11 PM ET) HD" ,Miami Marlins @ New York Mets (08/29 7:11 PM ET) HD
+https://tvpass.org/live/mlb-24/hd
+#EXTINF:-1 tvg-id="" tvg-name="Dallas Wings @ Atlanta Dream (08/29 7:30 PM ET) SD" ,Dallas Wings @ Atlanta Dream (08/29 7:30 PM ET) SD
+https://tvpass.org/live/WNBA01/sd
+#EXTINF:-1 tvg-id="" tvg-name="Dallas Wings @ Atlanta Dream (08/29 7:30 PM ET) HD" ,Dallas Wings @ Atlanta Dream (08/29 7:30 PM ET) HD
+https://tvpass.org/live/WNBA01/hd
+#EXTINF:-1 tvg-id="" tvg-name="Wagner Seahawks @ Kansas Jayhawks (08/29 7:30 PM ET) SD" ,Wagner Seahawks @ Kansas Jayhawks (08/29 7:30 PM ET) SD
+https://tvpass.org/live/NCAAF09/sd
+#EXTINF:-1 tvg-id="" tvg-name="Wagner Seahawks @ Kansas Jayhawks (08/29 7:30 PM ET) HD" ,Wagner Seahawks @ Kansas Jayhawks (08/29 7:30 PM ET) HD
+https://tvpass.org/live/NCAAF09/hd
+#EXTINF:-1 tvg-id="" tvg-name="Western Illinois Leathernecks @ Illinois Fighting Illini (08/29 7:30 PM ET) SD" ,Western Illinois Leathernecks @ Illinois Fighting Illini (08/29 7:30 PM ET) SD
+https://tvpass.org/live/NCAAF10/sd
+#EXTINF:-1 tvg-id="" tvg-name="Western Illinois Leathernecks @ Illinois Fighting Illini (08/29 7:30 PM ET) HD" ,Western Illinois Leathernecks @ Illinois Fighting Illini (08/29 7:30 PM ET) HD
+https://tvpass.org/live/NCAAF10/hd
+#EXTINF:-1 tvg-id="" tvg-name="New York Yankees @ Chicago White Sox (08/29 7:41 PM ET) SD" ,New York Yankees @ Chicago White Sox (08/29 7:41 PM ET) SD
+https://tvpass.org/live/mlb-03/sd
+#EXTINF:-1 tvg-id="" tvg-name="New York Yankees @ Chicago White Sox (08/29 7:41 PM ET) HD" ,New York Yankees @ Chicago White Sox (08/29 7:41 PM ET) HD
+https://tvpass.org/live/mlb-03/hd
+#EXTINF:-1 tvg-id="" tvg-name="Auburn Tigers @ Baylor Bears (08/29 8:00 PM ET) SD" ,Auburn Tigers @ Baylor Bears (08/29 8:00 PM ET) SD
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="" tvg-name="Auburn Tigers @ Baylor Bears (08/29 8:00 PM ET) HD" ,Auburn Tigers @ Baylor Bears (08/29 8:00 PM ET) HD
+https://tvpass.org/live/WNYWDT1/hd
+#EXTINF:-1 tvg-id="" tvg-name="Georgia Tech Yellow Jackets @ Colorado Buffaloes (08/29 8:00 PM ET) SD" ,Georgia Tech Yellow Jackets @ Colorado Buffaloes (08/29 8:00 PM ET) SD
 https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="" tvg-name="Nebraska Cornhuskers @ Cincinnati Bearcats (08/28 9:00 PM ET) HD" ,Nebraska Cornhuskers @ Cincinnati Bearcats (08/28 9:00 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Georgia Tech Yellow Jackets @ Colorado Buffaloes (08/29 8:00 PM ET) HD" ,Georgia Tech Yellow Jackets @ Colorado Buffaloes (08/29 8:00 PM ET) HD
 https://tvpass.org/live/ESPN/hd
-#EXTINF:-1 tvg-id="" tvg-name="Miami (OH) RedHawks @ Wisconsin Badgers (08/28 9:00 PM ET) SD" ,Miami (OH) RedHawks @ Wisconsin Badgers (08/28 9:00 PM ET) SD
-https://tvpass.org/live/BTN/sd
-#EXTINF:-1 tvg-id="" tvg-name="Miami (OH) RedHawks @ Wisconsin Badgers (08/28 9:00 PM ET) HD" ,Miami (OH) RedHawks @ Wisconsin Badgers (08/28 9:00 PM ET) HD
-https://tvpass.org/live/BTN/hd
-#EXTINF:-1 tvg-id="" tvg-name="Stony Brook Seawolves @ San Diego State Aztecs (08/28 10:00 PM ET) SD" ,Stony Brook Seawolves @ San Diego State Aztecs (08/28 10:00 PM ET) SD
-https://tvpass.org/live/NCAAF21/sd
-#EXTINF:-1 tvg-id="" tvg-name="Stony Brook Seawolves @ San Diego State Aztecs (08/28 10:00 PM ET) HD" ,Stony Brook Seawolves @ San Diego State Aztecs (08/28 10:00 PM ET) HD
-https://tvpass.org/live/NCAAF21/hd
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Sky @ Phoenix Mercury (08/28 10:00 PM ET) SD" ,Chicago Sky @ Phoenix Mercury (08/28 10:00 PM ET) SD
-https://tvpass.org/live/WNBA03/sd
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Sky @ Phoenix Mercury (08/28 10:00 PM ET) HD" ,Chicago Sky @ Phoenix Mercury (08/28 10:00 PM ET) HD
-https://tvpass.org/live/WNBA03/hd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Angels @ Houston Astros (08/29 8:10 PM ET) SD" ,Los Angeles Angels @ Houston Astros (08/29 8:10 PM ET) SD
+https://tvpass.org/live/mlb-06/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Angels @ Houston Astros (08/29 8:10 PM ET) HD" ,Los Angeles Angels @ Houston Astros (08/29 8:10 PM ET) HD
+https://tvpass.org/live/mlb-06/hd
+#EXTINF:-1 tvg-id="" tvg-name="San Diego Padres @ Minnesota Twins (08/29 8:11 PM ET) SD" ,San Diego Padres @ Minnesota Twins (08/29 8:11 PM ET) SD
+https://tvpass.org/live/mlb-20/sd
+#EXTINF:-1 tvg-id="" tvg-name="San Diego Padres @ Minnesota Twins (08/29 8:11 PM ET) HD" ,San Diego Padres @ Minnesota Twins (08/29 8:11 PM ET) HD
+https://tvpass.org/live/mlb-20/hd
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Tigers @ Kansas City Royals (08/29 8:11 PM ET) SD" ,Detroit Tigers @ Kansas City Royals (08/29 8:11 PM ET) SD
+https://tvpass.org/live/mlb-05/sd
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Tigers @ Kansas City Royals (08/29 8:11 PM ET) HD" ,Detroit Tigers @ Kansas City Royals (08/29 8:11 PM ET) HD
+https://tvpass.org/live/mlb-05/hd
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Cubs @ Colorado Rockies (08/29 8:41 PM ET) SD" ,Chicago Cubs @ Colorado Rockies (08/29 8:41 PM ET) SD
+https://tvpass.org/live/mlb-25/sd
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Cubs @ Colorado Rockies (08/29 8:41 PM ET) HD" ,Chicago Cubs @ Colorado Rockies (08/29 8:41 PM ET) HD
+https://tvpass.org/live/mlb-25/hd
+#EXTINF:-1 tvg-id="" tvg-name="UNLV Rebels @ Sam Houston State Bearkats (08/29 9:30 PM ET) SD" ,UNLV Rebels @ Sam Houston State Bearkats (08/29 9:30 PM ET) SD
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="" tvg-name="UNLV Rebels @ Sam Houston State Bearkats (08/29 9:30 PM ET) HD" ,UNLV Rebels @ Sam Houston State Bearkats (08/29 9:30 PM ET) HD
+https://tvpass.org/live/CBSSportsNetworkUSA/hd
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Fever @ Los Angeles Sparks (08/29 10:00 PM ET) SD" ,Indiana Fever @ Los Angeles Sparks (08/29 10:00 PM ET) SD
+https://tvpass.org/live/WNBA02/sd
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Fever @ Los Angeles Sparks (08/29 10:00 PM ET) HD" ,Indiana Fever @ Los Angeles Sparks (08/29 10:00 PM ET) HD
+https://tvpass.org/live/WNBA02/hd
+#EXTINF:-1 tvg-id="" tvg-name="Texas Rangers @ Oakland Athletics (08/29 10:06 PM ET) SD" ,Texas Rangers @ Oakland Athletics (08/29 10:06 PM ET) SD
+https://tvpass.org/live/mlb-19/sd
+#EXTINF:-1 tvg-id="" tvg-name="Texas Rangers @ Oakland Athletics (08/29 10:06 PM ET) HD" ,Texas Rangers @ Oakland Athletics (08/29 10:06 PM ET) HD
+https://tvpass.org/live/mlb-19/hd
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Los Angeles Dodgers (08/29 10:11 PM ET) SD" ,Arizona Diamondbacks @ Los Angeles Dodgers (08/29 10:11 PM ET) SD
+https://tvpass.org/live/mlb-14/sd
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Los Angeles Dodgers (08/29 10:11 PM ET) HD" ,Arizona Diamondbacks @ Los Angeles Dodgers (08/29 10:11 PM ET) HD
+https://tvpass.org/live/mlb-14/hd
+#EXTINF:-1 tvg-id="" tvg-name="Baltimore Orioles @ San Francisco Giants (08/29 10:15 PM ET) SD" ,Baltimore Orioles @ San Francisco Giants (08/29 10:15 PM ET) SD
+https://tvpass.org/live/mlb-27/sd
+#EXTINF:-1 tvg-id="" tvg-name="Baltimore Orioles @ San Francisco Giants (08/29 10:15 PM ET) HD" ,Baltimore Orioles @ San Francisco Giants (08/29 10:15 PM ET) HD
+https://tvpass.org/live/mlb-27/hd
+#EXTINF:-1 tvg-id="" tvg-name="Central Michigan Chippewas @ San Jose State Spartans (08/29 10:30 PM ET) SD" ,Central Michigan Chippewas @ San Jose State Spartans (08/29 10:30 PM ET) SD
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="" tvg-name="Central Michigan Chippewas @ San Jose State Spartans (08/29 10:30 PM ET) HD" ,Central Michigan Chippewas @ San Jose State Spartans (08/29 10:30 PM ET) HD
+https://tvpass.org/live/FoxSports1/hd
 
