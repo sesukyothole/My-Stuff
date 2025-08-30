@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-08-30T12:46:39.807283 UTC
+# Generated on 2025-08-30T13:26:59.024485 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 
@@ -13298,12 +13298,26 @@ https://jmp2.uk/stvp-US270000298
 #EXTGRP:RBTV - BADMINTON
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp"  tvg-id="24.7.Dummy.us",World Championships, Mixed Doubles - Thom Gicquel/Delphine Delrue Vs Chen Tang Jie/Toh Ee Wei [VDO]
 https://world-proxifier.xyz/rbtv/channel/12/2001/1975214/615201.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp"  tvg-id="24.7.Dummy.us",World Championships, Women Doubles - Nami Matsuyama/Chiharu Shida Vs Pearly Tan/Thinaah Muralitharan [VDO]
-https://world-proxifier.xyz/rbtv/channel/12/2001/1975213/615200.m3u8
 
 #EXTGRP:RBTV - BASKETBALL
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Australia Big V League - Hume City Broncos Vs Mckinnon Cougars [SD]
-https://world-proxifier.xyz/rbtv/channel/2/3/1975145/261141.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",China National Basketball League - Hebei Xianglan Vs Hk Jinniu [SD]
+https://world-proxifier.xyz/rbtv/channel/2/3/1974653/261199.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Europe Basketball Championship - Czech Republic Vs Estonia [HDD A]
+https://world-proxifier.xyz/rbtv/channel/2/6/1973659/261205.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Europe Basketball Championship - Czech Republic Vs Estonia [HDD B ITALIANO]
+https://world-proxifier.xyz/rbtv/channel/2/6/1973659/261204.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Europe Basketball Championship - Czech Republic Vs Estonia [SD]
+https://world-proxifier.xyz/rbtv/channel/2/3/1973659/261200.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Europe Basketball Championship - Iceland Vs Belgium [HDD A]
+https://world-proxifier.xyz/rbtv/channel/2/6/1973660/261216.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Europe Basketball Championship - Iceland Vs Belgium [HDD B ITALIANO]
+https://world-proxifier.xyz/rbtv/channel/2/6/1973660/261217.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Europe Basketball Championship - Iceland Vs Belgium [SD]
+https://world-proxifier.xyz/rbtv/channel/2/3/1973660/261206.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Europe Basketball Championship - Italy Vs Georgia [HDD A]
+https://world-proxifier.xyz/rbtv/channel/2/6/1973661/261213.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Europe Basketball Championship - Italy Vs Georgia [HDD B ITALIANO]
+https://world-proxifier.xyz/rbtv/channel/2/6/1973661/261222.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Europe Basketball Championship - Lithuania Vs Germany [HDD A]
 https://world-proxifier.xyz/rbtv/channel/2/6/1973658/261189.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Europe Basketball Championship - Lithuania Vs Germany [HDD B DEUTSCH]
@@ -13312,10 +13326,6 @@ https://world-proxifier.xyz/rbtv/channel/2/6/1973658/261190.m3u8
 https://world-proxifier.xyz/rbtv/channel/2/3/1973658/261183.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Europe Basketball Championship - Lithuania Vs Germany [STREAM 32[HD]]
 https://world-proxifier.xyz/rbtv/channel/2/2/1973658/261186.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Korea Wkbl Summer Cup - Samsunglife Blueminx Vs Zaragoza Women [MOVISTAR]
-https://world-proxifier.xyz/rbtv/channel/2/2001/1975163/615257.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp"  tvg-id="24.7.Dummy.us",Philippines Mpbl - Basilan Viva Portmasters Vs Imus Sv Squad [SD]
-https://world-proxifier.xyz/rbtv/channel/2/3/1975379/261172.m3u8
 
 #EXTGRP:RBTV - CRICKET
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp"  tvg-id="24.7.Dummy.us",T20 Guernsey Tri-Series - Guernsey Vs Switzerland [STREAM 43[HD]]
@@ -13324,52 +13334,122 @@ https://world-proxifier.xyz/rbtv/channel/6/2/1973797/261173.m3u8
 #EXTGRP:RBTV - FIGHTING
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp"  tvg-id="24.7.Dummy.us",Byon Madness - Byon Madness [VDO]
 https://world-proxifier.xyz/rbtv/channel/14/2001/1975440/615276.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp"  tvg-id="24.7.Dummy.us",Rajadamnern 2025 Light Flyweight Title - Rajadamnern 2025 Vacant Bantamweight Title [VDO]
+https://world-proxifier.xyz/rbtv/channel/14/2001/1975442/615224.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp"  tvg-id="24.7.Dummy.us",Rws Muay Thai - Laempo Vs Duan 99 [HDD A]
+https://world-proxifier.xyz/rbtv/channel/14/6/1975443/261226.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp"  tvg-id="24.7.Dummy.us",Rws Muay Thai - Laempo Vs Duan 99 [HDD B]
+https://world-proxifier.xyz/rbtv/channel/14/6/1975443/261223.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp"  tvg-id="24.7.Dummy.us",Rws Muay Thai - Laempo Vs Duan 99 [HDD C ESPAÑOL]
+https://world-proxifier.xyz/rbtv/channel/14/6/1975443/261227.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp"  tvg-id="24.7.Dummy.us",Ucc Kickstriking Bout - Jaka Naibaho Vs  Wan Muhammad Sabri [VDO]
 https://world-proxifier.xyz/rbtv/channel/14/2001/1975439/615277.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp"  tvg-id="24.7.Dummy.us",Wbc Boxing Grand Prix - Singh Vs Jian Hao Ho [HDD B]
 https://world-proxifier.xyz/rbtv/channel/14/6/1975451/261178.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp"  tvg-id="24.7.Dummy.us",Wbc Boxing Grand Prix - Singh Vs Jian Hao Ho [HDD C ESPAÑOL]
+https://world-proxifier.xyz/rbtv/channel/14/6/1975451/261181.m3u8
 
 #EXTGRP:RBTV - FOOTBALL
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Australia Darwin Premier League - Darwin Hearts Vs Darwin Olympics [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4267832/295084.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Australia Ffa Cup - Heidelberg United Vs Auckland Fc [HDD A]
-https://world-proxifier.xyz/rbtv/channel/1/6/4264514/295027.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Australia Ffa Cup - Heidelberg United Vs Auckland Fc [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4264514/295022.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Austrian Frauen Bundesliga - Lask Linz (W) Vs Red Bull Salzburg (W) [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4218520/295051.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Belarusian First League - Fk Orsha Vs Osipovichy [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4171818/295096.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Belarusian First League - Lokomotiv Gomel Vs Fk Lida [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4171815/295085.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Belarusian Premier League - Smorgon Fc Vs Maxline Vitebsk [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4150704/295135.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us", Road Race -  Session 1, From Ronse, Belgium. [SKA]
 https://world-proxifier.xyz/rbtv/channel/1/2001/4268934/615230.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us", Road Race -  Session 2, From Ronse, Belgium. [SKA]
+https://world-proxifier.xyz/rbtv/channel/1/2001/4268935/615235.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Cfa Women'S Super League - Wuhan Jianghan(W) Vs Guangdong(W) [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4141378/295145.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Chinese Football League 2 - Ganzhou Ruishi Vs Jiangxi Lushan [SD]
 https://world-proxifier.xyz/rbtv/channel/1/3/4262693/295091.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Chinese Football League 2 - Tai'An Tiankuang Vs Guangxi Lanhang Football Club [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4262127/295037.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Chinese Hong Kong Premier League - Lee Man Vs Tai Po [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4265048/295083.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Danish Division 3 Group A - Holbaek Vs Bk Frem [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4218863/295099.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Danish Division 3 Group A - Vegar Vs Odder Igf [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4218872/295100.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Ger Jbh - Bayer Leverkusen U19 Vs Vfl Bochum U19 [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4245491/295104.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Chinese Football Super League - Chengdu Rongcheng Fc Vs Shanghai Port Fc [MOVISTAR]
+https://world-proxifier.xyz/rbtv/channel/1/2001/4123344/614876.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Chinese Football Super League - Chengdu Rongcheng Fc Vs Shanghai Port Fc [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4123344/295144.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Chinese Football Super League - Yunnan Yukun Vs Changchun Yatai Fc [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4123348/295164.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Danish 1St Division - Middelfart Boldklub Vs Lyngby [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4198007/295183.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Danish 2Nd Division - Skive Ik Vs Hik Hellerup [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4206917/295184.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Football League Championship - Middlesbrough Vs Sheffield United [HDD A]
+https://world-proxifier.xyz/rbtv/channel/1/6/4203053/295154.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Football League Championship - Middlesbrough Vs Sheffield United [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4203053/295131.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Football League Championship - Middlesbrough Vs Sheffield United [SKA]
+https://world-proxifier.xyz/rbtv/channel/1/2001/4203053/614919.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Football League Championship - Middlesbrough Vs Sheffield United [STREAM 9[HD]]
+https://world-proxifier.xyz/rbtv/channel/1/2/4203053/295138.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Football League Championship - Queens Park Rangers Vs Charlton Athletic [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4204745/295132.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Football League Championship - Stoke City Vs West Bromwich Albion [HDD A]
+https://world-proxifier.xyz/rbtv/channel/1/6/4203276/295156.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Football League Championship - Stoke City Vs West Bromwich Albion [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4203276/295129.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Football League Championship - Stoke City Vs West Bromwich Albion [STREAM 15[HD]]
+https://world-proxifier.xyz/rbtv/channel/1/2/4203276/295141.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Football League One - Cardiff City Vs Plymouth Argyle [HDD A]
+https://world-proxifier.xyz/rbtv/channel/1/6/4204743/295157.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Football League One - Cardiff City Vs Plymouth Argyle [STREAM 18[HD]]
+https://world-proxifier.xyz/rbtv/channel/1/2/4204743/295142.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English National League - Solihull Moors Vs Southend United [HDD A]
+https://world-proxifier.xyz/rbtv/channel/1/6/4219359/295160.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Premier League - Chelsea Vs Fulham [DAZN ES]
+https://world-proxifier.xyz/rbtv/channel/1/2001/4220558/615301.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Premier League - Chelsea Vs Fulham [HDD A]
+https://world-proxifier.xyz/rbtv/channel/1/6/4220558/295148.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Premier League - Chelsea Vs Fulham [HDD C ESPAÑOL]
+https://world-proxifier.xyz/rbtv/channel/1/6/4220558/295150.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Premier League - Chelsea Vs Fulham [HDD D DEUTSCH]
+https://world-proxifier.xyz/rbtv/channel/1/6/4220558/295151.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Premier League - Chelsea Vs Fulham [HDD E FRANÇAIS]
+https://world-proxifier.xyz/rbtv/channel/1/6/4220558/295158.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Premier League - Chelsea Vs Fulham [HDD F ITALIANO]
+https://world-proxifier.xyz/rbtv/channel/1/6/4220558/295152.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Premier League - Chelsea Vs Fulham [HDD G PORTUGUÊS]
+https://world-proxifier.xyz/rbtv/channel/1/6/4220558/295153.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Premier League - Chelsea Vs Fulham [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4220558/295136.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Premier League - Chelsea Vs Fulham [STREAM 27[HD]]
+https://world-proxifier.xyz/rbtv/channel/1/2/4220558/295139.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Premier League - Chelsea Vs Fulham [STREAM 27_FHD[FULL HD]]
+https://world-proxifier.xyz/rbtv/channel/1/2/4220558/295140.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",English Premier League - Chelsea Vs Fulham [VDO]
+https://world-proxifier.xyz/rbtv/channel/1/2001/4220558/614825.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Estonian Esiliiga - Nomme Jk Kalju Ii Vs Elva [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4144262/295180.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",French Ligue 2 - Bastia Vs Guingamp [HDD A FRANÇAIS]
+https://world-proxifier.xyz/rbtv/channel/1/6/4252563/295198.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",French Ligue 2 - Bastia Vs Guingamp [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4252563/295166.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",French Ligue 2 - Stade De Reims Vs Le Mans [HDD A]
+https://world-proxifier.xyz/rbtv/channel/1/6/4252566/295199.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",French Ligue 2 - Stade De Reims Vs Le Mans [HDD B FRANÇAIS]
+https://world-proxifier.xyz/rbtv/channel/1/6/4252566/295200.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",French Ligue 2 - Stade De Reims Vs Le Mans [STREAM 33[HD]]
+https://world-proxifier.xyz/rbtv/channel/1/2/4252566/295202.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German 3.Liga - 1. Fc Saarbrücken Vs Erzgebirge Aue [HDD A DEUTSCH]
+https://world-proxifier.xyz/rbtv/channel/1/6/4211163/295195.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German 3.Liga - Energie Cottbus Vs Fc Ingolstadt [HDD A]
+https://world-proxifier.xyz/rbtv/channel/1/6/4210729/295204.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German 3.Liga - Energie Cottbus Vs Fc Ingolstadt [HDD B DEUTSCH]
+https://world-proxifier.xyz/rbtv/channel/1/6/4210729/295205.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German 3.Liga - Energie Cottbus Vs Fc Ingolstadt [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4210729/295186.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German 3.Liga - Havelse Vs Vfl Osnabrück [HDD A DEUTSCH]
+https://world-proxifier.xyz/rbtv/channel/1/6/4211161/295196.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German 3.Liga - Sc Verl Vs Msv Duisburg [HDD A DEUTSCH]
+https://world-proxifier.xyz/rbtv/channel/1/6/4210751/295197.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German 3.Liga - Tsv 1860 München Vs Vfb Stuttgart Ii [HDD A DEUTSCH]
+https://world-proxifier.xyz/rbtv/channel/1/6/4210730/295194.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German Bundesliga 2 - Eintracht Braunschweig Vs Arminia Bielefeld [HDD A]
 https://world-proxifier.xyz/rbtv/channel/1/6/4206532/295123.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German Bundesliga 2 - Eintracht Braunschweig Vs Arminia Bielefeld [HDD B DEUTSCH]
 https://world-proxifier.xyz/rbtv/channel/1/6/4206532/295124.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German Bundesliga 2 - Eintracht Braunschweig Vs Arminia Bielefeld [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4206532/295101.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German Bundesliga 2 - Eintracht Braunschweig Vs Arminia Bielefeld [STREAM 22[HD]]
 https://world-proxifier.xyz/rbtv/channel/1/2/4206532/295112.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German Bundesliga 2 - Holstein Kiel Vs Hannover 96 [HDD A]
 https://world-proxifier.xyz/rbtv/channel/1/6/4210724/295121.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German Bundesliga 2 - Holstein Kiel Vs Hannover 96 [HDD B DEUTSCH]
 https://world-proxifier.xyz/rbtv/channel/1/6/4210724/295122.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German Bundesliga 2 - Holstein Kiel Vs Hannover 96 [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4210724/295102.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German Bundesliga 2 - Holstein Kiel Vs Hannover 96 [STREAM 23[HD]]
 https://world-proxifier.xyz/rbtv/channel/1/2/4210724/295111.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German Bundesliga 2 - Vfl Bochum 1848 Vs Preuben Munster [HDD A]
@@ -13380,140 +13460,102 @@ https://world-proxifier.xyz/rbtv/channel/1/6/4206632/295115.m3u8
 https://world-proxifier.xyz/rbtv/channel/1/3/4206632/295103.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",German Bundesliga 2 - Vfl Bochum 1848 Vs Preuben Munster [STREAM 24[HD]]
 https://world-proxifier.xyz/rbtv/channel/1/2/4206632/295127.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Indian Calcutta Football League - Diamond Harbour Fc Vs Rainbow Sc [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4267391/295020.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J1 League - Kyoto Sanga Vs Fagiano Okayama [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4105494/295038.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Indonesian Liga 1 - Bali United Vs Madura United [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4229473/295163.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Indonesian Liga 1 - Bali United Vs Madura United [VDO]
+https://world-proxifier.xyz/rbtv/channel/1/2001/4229473/614826.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Indonesian Liga 1 - Malut United Vs Psim Yogyakarta [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4229458/295167.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Indonesian Liga 1 - Malut United Vs Psim Yogyakarta [VDO]
+https://world-proxifier.xyz/rbtv/channel/1/2001/4229458/614827.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",International Club Friendly - Bayern Munchen Women Vs Vfl Wolfsburg Women [HDD A DEUTSCH]
+https://world-proxifier.xyz/rbtv/channel/1/6/4227782/295201.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J1 League - Kyoto Sanga Vs Fagiano Okayama [HDD A 日本語]
+https://world-proxifier.xyz/rbtv/channel/1/6/4105494/295069.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J1 League - Kyoto Sanga Vs Fagiano Okayama [STREAM 2[HD]]
 https://world-proxifier.xyz/rbtv/channel/1/2/4105494/295061.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J1 League - Vissel Kobe Vs Yokohama F. Marinos [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4105452/295036.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J1 League - Yokohama Fc Vs Tokyo Verdy [HDD A]
-https://world-proxifier.xyz/rbtv/channel/1/6/4105457/295024.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J1 League - Yokohama Fc Vs Tokyo Verdy [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4105457/295005.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J1 League - Yokohama Fc Vs Tokyo Verdy [STREAM 42[HD]]
-https://world-proxifier.xyz/rbtv/channel/1/2/4105457/295018.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J2 League - Imabari Fc Vs Iwaki Fc [HDD A 日本語]
-https://world-proxifier.xyz/rbtv/channel/1/6/4111455/295063.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J2 League - Imabari Fc Vs Iwaki Fc [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4111455/295044.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J2 League - Jef United Ichihara Chiba Vs Ventforet Kofu [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4111464/295040.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J2 League - Kataller Toyama Vs Roasso Kumamoto [HDD A 日本語]
-https://world-proxifier.xyz/rbtv/channel/1/6/4111512/295028.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J2 League - Kataller Toyama Vs Roasso Kumamoto [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4111512/295021.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J2 League - Mito Hollyhock Vs Renofa Yamaguchi [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4111470/295004.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J2 League - Montedio Yamagata Vs Sagan Tosu [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4111472/295039.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J2 League - Tokushima Vortis Vs Blaublitz Akita [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4111465/295033.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J3 League - Azul Claro Numazu Vs Tochigi City [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4111762/295008.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J3 League - Fc Gifu Vs Fc Ryukyu Okinawa [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4111537/295046.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J3 League - Fc Osaka Vs Sc Sagamihara [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4111421/295002.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J3 League - Tochigi Sc Vs Nara Club [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4111751/295047.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Japanese J2 League - Jef United Ichihara Chiba Vs Ventforet Kofu [HDD A 日本語]
+https://world-proxifier.xyz/rbtv/channel/1/6/4111464/295067.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Jiangsu City Football League - Suqian Team Vs Huaian Team [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4186504/295133.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Jiangsu City Football League - Taizhou Team Vs Changzhou Team [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4186514/295143.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Jiangsu City Football League - Yancheng Team Vs Wuxi Team [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4186515/295134.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Korean K League 1 - Daegu Football Club Vs Suwon Football Club [SD]
 https://world-proxifier.xyz/rbtv/channel/1/3/4114569/295041.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Korean K League 1 - Jeju Sk Fc Vs Gwangju Football Club [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4114568/295042.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Korean K League 1 - Ulsan Hd Fc Vs Jeonbuk Hyundai Motors [HDD A]
-https://world-proxifier.xyz/rbtv/channel/1/6/4136361/295068.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Korean K League 1 - Ulsan Hd Fc Vs Jeonbuk Hyundai Motors [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4136361/295043.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Korean K League 1 - Ulsan Hd Fc Vs Jeonbuk Hyundai Motors [STREAM 1[HD]]
-https://world-proxifier.xyz/rbtv/channel/1/2/4136361/295062.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Korean K League 2 - Busan I Park Vs Chungbuk Cheongju Fc [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4137080/295032.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Korean K League 2 - Gimpo Fc Vs Jeonnam Dragons [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4137076/295031.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Korean K League 2 - Suwon Samsung Bluewings Vs Seongnam Fc [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4137176/295029.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Korean K League 4 - Sejong Sa Vs Pyeongchang Fc [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4148168/295045.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Latvian Higher League - Super Nova Vs Riga Fc [SD]
 https://world-proxifier.xyz/rbtv/channel/1/3/4138477/295094.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Liga Portugal 2 - Penafiel Vs Gd Chaves [HDD A PORTUGUÊS]
-https://world-proxifier.xyz/rbtv/channel/1/6/4217545/295054.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Lithuanian I Lyga - Fk Minija Vs Bfa Vilnius [SD]
 https://world-proxifier.xyz/rbtv/channel/1/3/4232156/295105.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Lithuanian I Lyga - Transinvest Vs Atomsfera Mazeikiai [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4232167/295191.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Norwegian 2.Divisjon - Asker Vs Ullensaker/Kisa Il [SD]
 https://world-proxifier.xyz/rbtv/channel/1/3/4111136/295090.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Norwegian 3.Divisjon - Volda Vs Byasen Toppfot [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4122040/295095.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Poland Liga 2 - Podbeskidzie Bielsko-Biala Vs Hutnik Krakow [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4207862/295082.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Rus D3B - Arsenal Tula Ii Vs Dinamo Saint Petersburg [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4172594/295098.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Russian First Leagueleague - Yenisey Krasnoyarsk Vs Sokol [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4260130/295086.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Norwegian 3.Divisjon - Askoy Fk Vs Lyngbo [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4119043/295172.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Norwegian 3.Divisjon - Flint Vs Fram Larvik [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4119757/295174.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Norwegian 3.Divisjon - Gamle Oslo Vs Ulfstind [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4119899/295137.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Norwegian 3.Divisjon - Orn-Horten Vs Drobak-Frogn Il [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4119701/295177.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Norwegian 3.Divisjon - Sortland Il Vs Funnefoss/Vormsund [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4119714/295170.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Norwegian 3.Divisjon - Tromso B Vs Ullern Fc [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4119708/295173.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Rus D3A - Rodina Moskva Ii Vs Dinamo Vladivostok [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4232664/295190.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Russian Premier League - Gazovik Orenburg Vs Rubin Kazan [SD]
 https://world-proxifier.xyz/rbtv/channel/1/3/4201358/295089.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Spanish Primera División De La Liga De Fútbol Femenino - Athletic Club Women Vs Costa Adeje Tenerifewomen [DAZN ES]
-https://world-proxifier.xyz/rbtv/channel/1/2001/4238287/615232.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Russian Premier League - Gazovik Orenburg Vs Rubin Kazan [SDK A]
+https://world-proxifier.xyz/rbtv/channel/1/6/4201358/295146.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Spanish Primera División De La Liga De Fútbol Femenino - Levante Ud Women Vs Granada Cfwomen [DAZN ES]
 https://world-proxifier.xyz/rbtv/channel/1/2001/4248557/615233.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Sweden Superettan - Varbergs Bois Fc Vs Falkenberg [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4116783/295092.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Sweden Superettan - Vasteras Sk Fk Vs Helsingborg [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4116576/295093.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Thai League 1 - Nakhon Ratchasima Mazda Fc Vs Ratchaburi Fc [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4237839/295088.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Spanish Primera División De La Liga De Fútbol Femenino - Levante Ud Women Vs Granada Cfwomen [HDD A ESPAÑOL]
+https://world-proxifier.xyz/rbtv/channel/1/6/4248557/295066.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Thai League 1 - Bangkok United Fc Vs Bg Pathum United [SD]
+https://world-proxifier.xyz/rbtv/channel/1/3/4225737/295169.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Ukrainian First League - Fc Vorskla Poltava Vs Metalurh Zaporizhya [SD]
 https://world-proxifier.xyz/rbtv/channel/1/3/4251176/295108.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Ukrainian Premier League - Kryvbas Vs Obolon Kyiv [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4210000/295035.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Ukrainian Second League - Kulykiv Vs Atlet Kiev [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4252669/295053.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Ukrainian Second League - Niva Vinica Vs Fc Uzhgorod [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4252708/295019.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Ukrainian Second League - Penuel Kryvyi Rih Vs Chernomorets Odessa Ii [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4251227/295087.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Ukrainian Youth Team Championship - Dinamo Kyiv U21 Vs Polissya Zhytomyr U21 [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4232966/295050.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp"  tvg-id="24.7.Dummy.us",Ukrainian Youth Team Championship - Lnz Cherkasy U21 Vs Veres Rivne U21 [SD]
-https://world-proxifier.xyz/rbtv/channel/1/3/4232960/295106.m3u8
 
 #EXTGRP:RBTV - MOTORSPORT
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp"  tvg-id="24.7.Dummy.us",(L) 2025 Arrc - Round 4 Indonesia -  The Fim Asia Road Racing Championship Is The Regional Motorcycle Road Racing Championship For Asia, Held Since 1996. [SKA]
-https://world-proxifier.xyz/rbtv/channel/7/2001/1975111/614938.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp"  tvg-id="24.7.Dummy.us",Adac Gt4 Germany - Most Race 1 [HDD A ESPAÑOL]
+https://world-proxifier.xyz/rbtv/channel/7/6/1975446/261168.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp"  tvg-id="24.7.Dummy.us",Porsche Supercup - Qualifying | Netherlands [DAZN ES]
 https://world-proxifier.xyz/rbtv/channel/7/2001/1975427/615293.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp"  tvg-id="24.7.Dummy.us",Porsche Supercup - Qualifying | Netherlands [HDD B]
-https://world-proxifier.xyz/rbtv/channel/7/6/1975427/261197.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp"  tvg-id="24.7.Dummy.us",Porsche Supercup - Qualifying | Netherlands [STREAM 25[HD]]
 https://world-proxifier.xyz/rbtv/channel/7/2/1975427/261195.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp"  tvg-id="24.7.Dummy.us",Wrc - Wrc: Rally Del Paraguay (Paraguay) - Special Stage 9 [DAZN ES]
-https://world-proxifier.xyz/rbtv/channel/7/2001/1974136/615183.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp"  tvg-id="24.7.Dummy.us",Wrc - Wrc: Rally Del Paraguay (Paraguay) - Special Stage 10 [DAZN ES]
+https://world-proxifier.xyz/rbtv/channel/7/2001/1974138/615184.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp"  tvg-id="24.7.Dummy.us",Wrc - Wrc: Rally Del Paraguay (Paraguay) - Special Stage 10 [HDD A]
+https://world-proxifier.xyz/rbtv/channel/7/6/1974138/261185.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp"  tvg-id="24.7.Dummy.us",Wrc - Wrc: Rally Del Paraguay (Paraguay) - Special Stage 9 [HDD A]
 https://world-proxifier.xyz/rbtv/channel/7/6/1974136/261184.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp"  tvg-id="24.7.Dummy.us",Wrc - Wrc: Rally Del Paraguay (Paraguay) - Special Stage 9 [STREAM 3[HD]]
 https://world-proxifier.xyz/rbtv/channel/7/2/1974136/261187.m3u8
 
 #EXTGRP:RBTV - RUGBY
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp"  tvg-id="24.7.Dummy.us",Australia: Nrl - Nq Cowboys Vs Brisbane Broncos [HDD A]
-https://world-proxifier.xyz/rbtv/channel/8/6/1974142/261144.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp"  tvg-id="24.7.Dummy.us",World: World Cup Women - Canada W Vs Wales W [HDD A]
 https://world-proxifier.xyz/rbtv/channel/8/6/1974272/261194.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp"  tvg-id="24.7.Dummy.us",World: World Cup Women - Canada W Vs Wales W [HDD B]
-https://world-proxifier.xyz/rbtv/channel/8/6/1974272/261196.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp"  tvg-id="24.7.Dummy.us",World: World Cup Women - Canada W Vs Wales W [MOVISTAR]
 https://world-proxifier.xyz/rbtv/channel/8/2001/1974272/615195.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp"  tvg-id="24.7.Dummy.us",World: World Cup Women - Canada W Vs Wales W [STREAM 35[HD]]
 https://world-proxifier.xyz/rbtv/channel/8/2/1974272/261191.m3u8
 
 #EXTGRP:RBTV - VOLLEYBALL
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp"  tvg-id="24.7.Dummy.us",World Championship Women - Italy Women Vs Germany Women [HDD A]
-https://world-proxifier.xyz/rbtv/channel/13/6/1974576/261176.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp"  tvg-id="24.7.Dummy.us",World Championship Women - Italy Women Vs Germany Women [HDD B ITALIANO]
-https://world-proxifier.xyz/rbtv/channel/13/6/1974576/261177.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp"  tvg-id="24.7.Dummy.us",World Championship Women - Italy Women Vs Germany Women [LALIGA]
-https://world-proxifier.xyz/rbtv/channel/13/2001/1974576/615216.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp"  tvg-id="24.7.Dummy.us",World Championship U21 - Canada U21 Vs Brazil U21 [HDD A]
+https://world-proxifier.xyz/rbtv/channel/13/6/1975224/261218.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp"  tvg-id="24.7.Dummy.us",World Championship U21 - Canada U21 Vs Brazil U21 [VDO]
+https://world-proxifier.xyz/rbtv/channel/13/2001/1975224/615219.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp"  tvg-id="24.7.Dummy.us",World Championship U21 - Ukraine U21 Vs South Korea U21 [HDD A]
+https://world-proxifier.xyz/rbtv/channel/13/6/1975225/261215.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp"  tvg-id="24.7.Dummy.us",World Championship U21 - Ukraine U21 Vs South Korea U21 [VDO]
+https://world-proxifier.xyz/rbtv/channel/13/2001/1975225/615217.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp"  tvg-id="24.7.Dummy.us",World Championship U21 - Usa U21 Vs Iran U21 [HDD A]
+https://world-proxifier.xyz/rbtv/channel/13/6/1975191/261214.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp"  tvg-id="24.7.Dummy.us",World Championship U21 - Usa U21 Vs Iran U21 [VDO]
+https://world-proxifier.xyz/rbtv/channel/13/2001/1975191/615218.m3u8
 
 #EXTGRP:RokuTV
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" ,ABC7 Sarasota
@@ -16159,208 +16201,166 @@ https://jmp2.uk/stvp-USBC2400019EF
 #EXTINF:-1  tvg-id="US270000298" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US270000298_20241119T020402SQUARE.png" tvg-chno="3907" ,Â¿QuÃ© Culpa Tiene FatmagÃ¼l?
 https://jmp2.uk/stvp-US270000298
 
-#EXTGRP:StreamEast - Am. Football
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Kansas City Chiefs vs. Los Angeles Chargers Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756552614-CE%2FXQkCk%2FesDxgjwOyhtLu6QMvhnUu8XBKQeRojrtRE%3D
-
 #EXTGRP:StreamEast - Baseball
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Arizona Diamondbacks vs. Los Angeles Dodgers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hefbafbakx28.m3u8?st=29gpxQWPO1K353GXWtBw1PUfp_0XDq5GjIm8U43P1JE&e=1756563336
+https://edgestreams.pro/hls/hefbafbakx28.m3u8?st=-eHOOh1tboOnyWpa6iCiN4awsWRwyszuP9GRLrZ9kwA&e=1756568276
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Atlanta Braves vs. Philadelphia Phillies Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?st=EjforD_IPUrgRqnx0vZElh5lOlFH_qaHZrRfywJqBpU&e=1756563296
+https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=Z111MYu6yP65sBUJqwjTSURiOh5YV2NO8p1wKxytXXY&e=1756568266
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Baltimore Orioles vs. San Francisco Giants Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=xAGtlOw2zyMn79XemwR5TSYFgO7u0FsC7Cv4rfNDSnI&e=1756563421
+https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?st=kEApibFxGfZLGgAGfoWsi-YTLozX_ZlVUOZYoD15g-w&e=1756568161
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Chicago Cubs vs. Colorado Rockies Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=4z0_-p0ZcA1lM4QTeQE7uj2H5b36sMZEl6XZRmxstq4&e=1756563538
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Detroit Tigers vs. Kansas City Royals Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/fskjanach24.m3u8?st=oGVgIJ8MZ1Wq2RiurShcXgCK_jJhAoT7irEn3hM-uNI&e=1756563308
+https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=RuHvaRHwDZVplaYRiA8oDak-KoijwhrtY9FfobtK178&e=1756568214
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Los Angeles Angels vs. Houston Astros Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=vlA9HnhXKXg_mENJ-yDVFp1njemQnT21I-9_miz5k4c&e=1756563474
+https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=3qBR9OSprXhHgXchDjeDZgCfqUOqHJgU10hurCtxqVA&e=1756568339
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Miami Marlins vs. New York Mets Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=Nq2AGHKx6vIOCy0P9b5a9XHCq_FXBsRY_ezdMLhY4uw&e=1756563332
+https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=PlHmlA4VRxqsTfrPQNUDqausB8KeeiQh4--OCx45Ib8&e=1756568271
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Milwaukee Brewers vs. Toronto Blue Jays Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=RFurAwke6vX9uxCaetu9_JZ67zTJnXDQoi5_m_T58lI&e=1756563362
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,New York Yankees vs. Chicago White Sox Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=0fskFFYG4YDakaeoGl-3XekB4NNNfxGEqsa6LlLpKDk&e=1756563404
+https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=56wne4t3wB-_bg33tVv3oox732r9-GsnbJZDyzqOWdo&e=1756568222
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Pittsburgh Pirates vs. Boston Red Sox Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=A_jtaBbusL830LOhiaPCpOc046p9ZUgO9PgFyWeSRUc&e=1756563372
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Seattle Mariners vs. Cleveland Guardians Live Stream
+https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=6DtwklP1mRTRaZZr2nGf-FAE_IG2bnzJykVKOxn-SIY&e=1756568132
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,San Diego Padres vs. Minnesota Twins Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=jyiUwhI0jRNiPLIqawieXmsVJ2Iity7D7iLWga6DWwA&e=1756563503
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,St. Louis Cardinals vs. Cincinnati Reds Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/dazhfiach15.m3u8?st=OPy3KAcchNFG7BXhMme4rzgXxCOH9eaDV3VCijprJ-4&e=1756563478
+https://mainstreams.pro/hls/kjhfzua25.m3u8?st=T6AlXbM0wnqRsUlCG27UrZY6KXc46wsTlBec9vsrRhk&e=1756568321
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Tampa Bay Rays vs. Washington Nationals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/iueyzbvezch16.m3u8?st=flCRnQRcnJG-n2DQdyD51A2MDFicFkbDCTTU5Oo8Oqc&e=1756563287
+https://edgestreams.pro/hls/iueyzbvezch16.m3u8?st=866baGgwcYhT2pvXnNH2Fp-VTSPkVbqKWAvPRe-xDnk&e=1756568255
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Texas Rangers vs. Athletics Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=d-R1GOoRwZL9hVKozeWzoTXyrh5fj96nAB7HN5-tNvA&e=1756563341
+https://mainstreams.pro/hls/jzabfazkbf27.m3u8?st=3w6T-Ulyu3iMnn_k-VcdJtFu-v0fbc9HgAyKtvq335U&e=1756568227
 
 #EXTGRP:StreamEast - College Football
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Alabama A&M Bulldogs vs. Arkansas Razorbacks Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ysvbxwnbc38.m3u8?st=V5XFxQk6G5ZpKaXhaj1L2d-U57mqX-A-okA-xVqI7o0&e=1756563327
+https://mainstreams.pro/hls/ysvbxwnbc38.m3u8?st=5Os9hJ16ix43A9zsfDmQprsYkG6wZ-ZKHV0F-g9yo18&e=1756568218
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Albany Great Danes vs. Iowa Hawkeyes Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=7PPr3YB9l0SPIAQjm8P5gNi2u0iNbj2T7nEyhKuRuz0&e=1756563377
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Ball State Cardinals vs. Purdue Boilermakers Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=Es6YgpgOXgFVWPhpNUDE_FbyWfzL0ktHSFQLv3ykrNc&e=1756563418
+https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=to_bgytfZb1kF-aZHL1MoZIveWGJZg8VMLvXaXKEdBo&e=1756568248
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Bucknell Bison vs. Air Force Falcons Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=TOKlBYaqzS8PeCfBwe53B0lpr1ffdvhK0tWQFtU9ufQ&e=1756563496
+https://edgestreams.pro/hls/JHDAJBDnjdna30.m3u8?st=t9KreUbSRG_X8vEnz0mwv2aJa0_dwShEa6UxMHLdT2M&e=1756568184
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Coastal Carolina Chanticleers vs. Virginia Cavaliers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/oipozuezeji33.m3u8?st=vxtRMtae3pWdi5sPxRoyrfpfJPDuulnD2M399jGRHmk&e=1756563292
+https://edgestreams.pro/hls/oipozuezeji33.m3u8?st=23KbRKXJsrcFeYeWoxhJx1OiQ28u2vCtRNhWU2wppcA&e=1756568355
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Duquesne Dukes vs. Pittsburgh Panthers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/oipozuezeji33.m3u8?st=GqUueLcPCbis6NLGHegKa7-P6vKH97EqxEnL8IeAgH8&e=1756563315
+https://edgestreams.pro/hls/oipozuezeji33.m3u8?st=cNieADS0BLVFlbAgCJcuDHGR_L8MWxPzjx7H7DpeR1I&e=1756568314
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Eastern Kentucky Colonels vs. Louisville Cardinals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/oipozuezeji33.m3u8?st=gGx92YYBFycV6UuaUo6mNuNZyBUqRyZ4Xn7Qoh0Yjm0&e=1756563513
+https://edgestreams.pro/hls/oipozuezeji33.m3u8?st=oFslYW3fzqlwnuXycRnVtw8kURa1c3GaQw7xBx1VrMg&e=1756568280
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Florida Atlantic Owls vs. Maryland Terrapins Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=IL1QE0gH7j3dxK6O0YkWn6gDKPYyqHGOOqPCaN4JFMA&e=1756563367
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Georgia State Panthers vs. Ole Miss Rebels Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ysvbxwnbc38.m3u8?st=OjtBr-gwUpGKKd2v7T56oCmU83xRHeggPn5AV2t0qX4&e=1756563523
+https://edgestreams.pro/hls/sfjnzabacah31.m3u8?st=sqTp6GRCvQaNEkWgwCIFrGZAF-RrFgUQYcMFdmr4RBI&e=1756568303
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Marshall Thundering Herd vs. Georgia Bulldogs Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ysvbxwnbc38.m3u8?st=e8ebq2dbuASIVYYWR634OM1XqZ2J8-pSDf80Km_G30I&e=1756563449
+https://edgestreams.pro/hls/ysvbxwnbc38.m3u8?st=ZTz81ja_HkDLzHrFgN5qKj0g3Yqqf5E1I-ADfwJqkhA&e=1756568325
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Mississippi State Bulldogs vs. Southern Miss Golden Eagles Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/ysvbxwnbc38.m3u8?st=0Og919XtUSeQCqiegVmA3H5FG9hfJSmqB6kT9s9WmxI&e=1756563301
+https://mainstreams.pro/hls/ysvbxwnbc38.m3u8?st=Px377sHzb1aB7WB5KyV26F3paxpagFe-bxlQDRU9CGY&e=1756568199
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Missouri State Bears vs. USC Trojans Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=R9rlveUDBvhsHhbcGb3Sbn3Tqc_T0RwIJMxhkfGOpMQ&e=1756563530
+https://edgestreams.pro/hls/sfjnzabacah31.m3u8?st=15UNxFbVO2NTPE6LHLhnF008qv5CVHuYeB71s8msofw&e=1756568331
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Montana State Bobcats vs. Oregon Ducks Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestreams.pro/hls/sfjnzabacah31.m3u8?st=IMqQWjnUAZIuLGgbrpoxCvZYqXJjUVKVSTO1UATc9jg&e=1756568387
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Nevada Wolf Pack vs. Penn State Nittany Lions Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ13/index.m3u8?st=JfFSXjUzvBcHis41p4mLwg&e=1756563432
+https://nextcast.click/hls/HDGQ13/index.m3u8?st=N5TxoyJulORrgPuK2uo-TA&e=1756568144
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,New Mexico Lobos vs. Michigan Wolverines Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fvvxvv.6670391863.store:8443/hls/pdiez3cpk4198.m3u8?s=VoaIxMUbnHOhyE_ztF8gCQ&e=1756574319
+https://pjxvijl.5606087801.art:8443/hls/pdiez3cpk4198.m3u8?s=Xxheti0SzLs21YWfM8o_hA&e=1756579195
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Northwestern Wildcats vs. Tulane Green Wave Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/oipozuezeji33.m3u8?st=d3nLjwK_cqHlEko4bHI9LW6CiKh9WZaDJthPluVrQww&e=1756563436
+https://mainstreams.pro/hls/oipozuezeji33.m3u8?st=gwTyzWHOqH56o4Go77ZAs84nPM60wKzjGI3jw_64P98&e=1756568343
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Old Dominion Monarchs vs. Indiana Hoosiers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=DgPCt9hbv_Qfj4CFzm_C34rCFdf2rUH3AuHkY45duV8&e=1756563491
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,South Dakota Coyotes vs. Iowa State Cyclones Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/yetehznecs37.m3u8?st=OMKDyIy2hK0HPqt-q-LxpuY-GhBLSUpWBYZSZ5uhDYo&e=1756563533
+https://edgestreams.pro/hls/sfjnzabacah31.m3u8?st=EZ43KRxE_vl7Ylg-8KWUFBl6U92UjkHbkHN6m4hU6RE&e=1756568259
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Texas Longhorns vs. Ohio State Buckeyes Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/yetehznecs37.m3u8?st=57q33NTniW4V61cElcJCcgjTVCU4Q--cld_xZndABKQ&e=1756563321
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,UTEP Miners vs. Utah State Aggies Live Stream
+https://mainstreams.pro/hls/yetehznecs37.m3u8?st=OQ7IvYisiXLurY__jBBX_CbhtDOcaPXLSpsFa8GO5aU&e=1756568195
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,Toledo Rockets vs. Kentucky Wildcats Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/JHDAJBDnjdna30.m3u8?st=kV9kacpwgPcjNcj1y_YhZ7Q6kPA0rUdlRyYQQw8Pisc&e=1756563442
+https://edgestreams.pro/hls/ysvbxwnbc38.m3u8?st=vcvWMBbzwH9kx8RpbUzf-YsOqgHQTJnqNM1EHCyoUFw&e=1756568381
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,UTSA Roadrunners vs. Texas A&M Aggies Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/ysvbxwnbc38.m3u8?st=2LXNw9-emsRlWmqhV5hppLx7PrISGGjnXjMaF2okRtI&e=1756563508
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" ,VMI Keydets vs. Navy Midshipmen Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=RxpaztsEk0jnBxMi4mhx4efZtDjWx1DLuDf-Uzra9-4&e=1756563382
+https://mainstreams.pro/hls/ysvbxwnbc38.m3u8?st=B3qGObmVZXxRPNsjqXBxwOEAAsXCzkn-oZHoYz4obyQ&e=1756568298
 
 #EXTGRP:StreamEast - F1
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" ,F1 Dutch GP Free Practice 3 Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=3bVZNKQh39YlN-8eSyI1wKUZbQWf4j73Ez5-DLnyQI4&e=1756563461
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" ,F1 Dutch GP Qualifying Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=ysBH-6ZOqeEsIwb6pYpNC66UljwlOCpg5WcuUCt7Pss&e=1756563455
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=xWCJXPAq_JD2ifL1Me2pT1RKR5aIPmx_R9-km19Lrnk&e=1756568148
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" ,F1 Dutch GP Race Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=ryVCpTYU-c-0spN1efczDsFXnhiWOTHtPwNo8o13OtU&e=1756563409
+https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=hYgbOzpsedp6-pbbjuvbwk0xFokzlDdVxZtffqnNBa0&e=1756568367
 
 #EXTGRP:StreamedSU - 24/7
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",Darts TV: All Darts Championship [ALPHA]
@@ -16977,6 +16977,11 @@ https://world-proxifier.xyz/streamed/channel/bravo/1756555200000-italy-georgia/1
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/italy-vs-georgia-basketball-446209/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",03:30AM| Georgia vs Marshall (08/31/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/eurobasket-italy-vs-georgia/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",03:30AM| Penn State vs Nevada (08/31/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -17249,6 +17254,11 @@ https://world-proxifier.xyz/streamed/channel/charlie/athletics-vs-st-louis-cardi
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/charlie/atlanta-braves-vs-chicago-cubs-1629460102/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWtzBToIZiG4gpICCFOmDfQ8cMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"  tvg-id="24.7.Dummy.us",03:00PM| Chiba Lotte Marines vs Fukuoka SoftBank Hawks (08/31/25) [ALPHA]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/alpha/chiba-lotte-marines-vs-fukuoka-s-hawks/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGJgw-ULxD6sIEiAggYIaSBQhqx2yyQUsIuYxRhVKHp-KNqct74rMDaYozhQA.webp"  tvg-id="24.7.Dummy.us",03:07AM| Toronto Blue Jays vs Milwaukee Brewers (08/31/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -17324,11 +17334,6 @@ https://world-proxifier.xyz/streamed/channel/alpha/new-york-mets-vs-miami-marlin
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/charlie/miami-marlins-vs-new-york-mets-1629459256/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWtzBToIZiG4gpICCFOmDfQ8cMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"  tvg-id="24.7.Dummy.us",05:00PM| Chiba Lotte Marines vs Fukuoka SoftBank Hawks (08/30/25) [ALPHA]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/chiba-lotte-marines-vs-fukuoka-s-hawks/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEBpAypYXgAYQ3LSAiaNRviBK4rBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"  tvg-id="24.7.Dummy.us",05:00PM| Hanshin Tigers vs Yomiuri Giants (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -17671,6 +17676,16 @@ https://world-proxifier.xyz/streamed/channel/bravo/1756554300000-czech-republic-
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/czech-republic-vs-estonia-basketball-446214/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJynleObiD4gSIPXpQgpIGCAjWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"  tvg-id="24.7.Dummy.us",07:45PM| Czech Republic Basketball vs Estonia Basketball (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/eurobasket-czech-republic-vs-estonia/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJynleObiD4gSIPXpQgpIGCAjWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"  tvg-id="24.7.Dummy.us",07:45PM| Czech Republic Basketball vs Estonia Basketball (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/czech-republic-estonia/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:45PM| FIBA EuroBasket: Estonia vs Turkiye (09/01/25) [CHARLIE]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -17706,11 +17721,26 @@ https://world-proxifier.xyz/streamed/channel/bravo/1756555200000-iceland-belgium
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/iceland-vs-belgium-basketball-446211/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwMw3Cn20huIPiBIGzKEFJAwQEawWBJdw2fRRgVKLh-L0ssryZaMA8xUQggA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Iceland Basketball vs Belgium Basketball (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/eurobasket-iceland-vs-belgium/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwMw3Cn20huIPiBIGzKEFJAwQEawWBJdw2fRRgVKLh-L0ssryZaMA8xUQggA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Iceland Basketball vs Belgium Basketball (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/iceland-belgium/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQKxhuIXRBA6+IEgdMoQUkDBCIpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Italy Basketball vs Georgia Basketball (08/30/25) [CHARLIE]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/charlie/tba-vs-tba-1629454726/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQKxhuIXRBA6+IEgdMoQUkDBCIpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Italy Basketball vs Georgia Basketball (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/italy-georgia/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJBaB4TYm4g+IEiAMGUGkDBARDBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Slovenia Basketball vs Belgium Basketball (08/31/25) [CHARLIE]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -17877,11 +17907,11 @@ https://world-proxifier.xyz/streamed/channel/charlie/serbia-vs-croatia-162945927
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/charlie/zimbabwe-vs-sri-lanka-1629454729/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",06:00PM| ICC CWC Challenge League A: Denmark vs Kenya (08/31/25) [CHARLIE]
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",06:00PM| ICC CWC Challenge League A: Jersey vs Qatar (08/31/25) [CHARLIE]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/charlie/denmark-vs-kenya-1629454731/1.m3u8
+https://world-proxifier.xyz/streamed/channel/charlie/jersey-vs-qatar-1629454730/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",06:00PM| Isle of Man and Switzerland tour of Guernsey: Isle of Man vs Switzerland (08/31/25) [CHARLIE]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -17897,16 +17927,6 @@ https://world-proxifier.xyz/streamed/channel/alpha/trinbago-knight-riders-vs-guy
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/charlie/knight-riders-vs-warriors-1629454728/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Bangladesh vs Netherlands (08/30/25) [ALPHA]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/bangladesh-vs-netherlands/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Bangladesh vs Netherlands (08/30/25) [CHARLIE]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/charlie/bangladesh-vs-netherlands-1629459172/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Netherlands tour of Bangladesh: Bangladesh vs Netherlands (09/01/25) [CHARLIE]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -17969,6 +17989,11 @@ https://world-proxifier.xyz/streamed/channel/hotel/pdc-darts-second-round-x8-ant
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/intel/rob-cross-mensur-suljovic/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:30PM| Peter Wright - Woodhouse Luke (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/peter-wright-woodhouse-luke/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00AM| Blåkläder Flanders Darts Trophy Day 2 (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -17984,6 +18009,11 @@ https://world-proxifier.xyz/streamed/channel/alpha/flanders-darts-trophy-day-2-s
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/pdc-flanders-darts-trophy-darts-1/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Dave Chisnall - Leon Weber (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/dave-chisnall-leon-weber/1.m3u8
 
 #EXTGRP:StreamedSU - FIGHT
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",01:00AM| X Series 22: Darren Till vs Luke Rockhold (08/31/25) [ALPHA]
@@ -18026,6 +18056,11 @@ https://world-proxifier.xyz/streamed/channel/alpha/cage-fury-fc-145/1.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/charlie/cage-fury-fc-145-1629459270/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Rajadamnern World Series: Laempo vs Duan 99 (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/rajadamnern-world-series-laempo-vs-duan-99/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| RWS: Jaroensook vs Chalarmdam (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18153,6 +18188,16 @@ https://world-proxifier.xyz/streamed/channel/charlie/pisa-vs-as-roma-1377882/1.m
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/intel/launceston-city-glenorchy-knights/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoigomIXVhC8Q+kiGkgYIaiAindIFCyQUsIuYxRhV2jp-KNqctr4rMBgnuJiEEA.webp"  tvg-id="24.7.Dummy.us",03:00AM| Cesena vs Virtus Entella (08/31/25) [CHARLIE]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/charlie/cesena-vs-virtus-entella-1419611/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdilhgQIRppIheILCAPSQMENV0hz5xfmBIKWEXL1hVKHp-KNqct6O9GCe4mIQQA.webp"  tvg-id="24.7.Dummy.us",03:00AM| Spezia vs Catanzaro (08/31/25) [CHARLIE]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/charlie/spezia-vs-catanzaro-1419604/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmBriU2EChC8QWECRAQjIaiGkhbhlCyQUsIuYx2qUPMGXhFqcl74rMCaYozhQA.webp"  tvg-id="24.7.Dummy.us",03:05AM| Toulouse vs Paris SG (08/31/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18243,11 +18288,6 @@ https://world-proxifier.xyz/streamed/channel/bravo/1756544400000-yamaga-vanraure
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/intel/matsumoto-yamaga-vanraure-hachnohe/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGU1Yow4GCG4gpIPiBL7jpiyBAoCwJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp"  tvg-id="24.7.Dummy.us",05:00PM| Mito HollyHock vs Renofa Yamaguchi (08/30/25) [ALPHA]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/mito-vs-renofa-yamaguchi/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGU1Yow4GCG4gpIPiBL7jpiyBAoCwJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp"  tvg-id="24.7.Dummy.us",05:00PM| Mito HollyHock vs Renofa Yamaguchi (08/30/25) [BRAVO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18268,36 +18308,21 @@ https://world-proxifier.xyz/streamed/channel/bravo/1756544400000-nagano-giravanz
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/intel/nagano-parceiro-giravanz-kitakyushu/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJSCkh68MChDcQfEImMwDRyyBAwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"  tvg-id="24.7.Dummy.us",05:00PM| Yokohama FC vs Tokyo Verdy (08/30/25) [ALPHA]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/yokohama-fc-vs-tokyo-verdy-1969/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJSCkh68MChDcQfEImMwDRyyBAwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"  tvg-id="24.7.Dummy.us",05:00PM| Yokohama FC vs Tokyo Verdy (08/30/25) [BRAVO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/bravo/1756544400000-yokohama-fc-tokyo-verdy/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJSCkh68MChDcQfEImMwDRyyBAwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"  tvg-id="24.7.Dummy.us",05:00PM| Yokohama FC vs Tokyo Verdy (08/30/25) [CHARLIE]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/charlie/yokohama-fc-vs-tokyo-verdy-1324225/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJSCkh68MChDcQfEImMwDRyyBAwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"  tvg-id="24.7.Dummy.us",05:00PM| Yokohama FC vs Tokyo Verdy (08/30/25) [INTEL]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/intel/yokohama-fc-tokyo-verdy/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",05:30PM| Heidelberg United vs Auckland FC (08/30/25) [ALPHA]
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",05:30PM| Heidelberg United vs Auckland FC (08/30/25) [INTEL]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/heidelberg-utd-vs-auckland-fc/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWimAAGELxwhdIPiETGYh41MNSCwJBT7DZ9FGBWa2b8vSyzNTWjA3MVEIIA.webp"  tvg-id="24.7.Dummy.us",05:30PM| Kataller Toyama vs Roasso Kumamoto (08/30/25) [ALPHA]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/toyama-vs-kumamoto/1.m3u8
+https://world-proxifier.xyz/streamed/channel/intel/heidelberg-united-auckland-fc/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWimAAGELxwhdIPiETGYh41MNSCwJBT7DZ9FGBWa2b8vSyzNTWjA3MVEIIA.webp"  tvg-id="24.7.Dummy.us",05:30PM| Kataller Toyama vs Roasso Kumamoto (08/30/25) [BRAVO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18458,11 +18483,6 @@ https://world-proxifier.xyz/streamed/channel/alpha/penafiel-vs-chaves/1.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/bravo/1756548000000-penafiel-chaves/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNLn7AADNh0huIKbhCnTJE8ZSmCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"  tvg-id="24.7.Dummy.us",06:00PM| Penafiel vs Chaves (08/30/25) [ECHO]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/echo/penafiel-vs-chaves-football-1398001/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNLn7AADNh0huIKbhCnTJE8ZSmCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"  tvg-id="24.7.Dummy.us",06:00PM| Penafiel vs Chaves (08/30/25) [HOTEL]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18663,11 +18683,21 @@ https://world-proxifier.xyz/streamed/channel/bravo/1756551600000-kristianstad-w-
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/hotel/sweden-damallsvenskan-kristianstad-vs-aik/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:00PM| Mahasarakham vs Kasetsart (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/mahasarakham-sbt-kasetsart/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:00PM| Malmo FF W vs Vaxjo DFF W (08/30/25) [BRAVO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/bravo/1756551600000-malmo-ff-w-vaxjo-dff-w/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:00PM| Malmo FF W vs Vaxjo DFF W (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/malmo-ff-f-vaxjo-dff-f-/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:00PM| Minija vs BFA (08/30/25) [INTEL]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18773,6 +18803,16 @@ https://world-proxifier.xyz/streamed/channel/intel/bochum-preussen-munster/1.m3u
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/barrow-vs-fleetwood-town-football-1386057/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvDBJ5wAAzAkIaiF4gsIEkZAQQt85dsgWSClhFzGKMKpQ9v5Rmo5X3xWYDBvcTEIIA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Barrow vs Fleetwood Town (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/england-league-two-barrow-vs-fleetwood-town/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvDBJ5wAAzAkIaiF4gsIEkZAQQt85dsgWSClhFzGKMKpQ9v5Rmo5X3xWYDBvcTEIIA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Barrow vs Fleetwood Town (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/barrow-fleetwood-town/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrLAgYoENWBIQvEFhAk9ICCBSWTIaWZZIKWEXMYowqlDy-lG+mI++KzAYF7iYhBAA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Cardiff City vs Plymouth Argyle (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18793,11 +18833,26 @@ https://world-proxifier.xyz/streamed/channel/charlie/cardiff-vs-plymouth-1387174
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/cardiff-vs-plymouth-football-1387174/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrLAgYoENWBIQvEFhAk9ICCBSWTIaWZZIKWEXMYowqlDy-lG+mI++KzAYF7iYhBAA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Cardiff City vs Plymouth Argyle (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/england-league-one-cardiff-city-vs-plymouth-argyle/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrLAgYoENWBIQvEFhAk9ICCBSWTIaWZZIKWEXMYowqlDy-lG+mI++KzAYF7iYhBAA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Cardiff City vs Plymouth Argyle (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/cardiff-city-plymouth-argyle/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:30PM| Championship: Middlesbrough vs Sheffield Utd (08/30/25) [CHARLIE]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/charlie/middlesbrough-vs-sheffield-utd-1386595/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:30PM| Chanthaburi vs Nongbua Pitchaya (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/fc-chanthaburi-nongbua-pitchaya/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgpYFD1ykQ3EHxAkQMEIhwWjU3AWBIKfYbPoowK3W0-l6WWV0mWjBPMVEIIA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Chelsea vs Fulham (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18818,21 +18873,56 @@ https://world-proxifier.xyz/streamed/channel/charlie/chelsea-vs-fulham-1378991/1
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/chelsea-vs-fulham-football-1378991/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgpYFD1ykQ3EHxAkQMEIhwWjU3AWBIKfYbPoowK3W0-l6WWV0mWjBPMVEIIA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Chelsea vs Fulham (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/england-premier-league-chelsea-vs-fulham/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgpYFD1ykQ3EHxAkQMEIhwWjU3AWBIKfYbPoowK3W0-l6WWV0mWjBPMVEIIA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Chelsea vs Fulham (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/chelsea-fulham/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgGsQEEDhgheekCRDUdIS1hMgUtlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Crewe Alexandra vs Swindon Town (08/30/25) [ECHO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/crewe-vs-swindon-town-football-1386060/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQjfvhD8S+kFhCHq2kCgsnEKFkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Doncaster Rovers vs Rotherham United (08/30/25) [ALPHA]
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgGsQEEDhgheekCRDUdIS1hMgUtlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Crewe Alexandra vs Swindon Town (08/30/25) [HOTEL]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/doncaster-rovers-vs-rotherham-united/1.m3u8
+https://world-proxifier.xyz/streamed/channel/hotel/england-league-two-crewe-alexandra-vs-swindon-town/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkgGsQEEDhgheekCRDUdIS1hMgUtlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Crewe Alexandra vs Swindon Town (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/crewe-alexandra-swindon/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQjfvhD8S+kFhCHq2kCgsnEKFkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Doncaster Rovers vs Rotherham United (08/30/25) [ECHO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/doncaster-vs-rotherham-football-1387167/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQjfvhD8S+kFhCHq2kCgsnEKFkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Doncaster Rovers vs Rotherham United (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/england-league-one-doncaster-rovers-vs-rotherham-united/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQjfvhD8S+kFhCHq2kCgsnEKFkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Doncaster Rovers vs Rotherham United (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/doncaster-rovers-rotherham-utd/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:30PM| Guangxi Hengchen vs Shandong Taishan B (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/guangxi-hengchen-shandong-taishan-b/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:30PM| Lamphun Warrior vs Chonburi (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/lamphun-warrior-chonburi-fc/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKigQhacKLxD6sIEtpAQQKCyBgHrLJBSwi5jTapQ8wZeEWpyP+KzAYF7iYhBAA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Middlesbrough vs Sheffield United (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18848,6 +18938,16 @@ https://world-proxifier.xyz/streamed/channel/bravo/1756553400000-middlesbrough-s
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/middlesbrough-vs-sheffield-utd-football-1386595/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKigQhacKLxD6sIEtpAQQKCyBgHrLJBSwi5jTapQ8wZeEWpyP+KzAYF7iYhBAA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Middlesbrough vs Sheffield United (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/england-championship-middlesbrough-vs-sheffield-united/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKigQhacKLxD6sIEtpAQQKCyBgHrLJBSwi5jTapQ8wZeEWpyP+KzAYF7iYhBAA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Middlesbrough vs Sheffield United (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/middlesbrough-sheffield-united/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:30PM| QPR vs Charlton (08/30/25) [BRAVO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18858,11 +18958,16 @@ https://world-proxifier.xyz/streamed/channel/bravo/1756553400000-qpr-charlton/1.
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/qpr-vs-charlton-football-1386592/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKomnkSIcNRC8QWEDv0QQKXResoWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Queens Park Rangers vs Charlton Athletic (08/30/25) [ALPHA]
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKomnkSIcNRC8QWEDv0QQKXResoWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Queens Park Rangers vs Charlton Athletic (08/30/25) [HOTEL]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/queens-park-rangers-vs-charlton-athletic/1.m3u8
+https://world-proxifier.xyz/streamed/channel/hotel/england-championship-queens-park-rangers-vs-charlton-athletic/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKomnkSIcNRC8QWEDv0QQKXResoWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Queens Park Rangers vs Charlton Athletic (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/queens-park-rangers-charlton-athletic/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:30PM| Solihull Moors vs Southend United (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18888,11 +18993,26 @@ https://world-proxifier.xyz/streamed/channel/charlie/stoke-city-vs-west-brom-138
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/stoke-city-vs-west-brom-football-1386594/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBVhpIejogheILCBIhqIAyhDWYIO9JZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Stoke City vs West Bromwich Albion (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/england-championship-stoke-city-vs-west-bromwich-albion/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBVhpIejogheILCBIhqIAyhDWYIO9JZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp"  tvg-id="24.7.Dummy.us",07:30PM| Stoke City vs West Bromwich Albion (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/stoke-city-west-bromwich-albion/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSS4QMOmCkhuIPhp0hzOGCBQhEUgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"  tvg-id="24.7.Dummy.us",07:35PM| Chengdu Rongcheng vs Shanghai Port (08/30/25) [BRAVO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/bravo/1756553700000-chengdu-rongcheng-shanghai-port/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSS4QMOmCkhuIPhp0hzOGCBQhEUgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"  tvg-id="24.7.Dummy.us",07:35PM| Chengdu Rongcheng vs Shanghai Port (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/chengdu-rongcheng-shanghai-port/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| 1860 Munich vs Stuttgart II (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18903,6 +19023,11 @@ https://world-proxifier.xyz/streamed/channel/alpha/munich-1860-vs-stuttgart-ii/1
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/tsv-1860-munchen-vs-stuttgart-ii-football-1394085/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| 1860 Munich vs Stuttgart II (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/germany-3-liga-1860-m-nchen-vs-stuttgart-ii/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| 3 Liga Konferenz (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18913,6 +19038,11 @@ https://world-proxifier.xyz/streamed/channel/alpha/3-liga-konferenz/1.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/intel/bali-united-madura-united/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Bangkok United vs BG Pathum United (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/bangkok-united-bg-pathum-united/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijCakwAAwMQh3iCwgSICCZDUzIadZCT8wJBSwi5jTapQ8wZeCJqOV9nejB-cTEIIA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Bastia vs Guingamp (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18923,6 +19053,16 @@ https://world-proxifier.xyz/streamed/channel/alpha/bastia-vs-guingamp/1.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/bastia-vs-guingamp-football-1389151/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijCakwAAwMQh3iCwgSICCZDUzIadZCT8wJBSwi5jTapQ8wZeCJqOV9nejB-cTEIIA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Bastia vs Guingamp (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/france-ligue-2-bastia-vs-guingamp/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijCakwAAwMQh3iCwgSICCZDUzIadZCT8wJBSwi5jTapQ8wZeCJqOV9nejB-cTEIIA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Bastia vs Guingamp (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/bastia-guingamp/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Energie Cottbus vs Ingolstadt (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18933,46 +19073,86 @@ https://world-proxifier.xyz/streamed/channel/alpha/cottbus-vs-ingolstadt/1.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/energie-cottbus-vs-fc-ingolstadt-04-football-1394083/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Energie Cottbus vs Ingolstadt (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/germany-3-liga-ingolstadt-vs-energie-cottbus/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Energie Cottbus vs Ingolstadt (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/energie-cottbus-ingolstadt/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| FC Saarbrücken vs Erzgebirge Aue (08/30/25) [ECHO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/fc-saarbrucken-vs-erzgebirge-aue-football-1394087/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| FC Saarbrücken vs Erzgebirge Aue (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/germany-3-liga-saarbr-cken-vs-erzgebirge-aue/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Havelse vs Osnabrück (08/30/25) [ECHO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/havelse-vs-vfl-osnabruck-football-1394089/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Kyrgyzstan vs Turkmenistan (08/30/25) [ALPHA]
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Havelse vs Osnabrück (08/30/25) [HOTEL]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/kyrgyzstan-vs-turkmenistan/1.m3u8
+https://world-proxifier.xyz/streamed/channel/hotel/germany-3-liga-havelse-vs-osnabr-ck/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Kyrgyzstan vs Turkmenistan (08/30/25) [BRAVO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/bravo/1756555200000-kyrgyzstan-turkmenistan/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUUlghw3EBBC6+IEiBghEUvSBTWQfAsE0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Middelfart vs Lyngby (08/30/25) [ALPHA]
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Kyrgyzstan vs Turkmenistan (08/30/25) [INTEL]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/middelfart-vs-lyngby/1.m3u8
+https://world-proxifier.xyz/streamed/channel/intel/kyrgyzstan-turkmenistan/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Malut United vs PSIM Yogyakarta (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/malut-united-psim-yogyakarta/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUUlghw3EBBC6+IEiBghEUvSBTWQfAsE0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Middelfart vs Lyngby (08/30/25) [BRAVO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/bravo/1756555200000-middelfart-lyngby/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUUlghw3EBBC6+IEiBghEUvSBTWQfAsE0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Middelfart vs Lyngby (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/middelfart-lyngby/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Nõmme Kalju U21 vs Elva (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/nomme-kalju-u21-elva/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Saarbrucken vs Aue (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/alpha/saarbrucken-vs-aue/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Saarbrucken vs Aue (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/saarbrucken-erzgebirge-aue/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Stabaek vs Start (08/30/25) [BRAVO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/bravo/1756555200000-stabaek-start/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Stabaek vs Start (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/stabaek-start/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCETUQKELX5gQvEFhAkQEE3rMhpRkDBZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Stade de Reims vs Le Mans (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -18988,11 +19168,36 @@ https://world-proxifier.xyz/streamed/channel/charlie/reims-vs-le-mans-1389148/1.
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/reims-vs-le-mans-football-1389148/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCETUQKELX5gQvEFhAkQEE3rMhpRkDBZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Stade de Reims vs Le Mans (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/france-ligue-2-reims-vs-le-mans/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCETUQKELX5gQvEFhAkQEE3rMhpRkDBZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Stade de Reims vs Le Mans (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/reims-le-mans/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Tartu JK Tammeka U21 vs Levadia U21 Tallinn (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/tartu-tammeka-u21-levadia-tallinn-u21/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| TransINVEST Vilnius vs Atmosfera (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/transinvest-atmosfera/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| TSV Havelse vs VfL Osnabruck (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/alpha/tsv-havelse-vs-vfl-osnabruck/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| TSV Havelse vs VfL Osnabruck (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/havelse-osnabruck/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Verl vs Duisburg (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -19003,11 +19208,26 @@ https://world-proxifier.xyz/streamed/channel/alpha/verl-vs-duisburg/1.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/verl-vs-msv-duisburg-football-1394091/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Verl vs Duisburg (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/germany-3-liga-sc-verl-v-duisburg/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Verl vs Duisburg (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/verl-msv-duisburg/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFmYhe4FNpB8QEEDBBmcpvYj4FgSCjdYixKMCpRc35eptEemtGBuYqIQQA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Yunnan Yukun vs Changchun Yatai (08/30/25) [BRAVO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/bravo/1756555200000-yunnan-yukun-changchun-yatai/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHFmYhe4FNpB8QEEDBBmcpvYj4FgSCjdYixKMCpRc35eptEemtGBuYqIQQA.webp"  tvg-id="24.7.Dummy.us",08:00PM| Yunnan Yukun vs Changchun Yatai (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/yunnan-yukun-changchun-yatai/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLMAAMIGFrFgQ3EHxAkdIRBAsgrieAWBIKfYbPoowKlF0-l6G0W8mWjBPMVEIIA.webp"  tvg-id="24.7.Dummy.us",08:45PM| Bruk-Bet Termalica Nieciecza vs Korona Kielce (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -19018,11 +19238,6 @@ https://world-proxifier.xyz/streamed/channel/alpha/termalica-b-b-vs-korona-kielc
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/bravo/1756557900000-termalica-b-b-korona-kielce/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLMAAMIGFrFgQ3EHxAkdIRBAsgrieAWBIKfYbPoowKlF0-l6G0W8mWjBPMVEIIA.webp"  tvg-id="24.7.Dummy.us",08:45PM| Bruk-Bet Termalica Nieciecza vs Korona Kielce (08/30/25) [CHARLIE]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/charlie/nieciecza-vs-korona-kielce-1380445/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLMAAMIGFrFgQ3EHxAkdIRBAsgrieAWBIKfYbPoowKlF0-l6G0W8mWjBPMVEIIA.webp"  tvg-id="24.7.Dummy.us",08:45PM| Bruk-Bet Termalica Nieciecza vs Korona Kielce (08/30/25) [ECHO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -19778,6 +19993,16 @@ https://world-proxifier.xyz/streamed/channel/alpha/riteriai-vs-dainava-alytus/1.
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/alpha/slovacko-vs-jablonec/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",11:30PM| German Football Highlights (08/30/25) [ALPHA]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/alpha/german-football-highlights/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMAAMwJBXhgpIbiEMQQKIyCvG+IGLgI6KfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"  tvg-id="24.7.Dummy.us",11:30PM| Golden Arrows vs Kaizer Chiefs (08/30/25) [ALPHA]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/alpha/golden-arrows-vs-kaizer-chiefs/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCCkgYuYAAY2IbppB8QJEyBCIrxqQWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"  tvg-id="24.7.Dummy.us",11:30PM| Mjallby vs Halmstad (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -19788,11 +20013,21 @@ https://world-proxifier.xyz/streamed/channel/alpha/mjallby-vs-halmstad/1.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/mjallby-aif-vs-halmstad-football-1342120/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",11:30PM| Sekhukhune United vs Durban City (08/30/25) [ALPHA]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/alpha/sekhukhune-united-vs-durban-city/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoyQhqIFMDCUQvEFhAltuo1fPGSLJBSwi5jFGFV6O78o2py9+Kz67uJiEEA.webp"  tvg-id="24.7.Dummy.us",11:30PM| Spartak Moscow vs Sochi (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/alpha/spartak-moscow-vs-sochi/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",11:30PM| Zaglebie vs Piast Gliwice (08/30/25) [ALPHA]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/alpha/zaglebie-vs-piast-gliwice/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzAwuYDN5SQ3EAZIhTfMyCsGIVgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"  tvg-id="24.7.Dummy.us",11:30PM| Zagłębie Lubin vs Piast Gliwice (08/30/25) [ECHO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -19808,16 +20043,16 @@ https://world-proxifier.xyz/streamed/channel/alpha/unirea-slobozia-vs-universita
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/unirea-slobozia-vs-universitatea-cluj-football-1385814/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",11:55PM| Al-Fateh vs Al-Fayha (08/30/25) [ALPHA]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/alpha/al-fateh-vs-al-fayha/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",11:55PM| Al-Fateh vs Al-Fayha (08/30/25) [ECHO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/al-fateh-vs-al-fayha-football-1435919/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",12:00AM| FC Winterthur vs FC Zurich (08/31/25) [ECHO]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/echo/fc-winterthur-vs-fc-zurich-football-1382319/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",12:00AM| Kasimpasa vs Gazişehir Gaziantep (08/31/25) [ECHO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -19828,16 +20063,36 @@ https://world-proxifier.xyz/streamed/channel/echo/kasimpasa-vs-gazisehir-gaziant
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/kocaelispor-vs-kayserispor-football-1394467/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGXApmuEFJDcQfDSBhGQEEIhAHcBYEgp9hs+ijArtbD+XpZZ2ky0YB5iohBAA.webp"  tvg-id="24.7.Dummy.us",12:00AM| Thun vs Grasshoppers (08/31/25) [ALPHA]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/alpha/fc-thun-vs-grasshoppers/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGXApmuEFJDcQfDSBhGQEEIhAHcBYEgp9hs+ijArtbD+XpZZ2ky0YB5iohBAA.webp"  tvg-id="24.7.Dummy.us",12:00AM| Thun vs Grasshoppers (08/31/25) [ECHO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/fc-thun-vs-grasshoppers-football-1382318/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",12:00AM| Valerenga vs Bryne (08/31/25) [ALPHA]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/alpha/valerenga-vs-bryne/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",12:00AM| Volos NFC vs Olympiakos Piraeus (08/31/25) [ECHO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/echo/volos-nfc-vs-olympiakos-piraeus-football-1400751/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",12:00AM| Winterthur vs FC Zurich (08/31/25) [ALPHA]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/alpha/winterthur-vs-fc-zurich/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",12:00AM| Winterthur vs FC Zurich (08/31/25) [ECHO]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/echo/fc-winterthur-vs-fc-zurich-football-1382319/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDFw8Es-CG4g+IEhsMgIIRAZA2CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"  tvg-id="24.7.Dummy.us",12:15AM| Westerlo vs Antwerp (08/31/25) [CHARLIE]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -19997,6 +20252,11 @@ https://world-proxifier.xyz/streamed/channel/bravo/1756551600000-czech-republic-
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/hotel/euro-hockey-tour-women-czech-republic-vs-sweden/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Club Friendlies: Malmö Redhawks vs Djurgårdens IF (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/club-friendlies-malm-redhawks-vs-djurg-rdens-if/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",10:00PM| Lulea vs Bern (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -20012,11 +20272,6 @@ https://world-proxifier.xyz/streamed/channel/alpha/goodall-cup-final/1.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/alpha/storhamar-vs-sparta-prague/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",12:00PM| Melbourne Ice - Newcastle North Stars (08/30/25) [INTEL]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/intel/melbourne-ice-newcastle-north-stars/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrLDyQvMOAg6QWECRDSQiY7xMgYRlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp"  tvg-id="24.7.Dummy.us",12:30AM| ERC Ingolstadt vs KalPa (08/31/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -20219,6 +20474,11 @@ https://world-proxifier.xyz/streamed/channel/echo/fim-speedway-gp-round-9-wrocla
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/alpha/fim-speedway-grand-prix/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",12:30AM| FIM Speedway Grand Prix (08/31/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/fim-speedway-grand-prix-poland-round-9-grand-prix-of-poland-qualifying/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",12:00AM| NASCAR Craftsman Truck Series Sober or Slammer 200, Darlington Raceway (08/31/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -20306,21 +20566,6 @@ https://world-proxifier.xyz/streamed/channel/charlie/arizona-state-vs-penn-state
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/charlie/penn-state-vs-tcu-1629460106/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",05:00PM| Bulgaria U21 vs Japan U21 (08/30/25) [ALPHA]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/bulgaria-u21-vs-japan-u21/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",05:00PM| Czech Republic U21 vs Italy U21 (08/30/25) [ALPHA]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/czech-republic-u21-vs-italy-u21/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",05:00PM| Thailand U21 vs Indonesia U21 (08/30/25) [ALPHA]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/thailand-u21-vs-indonesia-u21/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",05:00PM| Valur Reykjavik (F) - Inter Milan (F) (08/30/25) [INTEL]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -20331,11 +20576,6 @@ https://world-proxifier.xyz/streamed/channel/intel/valur-reykjavik-f-inter-milan
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/hotel/uci-downhill-world-cup-women-elite-haute-savoie/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmPwhZ0sGIAMIXiCwgS2kBAvHpIaiBAskFLCLmMUejih57yjajkffFZgMC9GMQggA.webp"  tvg-id="24.7.Dummy.us",06:00PM| Italy Volleyball Women vs Germany Volleyball Women (08/30/25) [ALPHA]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/italy-w-vs-germany-w/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmPwhZ0sGIAMIXiCwgS2kBAvHpIaiBAskFLCLmMUejih57yjajkffFZgMC9GMQggA.webp"  tvg-id="24.7.Dummy.us",06:00PM| Italy Volleyball Women vs Germany Volleyball Women (08/30/25) [HOTEL]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -20406,6 +20646,36 @@ https://world-proxifier.xyz/streamed/channel/intel/varberg-bois-falkenberg/1.m3u
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/alpha/canada-u21-vs-brazil-u21/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| FC Minsk (F) - Austria Viena (F) (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/fc-minsk-f-austria-viena-f-/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Germany - 3. Liga: Simulcast (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/germany-3-liga-simulcast/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Germany - DFB-Supercup Frauen: Bayern vs Wolfsburg (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/germany-dfb-supercup-frauen-bayern-vs-wolfsburg/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| ICF Canoe Slalom World Cup D2 (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/icf-canoe-slalom-world-cup-d2/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Romania Liga Nationala Women: CS Rapid Bucuresti vs CSM Slatina (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/romania-liga-nationala-women-cs-rapid-bucuresti-vs-csm-slatina/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| TSV 1860 Munchen - Stuttgart II (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/tsv-1860-munchen-stuttgart-ii/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Ukraine U21 vs South Korea U21 (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -20436,6 +20706,11 @@ https://world-proxifier.xyz/streamed/channel/echo/la-vuelta-stage-8-men-the-brea
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/charlie/saratoga-live-1629460091/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Live racing from Beverley, Sandown, Chelmsford and the Curragh (08/30/25) [HOTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/hotel/live-racing-from-beverley-sandown-chelmsford-and-the-curragh/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",09:00PM| La Vuelta on Eurosport: La Vuelta, Stage 8 + Post Program (08/30/25) [CHARLIE]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -20478,6 +20753,11 @@ https://world-proxifier.xyz/streamed/channel/alpha/western-province-vs-pumas/1.m
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/alpha/catalans-dragons-vs-wigan-warriors/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxCjuYFGBncQhzTBCnDiKWdwgFTJBT7DZ9PSpRcwZeESyyPTLRgXmKiEEA.webp"  tvg-id="24.7.Dummy.us",02:05PM| Dolphins vs Gold Coast Titans (08/31/25) [ALPHA]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/alpha/dolphins-vs-gold-coast-titans/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjl4hpNPpBBasIEse0gYISycQkWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"  tvg-id="24.7.Dummy.us",02:30AM| USA Rugby Women vs Australia Rugby Women (08/31/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -20563,11 +20843,6 @@ https://world-proxifier.xyz/streamed/channel/intel/japan-canada/1.m3u8
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/hotel/national-rugby-league-nq-cowboys-vs-brisbane-broncos/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFOzAgGPbCG4gpICIZCITIEDCtWCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp"  tvg-id="24.7.Dummy.us",05:35PM| North Queensland Cowboys vs Brisbane Broncos (08/30/25) [ALPHA]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/alpha/nq-cowboys-vs-brisbane-broncos/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFOzAgGPbCG4gpICIZCITIEDCtWCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp"  tvg-id="24.7.Dummy.us",05:35PM| North Queensland Cowboys vs Brisbane Broncos (08/30/25) [ECHO]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -21080,6 +21355,16 @@ https://world-proxifier.xyz/streamed/channel/intel/eric-vanshelboim-lilian-marmo
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/intel/josy-daems-silvia-ambrosio/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",07:10PM| Frederico Ferreira Silva - Guy Den Ouden (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/frederico-ferreira-silva-guy-den-ouden/1.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:00PM| Buvaysar Gadamauri - Florian Broska (08/30/25) [INTEL]
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://world-proxifier.xyz/streamed/channel/intel/buvaysar-gadamauri-florian-broska/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",08:30AM| Arthur Ashe: Alexander Bublik vs Tommy Paul (08/31/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -21155,21 +21440,6 @@ https://world-proxifier.xyz/streamed/channel/charlie/louis-armstrong-stadium-162
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://world-proxifier.xyz/streamed/channel/charlie/louis-armstrong-stadium-1629460079/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",11:10AM| Diogo Morais - Andras Necz (08/30/25) [INTEL]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/intel/diogo-morais-andras-necz/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",11:10AM| Joao Graca - Wadym Konowczuk (08/30/25) [INTEL]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/intel/joao-graca-wadym-konowczuk/1.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",11:10AM| Stefan Storch - Alexander Klintcharov (08/30/25) [INTEL]
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://world-proxifier.xyz/streamed/channel/intel/stefan-storch-alexander-klintcharov/1.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://streamed.pk/api/images/poster/fallback.webp"  tvg-id="24.7.Dummy.us",11:30PM| Arthur Ashe: Magdalena Frech vs Coco Gauff (08/30/25) [ALPHA]
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -21414,16 +21684,22 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKz5XPiZLVz8yNCJGKy9
 #EXTGRP:TazzTV - BASKETBALL
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png"  tvg-id="24.7.Dummy.us",06:30PM| Germany - Lithuania (08/30/25) [EUROBASKET HD 1]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToUMCFaJV5IREIwE1olF0w5SlNFMFQ9WgFOJEM8Rl5ASCUv.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png"  tvg-id="24.7.Dummy.us",07:45PM| Estonia - Czech Republic (08/30/25) [EUROBASKET HD 2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToVMCFaJV5IREIwE1olFT4_NF5ASFQ9Wgg_V05DVEJMOzJSR0BAMDQ=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png"  tvg-id="24.7.Dummy.us",08:00PM| Belgium - Iceland (08/30/25) [EUROBASKET HD 4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToXMCFaJV5IREIwE1olEExHTFs8RFQ9WgJAV0dIS1QrNA==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png"  tvg-id="24.7.Dummy.us",08:00PM| Georgia - Italy (08/30/25) [EUROBASKET HD 3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToWMCFaJV5IREIwE1olF0w6N1lASFQ9WgIxU0cwJS8=.m3u8
+
+#EXTGRP:TazzTV - CYCLING
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png"  tvg-id="24.7.Dummy.us",08:15PM| La Vuelta a Espana - Cycling (08/30/25) [PEACOCK-EVENT-1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1UVCggKEwAmAEYOB1E9GisvQStFRl9MKx1BKwFGQV08Qlw_SFRTWg4wIEhFRkEmWgYrTkdOXkIrOg==.m3u8
 
 #EXTGRP:TazzTV - MOTORSPORT
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/uTIsNgoWyjgxQZ8MOasKX08LQ1x513ntz1bpLxBoAuYhtRmEdW.png"  tvg-id="24.7.Dummy.us",05:30PM| Dutch Grand Prix - Formula 1 (08/30/25) [ESPN 2]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UVMCFaJV5IREIwE1olEjw_QFhaDDdTRU9UQDlAPUEmWgEhOUQyXEhaFDA0.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/uTIsNgoWyjgxQZ8MOasKX08LQ1x513ntz1bpLxBoAuYhtRmEdW.png"  tvg-id="24.7.Dummy.us",05:30PM| Dutch Grand Prix - Formula 1 (08/30/25) [SKY SPORTS F1 HD ]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdME0UJ0YrL0ErRUZfTCsdQSsJMiROQ1QXOUhLVFpbN1szWihBDzo3XzxHRkEaKzo=.m3u8
-
-#EXTGRP:TazzTV - RUGBY
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/294.png"  tvg-id="24.7.Dummy.us",05:35PM| Brisbane Broncos - North Queensland Cowboys (08/30/25) [SKY SPORTS ACTION HD]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMEhAJEA6SydGKy9BK0VGX0wrHUErCzdbPklGXkxaBSI6RUAhPlooQQc6NyRDWlYnTExLJUdIS1RaCDQpSTo-JSs0.m3u8
 
 #EXTGRP:TazzTV - SNOOKER
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png"  tvg-id="24.7.Dummy.us",02:00PM| Wuhan Open - Snooker (08/30/25) [MAX-1]
@@ -21448,10 +21724,16 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMEkWMCFaJV5IREI
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxooJ0YrL0ErRUZfTCsdQSsPMlxDSEpBJloGWExHMFdIKzo=.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/17.png"  tvg-id="24.7.Dummy.us",07:30PM| Fulham - Chelsea (08/30/25) [USA NETWORK]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzIlSEVCJDI6N10rIVQwRUhKVysTVDAPPElYSERUPVoITVdHPkJTKzQ=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/18.png"  tvg-id="24.7.Dummy.us",07:30PM| Sheffield United - Middlesbrough (08/30/25) [CA-DAZN-EVENT-4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwYRJgkESgcmAEYOB1E9GSsvQStFRl9MKx1BK15NV01NTldHT1RHRUAxV09aKEEGQEFUR0wwUjk6MllDKzo=.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/18.png"  tvg-id="24.7.Dummy.us",07:30PM| Sheffield United - Middlesbrough (08/30/25) [CBS SPORTS NETWORK]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0BSPiYwIDo5MT1FTDEpOjlIMCFaJV5IREIwE1olRUNMQ1ZATElUWlxLWz9MQUEmWghbT09JVz5JNyE8Qk0wNA==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/18.png"  tvg-id="24.7.Dummy.us",07:30PM| Sheffield United - Middlesbrough (08/30/25) [PARAMOUNT-EVENT-2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1VTOUhKITxFMT0OXQAcXyYVMCFaJV5IREIwE1olRUNMQ1ZATElUWlxLWz9MQUEmWghbT09JVz5JNyE8Qk0wNA==.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/18.png"  tvg-id="24.7.Dummy.us",07:30PM| Sheffield United - Middlesbrough (08/30/25) [SPORT TV2]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFTAhWiVeSERCMBNaJUVDTENWQExJVFpcS1s_TEFBJloIW09PSVc-STchPEJNMDQ=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/18.png"  tvg-id="24.7.Dummy.us",07:30PM| West Bromwich Albion - Stoke City (08/30/25) [PARAMOUNT-EVENT-5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1VTOUhKITxFMT0OXQAcXyYQMCFaJV5IREIwE1olSUw-MUELOTRfMkBAWFoKSVJAOktBJlpQJDpGQkEIQDErKzQ=.m3u8
 
 #EXTGRP:TheTVApp
 #EXTINF:-1  tvg-name="A&E HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" ,A&E HD
