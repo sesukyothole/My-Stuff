@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-08-30T08:10:45.965740 UTC
+# Generated on 2025-08-30T09:08:20.836760 UTC
 
 # 📺 Source: https://world-proxifier.xyz/tazz/playlist?timezone=pdt
 
@@ -277,7 +277,13 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxsoJ0YrL0ErRUZ
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Wuhan Open - Snooker [MAX-1]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYUMCFaJV5IREIwE1olSTxDRl5aBDVXRVooQV5FNCFGTDcwNA==.m3u8
 
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/abPTOx0YOsEn0ahg6G9rkTcKjZJrqFguydSQYFuTgqJDABqAqs.png" ,Canada - Japan [PARAMOUNT-EVENT-4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1VTOUhKITxFMT0OXQAcXyYXMCFaJV5IREIwE1olE0hFRlRIWihBA0g1U0UrOg==.m3u8
+
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/abPTOx0YOsEn0ahg6G9rkTcKjZJrqFguydSQYFuTgqJDABqAqs.png" ,Canada - Japan [SPORT TV2]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFTAhWiVeSERCMBNaJRNIRUZUSFooQQNINVNFKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/uTIsNgoWyjgxQZ8MOasKX08LQ1x513ntz1bpLxBoAuYhtRmEdW.png" ,Dutch Grand Prix - Formula 1 [SKY SPORTS F1 HD ]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdME0UJ0YrL0ErRUZfTCsdQSsJMiROQ1QXOUhLVFpbN1szWihBDzo3XzxHRkEaKzo=.m3u8
 
 
