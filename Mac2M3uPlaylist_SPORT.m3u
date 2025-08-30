@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-08-30T13:25:34.661184 UTC
+# Generated on 2025-08-30T14:19:04.435729 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/Mac2M3uPlaylist_SPORT.m3u
 #EXTINF:-1 tvg-id="skysportsmaineventfhd" tvg-name="Sky Sports Main Event FHD" tvg-logo="http://wizardapks.co.uk/picons/SkySports/SSME.png" ,Sky Sports Main Event FHD
@@ -1035,11 +1035,11 @@ http://groundhogday.in:80/live/Jok123/Jok123/3399647.ts
 http://groundhogday.in:80/live/Jok123/Jok123/3405906.ts
 #EXTINF:-1 tvg-id="usaelevensportshd" tvg-name="USA- ELEVEN SPORTS HD" tvg-logo="" ,USA- ELEVEN SPORTS HD
 http://groundhogday.in:80/live/Jok123/Jok123/3405907.ts
-#EXTINF:-1 tvg-id="dirtvision01williamsgrovespeedway7:00pm" tvg-name="DIRTVISION 01 - Williams Grove Speedway 7:00pm" tvg-logo="" ,DIRTVISION 01 - Williams Grove Speedway 7:00pm
+#EXTINF:-1 tvg-id="dirtvision01volusiaspeedwaypark6:00pm" tvg-name="DIRTVISION 01 - Volusia Speedway Park 6:00pm" tvg-logo="" ,DIRTVISION 01 - Volusia Speedway Park 6:00pm
 http://groundhogday.in:80/live/Jok123/Jok123/3408689.ts
-#EXTINF:-1 tvg-id="dirtvision02jacksonvillespeedway7:15pm" tvg-name="DIRTVISION 02 - Jacksonville Speedway 7:15pm" tvg-logo="" ,DIRTVISION 02 - Jacksonville Speedway 7:15pm
+#EXTINF:-1 tvg-id="dirtvision02landoflegendsraceway6:15pm" tvg-name="DIRTVISION 02 -Land of Legends Raceway 6:15pm" tvg-logo="" ,DIRTVISION 02 -Land of Legends Raceway 6:15pm
 http://groundhogday.in:80/live/Jok123/Jok123/3408690.ts
-#EXTINF:-1 tvg-id="dirtvision03huset'sspeedway7:25pm" tvg-name="DIRTVISION 03 - Huset's Speedway 7:25 pm" tvg-logo="" ,DIRTVISION 03 - Huset's Speedway 7:25 pm
+#EXTINF:-1 tvg-id="dirtvision03huset'sspeedway7:15pm" tvg-name="DIRTVISION 03 - Huset's Speedway 7:15 pm" tvg-logo="" ,DIRTVISION 03 - Huset's Speedway 7:15 pm
 http://groundhogday.in:80/live/Jok123/Jok123/3408691.ts
 #EXTINF:-1 tvg-id="dirtvision04dirtzone7:30pm" tvg-name="DIRTVISION 04 - DIRT Zone 7:30 pm" tvg-logo="" ,DIRTVISION 04 - DIRT Zone 7:30 pm
 http://groundhogday.in:80/live/Jok123/Jok123/3408692.ts
