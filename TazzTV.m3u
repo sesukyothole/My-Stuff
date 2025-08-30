@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-08-30T07:08:00.712545 UTC
+# Generated on 2025-08-30T08:10:45.965740 UTC
 
 # 📺 Source: https://world-proxifier.xyz/tazz/playlist?timezone=pdt
 
@@ -271,19 +271,13 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcRUQcUGV8rL0ErRUZ
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazz.tv/uploads/eptemplates/icons/4muvs7CtAQoMYfgzvemNSMXNeHWwrB0YEHyYgThO5DsdIn6SMS.png" ,DAZN LaLiga
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcRUQcPEQECAhErIVQwRUhKVysTVDAJCl8cWgFGGkBCRjA0.m3u8
 
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Oakland Athletics - Texas Rangers [MLB-EVENT-10]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgaCyYARg4HUT0aJSU6WitLU0RMJQhaKwpTRkdGXk9aBCRDR0IkQE4wQSZaUVczSDBBWUhLWUw5MDA0.m3u8
-
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Oakland Athletics - Texas Rangers [MLB NETWORK]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0pcSUVCJDI6N10rIVQwRUhKVysTVDAESEhcSEVBQQo_TVxMP05VPlooQV9MPVM-WldTRUJCIj4rOg==.m3u8
-
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png" ,Los Angeles Dodgers - Arizona Diamondbacks [MLB-EVENT-7]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgaCyYARg4HUT0cKy9BK0VGX0wrHUErATQlWgpLWUxHQiVaCTRUQkw3JVomVBE5QD8hRUhUEkBISiFFT0dTTkYwMDQ=.m3u8
-
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Wuhan Open - Snooker [TNT SPORTS 2 UK]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxsoJ0YrL0ErRUZfTCsdQStSMlhIRVQfO0xLQSZaUF46OkhXOSs6.m3u8
 
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Wuhan Open - Snooker [MAX-1]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYUMCFaJV5IREIwE1olSTxDRl5aBDVXRVooQV5FNCFGTDcwNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/abPTOx0YOsEn0ahg6G9rkTcKjZJrqFguydSQYFuTgqJDABqAqs.png" ,Canada - Japan [SPORT TV2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFTAhWiVeSERCMBNaJRNIRUZUSFooQQNINVNFKzo=.m3u8
 
 
