@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-08-30T10:08:17.133608 UTC
+# Generated on 2025-08-30T11:06:48.055962 UTC
 
 # 📺 Source: https://world-proxifier.xyz/tazz/playlist?timezone=pdt
 
@@ -288,5 +288,32 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMEhAJEA6SydGKy9
 
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png" ,Germany - Lithuania [EUROBASKET HD 1]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToUMCFaJV5IREIwE1olF0w5SlNFMFQ9WgFOJEM8Rl5ASCUv.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/44.png" ,Hannover 96 - Holstein Kiel [ESPN-EVENT-3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGCU6WitLU0RMJQhaKwNTRUU0Jkw5VAkfWihBDTpJJT9MTl5aAE5XRys6.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/44.png" ,Hannover 96 - Holstein Kiel [SKY BUNDESLIGA 4 HD]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMEkXMCFaJV5IREIwE1olFkhFSyE9TDdBEh9UPVoNNFw-P0JbRVoOW0xHJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/44.png" ,Preußen Münster - VfL Bochum [SKY BUNDESLIGA 3 HD]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMEkWMCFaJV5IREIwE1olQDlMMkw8JStUTUxLQQZXMj4lTUBePj9CIlomVEZNAVQQOk5NJ0QrOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/44.png" ,Arminia Bielefeld - Eintracht Braunschweig [ESPN-EVENT-4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGSU6WitLU0RMJQhaKwQiREBLW0haBVtMR0JWTEdBQSZaAFtFPzdTTkMxQQs5RidFPkBYMkxOWSs0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/44.png" ,Arminia Bielefeld - Eintracht Braunschweig [SKY BUNDESLIGA 5 HD]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMEkQMCFaJV5IREIwE1olETlETl5ASFQQQExJV01MSVRaJlQVQEUxIkhOTSRaCzdTPEUwVUMyQltCKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/18.png" ,Sheffield United - Middlesbrough [CBS SPORTS NETWORK]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0BSPiYwIDo5MT1FTDEpOjlIMCFaJV5IREIwE1olRUNMQ1ZATElUWlxLWz9MQUEmWghbT09JVz5JNyE8Qk0wNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/18.png" ,Sheffield United - Middlesbrough [SPORT TV2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFTAhWiVeSERCMBNaJUVDTENWQExJVFpcS1s_TEFBJloIW09PSVc-STchPEJNMDQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/17.png" ,Fulham - Chelsea [TNT SPORTS 1 UK]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxooJ0YrL0ErRUZfTCsdQSsPMlxDSEpBJloGWExHMFdIKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/17.png" ,Fulham - Chelsea [USA NETWORK]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzIlSEVCJDI6N10rIVQwRUhKVysTVDAPPElYSERUPVoITVdHPkJTKzQ=.m3u8
 
 
