@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-08-31T12:15:33.941556 UTC
+# Generated on 2025-08-31T13:15:41.430638 UTC
 
 # 📺 Source: https://world-proxifier.xyz/tazz/playlist?timezone=pdt
 
@@ -271,15 +271,6 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcRUQcUGV8rL0ErRUZ
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazz.tv/uploads/eptemplates/icons/4muvs7CtAQoMYfgzvemNSMXNeHWwrB0YEHyYgThO5DsdIn6SMS.png" ,DAZN LaLiga
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcRUQcPEQECAhErIVQwRUhKVysTVDAJCl8cWgFGGkBCRjA0.m3u8
 
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/36.png" ,Celtic - Rangers [SKY SPORTS FOOTBALL HD]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdME00IT9JRlxHPEgwIVolXkhEQjATWiUTTEcxW05aKEFZSEtZTDkwMDQ=.m3u8
-
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/36.png" ,Celtic - Rangers [SPORT TV2]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFTAhWiVeSERCMBNaJRNMRzFbTlooQVlIS1lMOTAwNA==.m3u8
-
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/36.png" ,Celtic - Rangers [DE-DAZN-EVENT-13]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcVJgkESgcmAEYOB1E9GhglOlorS1NETCUIWisGV0c_TlVaJlRCSEVMVzk-JS8=.m3u8
-
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/44.png" ,SpVgg Greuther Fürth - 1. FC Magdeburg [ESPN-EVENT-1]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGiU6WitLU0RMJQhaK1AgXUJMQQw5Qic_Q0IiWg9ZJyUlQ1U5P01BJloUPFoPBkEGSExUTEkyIkIrOg==.m3u8
 
@@ -325,10 +316,70 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1UVCggKEwAmAEYOB1E
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png" ,La Vuelta a Espana - Cycling [TNT SPORTS 1 UK]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxooJ0YrL0ErRUZfTCsdQSsBRkFdPEJcP0hUU1oOMCBIRUZBJloGK05HTl5CKzo=.m3u8
 
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png" ,La Vuelta a Espana - Cycling [MAX-2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYVMCFaJV5IREIwE1olGkhaUydMRzFTWkhUFT47Rl5IWihBCDBAXEBFTDA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png" ,La Vuelta a Espana - Cycling [DE-DAZN-EVENT-19]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcVJgkESgcmAEYOB1E9GhIlOlorS1NETCUIWisPU1pdMldHP0ZBSFoAJTtIS1NaJlQTME5JW0VCJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/37.png" ,Feyenoord - Sparta Rotterdam [ESPN-EVENT-6]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmHyU6WitLU0RMJQhaKwFXMExLITo5QUEmWlAgSDkxU1pZNCQ_TDdUSEQlLw==.m3u8
+
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/37.png" ,Feyenoord - Sparta Rotterdam [PREMIER SPORTS 2 UK]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzUiTEROVzk-NQArIVQwRUhKVysTVDAPTD5XRTo0Ik9aKEFeO0YiP0hUQjo_MVc5T0ZfKzQ=.m3u8
 
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/37.png" ,Feyenoord - Sparta Rotterdam [SN WORLD]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBeMjo3XE8rL0ErRUZfTCsdQSsPQitMRTQhOU9UPVpeNVM5P0ZBWToxJEw5QVNEKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/37.png" ,Feyenoord - Sparta Rotterdam [PRIME-EVENT-1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1VCAgYAPQ5dABxfJhQwIVolXkhEQjATWiUUTDBCXjo6N1RaJlRFO0g3JEhaVyE_P0IiT0hKMDQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/37.png" ,Feyenoord - Sparta Rotterdam [ESPN-EVENT-5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmHiU6WitLU0RMJQhaKwFXMExLITo5QUEmWlAgSDkxU1pZNCQ_TDdUSEQlLw==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/uTIsNgoWyjgxQZ8MOasKX08LQ1x513ntz1bpLxBoAuYhtRmEdW.png" ,Dutch Grand Prix - Formula 1 [SKY SPORTS F1 HD ]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdME0UJ0YrL0ErRUZfTCsdQSsJMiROQ1QXOUhLVFpbN1szWihBDzo3XzxHRkEaKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/uTIsNgoWyjgxQZ8MOasKX08LQ1x513ntz1bpLxBoAuYhtRmEdW.png" ,Dutch Grand Prix - Formula 1 [ESPN U]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UyMCFaJV5IREIwE1olEjw_QFhaDDdTRU9UQDlAPUEmWgEhOUQyXEhaFDA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/uTIsNgoWyjgxQZ8MOasKX08LQ1x513ntz1bpLxBoAuYhtRmEdW.png" ,Dutch Grand Prix - Formula 1 [TSN 5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRR4lOlorS1NETCUIWisHJz9OTUEMOUZeT1pVIkAzVD1aDzQiRDxJU1oaJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/34.png" ,Stade Rennais - Angers [FR-DAZN-EVENT-2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwFCJgkESgcmAEYOB1E9GysvQStFRl9MKx1BK14xU09MVEJMRUtTQD5UPVoKS1lMOTAwNA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/34.png" ,Stade Rennais - Angers [BEIN USA]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0dXQEUyJUgrL0ErRUZfTCsdQSteMVNPTFRCTEVLU0A-VD1aCktZTDkwMDQ=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/34.png" ,Stade Rennais - Angers [SPORT TV1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFDAhWiVeSERCMBNaJUU_SEFXWllCXkVITiVaJlQRRUJCIj4rOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/17.png" ,Manchester City - Brighton & Hove Albion [SKY SPORTS MAIN EVENT HD]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMERGW0VMM1dFPzJdKyFUMEVISlcrE1QwBkhLVUNMMCRMOVQTQD8-QSZaBSJAQk0kOkVUNFoNNCZMWgRcSUA0Xis0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/17.png" ,Manchester City - Brighton & Hove Albion [PEACOCK-EVENT-5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1UVCggKEwAmAEYOB1E9HisvQStFRl9MKx1BKwZGXk5DQiU_TDdBCEAxK1omVBA5QExYPzpLQS9aAyE9TFQRR0lOIUUrOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/17.png" ,Manchester City - Brighton & Hove Albion [PEACOCK-EVENT-7]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1UVCggKEwAmAEYOB1E9HCsvQStFRl9MKx1BKwZGXk5DQiU_TDdBCEAxK1omVBA5QExYPzpLQS9aAyE9TFQRR0lOIUUrOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/17.png" ,West Ham United - Nottingham Forest [USA NETWORK]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzIlSEVCJDI6N10rIVQwRUhKVysTVDBSTDAkWg1GX1pcS1s_TEFBJloJIT8_Tl5CQ0ZfWg80Ikw-MTA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/17.png" ,West Ham United - Nottingham Forest [SKY SPORTS PREMIER LEAGUE HD]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMEw1XDxGJTpaK0tTREwlCForXFc-P1QWSERUR0VAMVdPWihBBzoxJEBFTFhIRFQUOjlCJT8rOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/17.png" ,West Ham United - Nottingham Forest [TELEMUNDO HD]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFXR0xKJ0VPNDAhWiVeSERCMBNaJUlMPjFBDUhKQVxFTiRMT1Q9Wgc0JD9AS1lDSEpBDzo3Vz4_JS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/36.png" ,Dundee United - Dundee FC [PREMIER SPORTS 1 UK]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzUiTEROVzk-NQErIVQwRUhKVysTVDAJPEtUTExUR0VAMVdPWihBCTxLVExMVBQIKzo=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/36.png" ,Dundee United - Dundee FC [PARAMOUNT-EVENT-3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1VTOUhKITxFMT0OXQAcXyYWMCFaJV5IREIwE1olEjxFQVdMWlJeQD9CVFomVBI8RUFXTFoBEys0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/35.png" ,1. FSV Mainz 05 - VfL Wolfsburg [DE-DAZN-EVENT-21]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcVJgkESgcmAEYOB1E9GxolOlorS1NETCUIWisUPFoPUEZaBkZbRTFUPh5aKEFdTQ9BUjpJVj5JMiJCKzo=.m3u8
 
 
