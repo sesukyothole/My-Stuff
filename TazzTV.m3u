@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-09-01T09:12:08.364051 UTC
+# Generated on 2025-09-01T10:11:13.653851 UTC
 
 # 📺 Source: https://world-proxifier.xyz/tazz/playlist?timezone=pdt
 
@@ -282,5 +282,8 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYWMCFaJV5IREI
 
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Xi'an Grand Prix - Snooker [MAX-4]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYXMCFaJV5IREIwE1olSEAsRl5aDDdTRU9UQDlAPUEmWlBeOjpIVzkrOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png" ,Montenegro - Sweden [EUROBASKET HD 1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToUMCFaJV5IREIwE1olHTpFMVdFTEwiOlooQV4yQlRMRSUv.m3u8
 
 
