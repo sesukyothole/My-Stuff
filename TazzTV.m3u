@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-09-01T08:14:35.540011 UTC
+# Generated on 2025-09-01T09:12:08.364051 UTC
 
 # 📺 Source: https://world-proxifier.xyz/tazz/playlist?timezone=pdt
 
@@ -270,5 +270,17 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcRUQcUGV8rL0ErRUZ
 
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazz.tv/uploads/eptemplates/icons/4muvs7CtAQoMYfgzvemNSMXNeHWwrB0YEHyYgThO5DsdIn6SMS.png" ,DAZN LaLiga
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcRUQcPEQECAhErIVQwRUhKVysTVDAJCl8cWgFGGkBCRjA0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Xi'an Grand Prix - Snooker [MAX-1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYUMCFaJV5IREIwE1olSEAsRl5aDDdTRU9UQDlAPUEmWlBeOjpIVzkrOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Xi'an Grand Prix - Snooker [MAX-2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYVMCFaJV5IREIwE1olSEAsRl5aDDdTRU9UQDlAPUEmWlBeOjpIVzkrOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Xi'an Grand Prix - Snooker [MAX-3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYWMCFaJV5IREIwE1olSEAsRl5aDDdTRU9UQDlAPUEmWlBeOjpIVzkrOg==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png" ,Xi'an Grand Prix - Snooker [MAX-4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYXMCFaJV5IREIwE1olSEAsRl5aDDdTRU9UQDlAPUEmWlBeOjpIVzkrOg==.m3u8
 
 
