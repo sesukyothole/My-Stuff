@@ -132,8 +132,7 @@ class EPGShare01Fetcher:
         """Initialize the EPG fetcher with optional cache directory."""
         self.sources = [
             "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
-            "https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz
-"
+            "https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz"
         ]
         self.cache_dir = cache_dir
         self.epg_data = None
