@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged3_epg.xml.gz"
-# Last forced update: 2025-09-02T15:26:13.576343Z
+# Last forced update: 2025-09-02T16:29:38.046647Z
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="NHL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Stars - Blues September 20, 2025 (AWAY)
 https://live.webcastserver.online/hdstream/embed/359.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://nhlwebcast.com/|Origin=https://nhlwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="NHL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Stars - Blues September 20, 2025 (HOME)
