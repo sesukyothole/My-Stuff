@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged3_epg.xml.gz"
-# Last forced update: 2025-09-02T08:27:04.267333Z
+# Last forced update: 2025-09-02T09:21:25.353435Z
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Angels - Astros September 1, 2025 (AWAY)
 https://live.webcastserver.online/hdstream/embed/377.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Angels - Astros September 1, 2025 (HOME)
@@ -16,6 +16,10 @@ https://live.webcastserver.online/hdstream/embed/371.m3u8|User-Agent=Mozilla/5.0
 https://live.webcastserver.online/hdstream/embed/366.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Braves - Cubs September 1, 2025 (HOME)
 https://live.webcastserver.online/hdstream/embed/483.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Dodgers - Pirates September 2, 2025 (AWAY)
+https://live.webcastserver.online/hdstream/embed/394.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Dodgers - Pirates September 2, 2025 (HOME)
+https://live.webcastserver.online/hdstream/embed/385.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Giants - Rockies September 1, 2025 (AWAY)
 https://live.webcastserver.online/hdstream/embed/387.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Giants - Rockies September 1, 2025 (HOME)
