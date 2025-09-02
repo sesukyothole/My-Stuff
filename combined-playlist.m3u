@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-09-02T18:33:32.512768 UTC
+# Generated on 2025-09-02T19:18:31.981097 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 
@@ -16444,114 +16444,124 @@ https://jmp2.uk/stvp-US270000298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756834136-0cpqxG4FFPJcd3dOvVdlha2HBWz8MdShXuWx0PxWOjo%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837810-BXJo2OWiHVZxGmbdwFbBKiv%2BVUIzefnz9b08%2BHxVT9Y%3D
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Baltimore vs. Buffalo Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756834113-RMVLTj1W38KR7USr25nVb97TNzhmZJw%2FWYgu%2B%2BPm%2BV4%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837678-DDvlAZssHnXxGXUU2r%2B7QtUD8RoUxcICDp4RZDVtv2M%3D
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Carolina vs. Jacksonville Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756834015-DKK4uba92xjURqp989Lmxwd%2FOPiVcQbiVW4jWOMsJnY%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837783-vRNvb9GB6E7hrdUvuB4LTyRAnwkUX46HGdow7rjCqCQ%3D
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Cincinnati vs. Cleveland Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837588-JpjQfyY6rECZuUaLM7SJcZdxxaRacf3TiQx9V9%2FcewE%3D
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Dallas Cowboys vs. Philadelphia Eagles Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756833948-sfc76iawsbDwCpaOnlxu348kBB8W3Ov%2Fo2cmTu1PI4I%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837598-50%2FLuHfavMcYtJ3PdkBRixEBwa92khU0rGRGVLQdObI%3D
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Detroit vs. Green Bay Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756833931-g20h0j89BAsBF5FYocvElp4jhq5WtJ8znK3wxIFXp4E%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837696-jshzghrrF1hrcQ61HLy7ZXWSJkLOvM4nKAoftlpi1eE%3D
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Houston vs. L.A. Rams Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837818-Vl3C%2FbkhbIhqQaxIHZbXRF8y%2FgPysYKYY7FNfyX3EG4%3D
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Kansas City Chiefs vs. Los Angeles Chargers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756833922-K9JnL6gK6KJbYToHCNFfV%2F7Ds2uMBNL%2BDVRBNeWNqzU%3D
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Las Vegas vs. New England Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756834059-eUTtjOW8GyUOLK7p6dnDtwLAPa7SKqLHjl1gN55yKBI%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837644-g5nBSb7IV6z5cRRZED4okgwB1oPHhEvyINrWNlMSc7M%3D
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Miami vs. Indianapolis Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756834103-aeflbmxhsSwQwOp2iF20KCOv%2BwnY%2BDWpCUnWR3r5T2U%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837635-SvSSuhEgLiT5xxUebViSBM6Mtlp%2Fd70FEkEqCH5OOrw%3D
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Minnesota vs. Chicago Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756834025-wNvVZ72%2FeFKIiV%2FQqcFQLmYiCfXGrb9wAHo%2B5qUCj6U%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837827-suTQdoy2qHmbutIiJfbxrxn9huH%2FCp1ZRkvDU6IM94I%3D
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,N.Y. Giants vs. Washington Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756834154-fZVgNnR7WduyltCaYY8%2FRtdTLv1KtQZLkWg9n8bSIU4%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837617-a69QSrgHxVJ15uvF%2Bvp4heYhCKBHT78DFAMgcpaGLWY%3D
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Pittsburgh vs. N.Y. Jets Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756834007-1H69SKMUoWCAXnN80AeMiJPlzQziQyj%2FIV3xD%2F9kOTw%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837652-3ReN8ymOZcqETIioYG0mOstvRxDWwxu748Xk9JkXLnU%3D
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,San Francisco vs. Seattle Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756834068-ThhMi%2FYrNOsGoCyBRiKSY2seWwRTP0waEWA23IomMyQ%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837661-e3Bia5IYpUKQwYO93OiigPbvHX0QScgn91Z1jYZwjCA%3D
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Tampa Bay vs. Atlanta Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756834095-3ZMeraBxVOci%2FfYpK%2FrsHvvx2zwZw3dcKqm2idPhUdA%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837722-1lCTljnjAmMPEuDYbayo8cTWUNZPeRZCiCsXYGhY2GQ%3D
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" ,Tennessee vs. Denver Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756834121-aP01xy%2Fpx7WrdYmrfy7wWTSl%2BEwm3GsbC%2B79uOtmIlM%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756837749-txp%2BFDliCsHEOHH5LTvG9rGibvDBIN7C0CW4JbG7cIs%3D
 
 #EXTGRP:StreamEast - Baseball
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Athletics vs. St. Louis Cardinals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=ilVDQbXOfVgN9kJZBrhOxNochHpjbnEa8N0Uvfdv5AU&e=1756844775
+https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=rkGyIs_Z0GKCu1DMhQADKyVjMW9EQ974rnJitwXDfbY&e=1756848410
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Chicago White Sox vs. Minnesota Twins Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=MZMqjHtWvBo3limsK_8uMckPInDEcKhBMO3zYMw8vqY&e=1756844800
+https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=lfEc_U3bjrHBVEUiM_zNOMxzJol2NAqmog6WMH_LR5s&e=1756848534
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Cleveland Guardians vs. Boston Red Sox Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=fk5IiTX1C1zZY90CU_dBjTvMvSQqUlhpTHBvGEAuH-Q&e=1756844979
+https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=I-RGPOE1xiBeJnt21Nbv6tti_QnBRVW7zjS6KVomdiY&e=1756848489
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Los Angeles Angels vs. Kansas City Royals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=192jCXd1Ql-ASu6pXExg3nyBxgvSNfS4FeDMdTQvPjU&e=1756844782
+https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=pLyVAzKVl0hEeuEssESC5EMPXn4KljWkN43XGb5hHQE&e=1756848577
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Los Angeles Dodgers vs. Pittsburgh Pirates Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://azplay.ru.com:8089/hls/HDGQ18/index.m3u8?st=8Zr38c58IrY-Xo0iixUMfA&amp;e=1756844791
+https://streamsgate.za.com:8089/hls/HDGQ18/index.m3u8?st=-522Qa0hzQBRvadqDHpJvw&amp;e=1756848506
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Miami Marlins vs. Washington Nationals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/dazhfiach15.m3u8?st=5TnyrkjkxZBqknW4GI84wjz7h41e1WbQu002ViTO2XE&e=1756844844
+https://edgestreams.pro/hls/dazhfiach15.m3u8?st=9Ckt7lONvrcqTZ5EL0RmWJ2SKwOiGZ61I99PnaZkI7w&e=1756848542
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,New York Mets vs. Detroit Tigers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://mainstreams.pro/hls/iueyzbvezch16.m3u8?st=nIaZRf6XtqFcgcwAu71iWPwJHEHLFtk5jjF7I8cK8QI&e=1756844835
+https://edgestreams.pro/hls/iueyzbvezch16.m3u8?st=8NLNIoanl0DJnn2FaVdSOMEWCqPrkJGmF2d79YQN4H8&e=1756848603
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,New York Yankees vs. Houston Astros Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://dla2.dbcast.live/k0hxL3lmV3_cgyn1imGxgA/1756866636/36382e3232302e36312e313636/ff638/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" ,Toronto Blue Jays vs. Cincinnati Reds Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=EeXNdDbc1_Cl78ivT5RVaEHEHp4GRSFw1AKtberO1Ko&e=1756844758
+https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=bzkPtHgYKQlwTX4c1jfGCA3lluM5O7U-Xk0OyauaF-Y&e=1756848515
 
 #EXTGRP:TazzTV - 24/7 CHANNELS
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazz.tv/uploads/eptemplates/icons/GNsdxcIcY8tRPUBp7Tpz8ypKIlv1r1LJU1AhuB8CXbG3W5VmqY.png"  tvg-id="24.7.Dummy.us",ABC
@@ -16736,6 +16746,10 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKz5XPiZLVz8yNCJGKy9
 #EXTGRP:TazzTV - BASKETBALL
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png"  tvg-id="24.7.Dummy.us",Georgia - Cyprus [EUROBASKET HD 4]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToXMCFaJV5IREIwE1olF0w6N1lASFQ9Wgg-IDk8MDA0.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png"  tvg-id="24.7.Dummy.us",Poland - France [EUROBASKET HD 6]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToRMCFaJV5IREIwE1olQDpHRl5PWihBDzlGXk5MJS8=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png"  tvg-id="24.7.Dummy.us",Spain - Italy [EUROBASKET HD 5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToQMCFaJV5IREIwE1olRTtITl5aJlQZP0hJKys0.m3u8
 
 #EXTGRP:TazzTV - OTHER
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png"  tvg-id="24.7.Dummy.us",La Vuelta a Espana - Cycling [DE-DAZN-EVENT-2]
@@ -16744,6 +16758,8 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcVJgkESgcmAEYOB1E
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1UVCggKEwAmAEYOB1E9GisvQStFRl9MKx1BKwFGQV08Qlw_SFRTWg4wIEhFRkEmWgYrTkdOXkIrOg==.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png"  tvg-id="24.7.Dummy.us",La Vuelta a Espana - Cycling [TNT SPORTS 3 UK]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxgoJ0YrL0ErRUZfTCsdQSsBRkFdPEJcP0hUU1oOMCBIRUZBJloGK05HTl5CKzo=.m3u8
+
+#EXTGRP:TazzTV - SNOOKER
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png"  tvg-id="24.7.Dummy.us",Xi'an Grand Prix - Snooker [MAX-2]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYVMCFaJV5IREIwE1olSEAsRl5aDDdTRU9UQDlAPUEmWlBeOjpIVzkrOg==.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png"  tvg-id="24.7.Dummy.us",Xi'an Grand Prix - Snooker [MAX-3]
@@ -16758,22 +16774,20 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYRMCFaJV5IREI
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0VBVzs6NyRMPiU6WitLU0RMJQhaKwRcTkg3UzFaBjxaJlQaTENCTDwlFD5PRkZBAyclLw==.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png"  tvg-id="24.7.Dummy.us",Alcaraz C. - Lehečka J. [ESPN]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UlOlorS1NETCUIWisEXE5IN1MxWgY8WiZUGkxDQkw8JRQ-T0ZGQQMnJS8=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png"  tvg-id="24.7.Dummy.us",Alcaraz C. - Lehečka J. [SKY SPORTS MAIN EVENT HD]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMERGW0VMM1dFPzJdKyFUMEVISlcrE1QwCkdAUzlIP0EIJ1Q9WgFCWExXMj4aJUFdSFoNPCs0.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png"  tvg-id="24.7.Dummy.us",Alcaraz C. - Lehečka J. [SKY SPORTS TENNIS HD]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMD9CXkVAMCdGKy9BK0VGX0wrHUErCklVSDlGKloIKUEmWg9XQ0xZJyUaK1RGSFQYJys6.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png"  tvg-id="24.7.Dummy.us",Alcaraz C. - Lehečka J. [TSN 1]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRolOlorS1NETCUIWisEXE5IN1MxWgY8WiZUGkxDQkw8JRQ-T0ZGQQMnJS8=.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png"  tvg-id="24.7.Dummy.us",Alcaraz C. - Lehečka J. [TSN 4]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRklOlorS1NETCUIWisEXE5IN1MxWgY8WiZUGkxDQkw8JRQ-T0ZGQQMnJS8=.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png"  tvg-id="24.7.Dummy.us",Krejčíková B. - Pegula J. [ESPN DEPORTES]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0VBVzs6NyRMPiU6WitLU0RMJQhaKw4iTEFZJyUaK1RXPCs-TE9IIT1XMj4lTBRBCydUPVpbQlk8R0ZBAyclLw==.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png"  tvg-id="24.7.Dummy.us",Krejčíková B. - Pegula J. [ESPN]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UlOlorS1NETCUIWisOIkxBWSclGitUVzwrPkxPSCE9VzI-JUwUQQsnVD1aW0JZPEdGQQMnJS8=.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png"  tvg-id="24.7.Dummy.us",Krejčíková B. - Pegula J. [SKY SPORTS TENNIS HD]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMD9CXkVAMCdGKy9BK0VGX0wrHUErADdXQVcyPholQUw8JStXT0Y0Jlc8Kz5MGlQQJ1ooQVtMTCdHSFQYJys6.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png"  tvg-id="24.7.Dummy.us",Krejčíková B. - Pegula J. [TSN 1]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRolOlorS1NETCUIWisOIkxBWSclGitUVzwrPkxPSCE9VzI-JUwUQQsnVD1aW0JZPEdGQQMnJS8=.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png"  tvg-id="24.7.Dummy.us",Krejčíková B. - Pegula J. [TSN 4]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRklOlorS1NETCUIWisOIkxBWSclGitUVzwrPkxPSCE9VzI-JUwUQQsnVD1aW0JZPEdGQQMnJS8=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png"  tvg-id="24.7.Dummy.us",Dabrowski G / Routliffe E - Babos T / Stefani L [ESPN-EVENT-3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGCU6WitLU0RMJQhaKwdTSTk0KT5GTkEMWipBWToyJEdAQ1ZMWgBBJloFU0k6MEFfWipBXj9CVkhFTkEBKzo=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/AFIqbuSsoBXMwSn2rFFTJlL0KuNpOtBmjQeLaiH9qDXekTjcaF.png"  tvg-id="24.7.Dummy.us",Errani S / Paolini J - Muhammad A / Schuurs D [ESPN-EVENT-14]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGhcwIVolXkhEQjATWiUVOTlGXkBaUEEkWlVTOkdOXkBaDUEmWggnQ0hKX0hPVBFaJFRFTkMyJzk-VBIrNA==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/gnCt2exBojiplviNgfzPSjbIRRxPg4VtVzu5h6ZNe2F67E3jpk.png"  tvg-id="24.7.Dummy.us",Mektic N / Ram R - Romboli F / Smith J-P [ESPN-EVENT-1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGiU6WitLU0RMJQhaKwhXRj9OVVoHVD9aWUZfWllUPVpZNF9JOklbWg9UP1peSls_Q1QYJlslLw==.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png"  tvg-id="24.7.Dummy.us",TV Coverage - US Open 2025 [ESPN DEPORTES]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0VBVzs6NyRMPiU6WitLU0RMJQhaK1FGWgg0Jkw5RllMWihBXF5UHztMS0EbJRUFKzQ=.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png"  tvg-id="24.7.Dummy.us",TV Coverage - US Open 2025 [ESPN]
