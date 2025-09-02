@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-09-02T16:11:25.755210 UTC
+# Generated on 2025-09-02T17:08:12.164250 UTC
 
 # 📺 Source: https://world-proxifier.xyz/tazz/playlist?timezone=pdt
 
@@ -313,9 +313,6 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRklOlorS1NETCU
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,TV Coverage - US Open 2025 [SKY SPORTS MAIN EVENT HD]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMERGW0VMM1dFPzJdKyFUMEVISlcrE1QwX11UEzo9QiJIQkJBJlpSRVoENVdFWhU-Gx4lLw==.m3u8
 
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png" ,Slovenia - Iceland [EUROBASKET HD 3]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToWMCFaJV5IREIwE1olRUc6M1dFQEZBJloMVUxHRl5PKzo=.m3u8
-
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png" ,Georgia - Cyprus [EUROBASKET HD 4]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToXMCFaJV5IREIwE1olF0w6N1lASFQ9Wgg-IDk8MDA0.m3u8
 
@@ -333,5 +330,20 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0VBVzs6NyRMPiU
 
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Krejčíková B. - Pegula J. [TSN 4]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRklOlorS1NETCUIWisOIkxBWSclGitUVzwrPkxPSCE9VzI-JUwUQQsnVD1aW0JZPEdGQQMnJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Alcaraz C. - Lehečka J. [SKY SPORTS TENNIS HD]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMD9CXkVAMCdGKy9BK0VGX0wrHUErCklVSDlGKloIKUEmWg9XQ0xZJyUaK1RGSFQYJys6.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Alcaraz C. - Lehečka J. [ESPN]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UlOlorS1NETCUIWisEXE5IN1MxWgY8WiZUGkxDQkw8JRQ-T0ZGQQMnJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Alcaraz C. - Lehečka J. [TSN 1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRolOlorS1NETCUIWisEXE5IN1MxWgY8WiZUGkxDQkw8JRQ-T0ZGQQMnJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Alcaraz C. - Lehečka J. [ESPN DEPORTES]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0VBVzs6NyRMPiU6WitLU0RMJQhaKwRcTkg3UzFaBjxaJlQaTENCTDwlFD5PRkZBAyclLw==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png" ,Alcaraz C. - Lehečka J. [TSN 4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRklOlorS1NETCUIWisEXE5IN1MxWgY8WiZUGkxDQkw8JRQ-T0ZGQQMnJS8=.m3u8
 
 
