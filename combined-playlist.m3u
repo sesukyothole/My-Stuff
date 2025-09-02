@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-09-02T13:34:52.162257 UTC
+# Generated on 2025-09-02T14:26:53.260413 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 
@@ -16866,6 +16866,10 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToUMCFaJV5IREI
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToVMCFaJV5IREIwE1olGT45RldHWihBC0xJWUA8SjA0.m3u8
 
 #EXTGRP:TazzTV - CYCLING
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png"  tvg-id="24.7.Dummy.us",La Vuelta a Espana - Cycling [DE-DAZN-EVENT-2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcVJgkESgcmAEYOB1E9GysvQStFRl9MKx1BKwFGQV08Qlw_SFRTWg4wIEhFRkEmWgYrTkdOXkIrOg==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png"  tvg-id="24.7.Dummy.us",La Vuelta a Espana - Cycling [PEACOCK-EVENT-1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1UVCggKEwAmAEYOB1E9GisvQStFRl9MKx1BKwFGQV08Qlw_SFRTWg4wIEhFRkEmWgYrTkdOXkIrOg==.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png"  tvg-id="24.7.Dummy.us",La Vuelta a Espana - Cycling [TNT SPORTS 3 UK]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxgoJ0YrL0ErRUZfTCsdQSsBRkFdPEJcP0hUU1oOMCBIRUZBJloGK05HTl5CKzo=.m3u8
 
