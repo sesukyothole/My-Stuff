@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-09-02T15:09:52.881871 UTC
+# Generated on 2025-09-02T16:11:25.755210 UTC
 
 # 📺 Source: https://world-proxifier.xyz/tazz/playlist?timezone=pdt
 
@@ -324,5 +324,14 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMD9CXkVAMCdGKy9
 
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Krejčíková B. - Pegula J. [ESPN]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UlOlorS1NETCUIWisOIkxBWSclGitUVzwrPkxPSCE9VzI-JUwUQQsnVD1aW0JZPEdGQQMnJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Krejčíková B. - Pegula J. [TSN 1]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRolOlorS1NETCUIWisOIkxBWSclGitUVzwrPkxPSCE9VzI-JUwUQQsnVD1aW0JZPEdGQQMnJS8=.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Krejčíková B. - Pegula J. [ESPN DEPORTES]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0VBVzs6NyRMPiU6WitLU0RMJQhaKw4iTEFZJyUaK1RXPCs-TE9IIT1XMj4lTBRBCydUPVpbQlk8R0ZBAyclLw==.m3u8
+
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/VcrDtcQacTWhrUfROKpYk8lMFIgi0T288Wp2YKsbjbnZdJEmRB.png" ,Krejčíková B. - Pegula J. [TSN 4]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRklOlorS1NETCUIWisOIkxBWSclGitUVzwrPkxPSCE9VzI-JUwUQQsnVD1aW0JZPEdGQQMnJS8=.m3u8
 
 
