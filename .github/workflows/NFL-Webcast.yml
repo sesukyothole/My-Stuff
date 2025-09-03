@@ -2,7 +2,7 @@ name: 🔄 Force Update NFL-Webcast Playlist
 
 on:
   schedule:
-    - cron: '0 * * * *'  # ⏱ Every 1 hour (UTC)
+    - cron: 'H4 * * * *'  # ⏱ At 4AM hour (PDT)
   workflow_dispatch:      # 🔘 Manual trigger
 
 permissions:
