@@ -2,7 +2,7 @@ name: 🔄 Force Update NHL-Webcast Playlist
 
 on:
   schedule:
-    - cron: '0 * * * *'  # ⏱ Every 1 hour (UTC)
+    - cron: 'H 7 * * *'  # ⏱ At 7AM Hour (PDT)
   workflow_dispatch:      # 🔘 Manual trigger
 
 permissions:
