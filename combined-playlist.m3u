@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-09-04T18:34:20.662956 UTC
+# Generated on 2025-09-04T19:18:56.460915 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 
@@ -17115,14 +17115,10 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzIlSEVCJDI6N10rIVQ
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKz5XPiZLVz8yNCJGKy9BK0VGX0wrHUErUABFWgcARFIEVxsrNA==.m3u8
 
 #EXTGRP:TazzTV - BASKETBALL
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png"  tvg-id="24.7.Dummy.us",Cyprus - Italy [EUROBASKET HD 4]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToXMCFaJV5IREIwE1olEzA7Nyc-WihBAj9GXDArOg==.m3u8
-
-#EXTGRP:TazzTV - CYCLING
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png"  tvg-id="24.7.Dummy.us",La Vuelta a Espana - Cycling [DE-DAZN-EVENT-5]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcVJgkESgcmAEYOB1E9HisvQStFRl9MKx1BKwFGQV08Qlw_SFRTWg4wIEhFRkEmWgYrTkdOXkIrOg==.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png"  tvg-id="24.7.Dummy.us",La Vuelta a Espana - Cycling [TNT SPORTS 3 UK]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxgoJ0YrL0ErRUZfTCsdQSsBRkFdPEJcP0hUU1oOMCBIRUZBJloGK05HTl5CKzo=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png"  tvg-id="24.7.Dummy.us",Belgium - Poland [EUROBASKET HD 5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToQMCFaJV5IREIwE1olEExHTFs8RFQ9Wls0XEhFQTA0.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png"  tvg-id="24.7.Dummy.us",Greece - Spain [EUROBASKET HD 6]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToRMCFaJV5IREIwE1olFzlMQlVMWihBXjtGW0UrOg==.m3u8
 
 #EXTGRP:TazzTV - GOLF
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/srKMx40KeJrKuRgj74o3a33TjcNwWzTJpdeduXvL6cYfXriLHN.png"  tvg-id="24.7.Dummy.us",Irish Open - DP World Tour [DE-DAZN-EVENT-7]
@@ -17132,29 +17128,15 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0tSTiZMIUdNJTpaK0t
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/srKMx40KeJrKuRgj74o3a33TjcNwWzTJpdeduXvL6cYfXriLHN.png"  tvg-id="24.7.Dummy.us",Irish Open - DP World Tour [SKY SPORTS GOLF HD]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1BdMEI0XE08SDAhWiVeSERCMBNaJRk5QDBYWgQ1V0VaKEEJW1RJOjlJVFpfNCc5Kzo=.m3u8
 
-#EXTGRP:TazzTV - SNOOKER
+#EXTGRP:TazzTV - OTHER
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png"  tvg-id="24.7.Dummy.us",La Vuelta a Espana - Cycling [DE-DAZN-EVENT-5]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcVJgkESgcmAEYOB1E9HisvQStFRl9MKx1BKwFGQV08Qlw_SFRTWg4wIEhFRkEmWgYrTkdOXkIrOg==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/nCNhPhl78c4iCVQbUuseBzin1msoz9yatxjtBUh3sqzcj7mls2.png"  tvg-id="24.7.Dummy.us",La Vuelta a Espana - Cycling [TNT SPORTS 3 UK]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxgoJ0YrL0ErRUZfTCsdQSsBRkFdPEJcP0hUU1oOMCBIRUZBJloGK05HTl5CKzo=.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png"  tvg-id="24.7.Dummy.us",Northern Ireland Open - Snooker [MAX-1]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYUMCFaJV5IREIwE1olHDo5MVhMOUtBAjlCXEhFQUEEO0JeWiZURUU6NF1MOSUv.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png"  tvg-id="24.7.Dummy.us",Northern Ireland Open - Snooker [MAX-3]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgRUyYWMCFaJV5IREIwE1olHDo5MVhMOUtBAjlCXEhFQUEEO0JeWiZURUU6NF1MOSUv.m3u8
-
-#EXTGRP:TazzTV - SOCCER
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/851.png"  tvg-id="24.7.Dummy.us",Albania - Gibraltar [CA-DAZN-EVENT-5]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwYRJgkESgcmAEYOB1E9HisvQStFRl9MKx1BKwpJUkhFTlNaJlQXQEk3U0c_RiIrNA==.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/851.png"  tvg-id="24.7.Dummy.us",Finland - Norway [CA-DAZN-EVENT-2]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwYRJgkESgcmAEYOB1E9GysvQStFRl9MKx1BKw9OXkdIS1RaJlQcOjk8UzArOg==.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/851.png"  tvg-id="24.7.Dummy.us",Finland - Norway [FOX SOCCER PLUS]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0MlOk5AVzk7SSc-Ky9BK0VGX0wrHUErD05eR0hLVFomVBw6OTxTMCs6.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/851.png"  tvg-id="24.7.Dummy.us",Finland - Norway [SPORT TV3]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFjAhWiVeSERCMBNaJRRARUlTRU9UPVoHNCIySD4wNA==.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/UV9pbViuRGgjvBIjp0Q7cWtUZDYhzsoSEUpT5G8CGH7luCmJQ3.png"  tvg-id="24.7.Dummy.us",Malta - Lithuania [CA-DAZN-EVENT-4]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwYRJgkESgcmAEYOB1E9GSsvQStFRl9MKx1BKwZGXD9IVD1aAU4kQzxGXkBIJS8=.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/UV9pbViuRGgjvBIjp0Q7cWtUZDYhzsoSEUpT5G8CGH7luCmJQ3.png"  tvg-id="24.7.Dummy.us",Turkey - Georgia [CA-DAZN-EVENT-3]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwYRJgkESgcmAEYOB1E9GCsvQStFRl9MKx1BK18yIkZMPkEmWgJXOjlMW0grOg==.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/UV9pbViuRGgjvBIjp0Q7cWtUZDYhzsoSEUpT5G8CGH7luCmJQ3.png"  tvg-id="24.7.Dummy.us",Turkey - Georgia [FOX SPORTS 2]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0MlGysvQStFRl9MKx1BK18yIkZMPkEmWgJXOjlMW0grOg==.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/UV9pbViuRGgjvBIjp0Q7cWtUZDYhzsoSEUpT5G8CGH7luCmJQ3.png"  tvg-id="24.7.Dummy.us",Turkey - Georgia [SPORT TV1]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFDAhWiVeSERCMBNaJUQ8OUhXMFooQQxMNCJCQEYwNA==.m3u8
 
 #EXTGRP:TazzTV - TENNIS
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FoxdbsEHj8QdMcCgwu2rlMaolwykIDlNGQWWGQy7e6fkG1jB0G.png"  tvg-id="24.7.Dummy.us",TV Coverage - US Open 2025 [ESPN DEPORTES]
