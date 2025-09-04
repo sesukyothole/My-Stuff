@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged3_epg.xml.gz"
-# Last forced update: 2025-09-04T01:23:47.053541Z
+# Last forced update: 2025-09-04T02:55:29.408863Z
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Angels - Royals September 2, 2025 (AWAY)
 https://live.webcastserver.online/hdstream/embed/377.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Angels - Royals September 2, 2025 (HOME)
