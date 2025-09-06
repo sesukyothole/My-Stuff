@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged3_epg.xml.gz"
-# Last forced update: 2025-09-06T16:12:30.437243Z
+# Last forced update: 2025-09-06T17:08:49.285314Z
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Arizona State vs Mississippi State
 https://too.mytherix.cz/ncaa4.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Army vs Kansas State
@@ -81,7 +81,7 @@ https://too.mytherix.cz/ncaa9.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/ufc-logo.png",UFC Paris: Imavov vs Borralho (Stream 1)
 https://too.mytherix.cz/ufc.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/ufc-logo.png",UFC Paris: Imavov vs Borralho (Stream 2)
-https://tt.ncvtmisgov.com/ufc.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+https://too.mytherix.cz/ufcalt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",ULM vs Alabama
 https://too.mytherix.cz/ncaa11.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",USF vs Florida
