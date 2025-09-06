@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# Generated on 2025-09-06T18:30:58.897119 UTC
+# Generated on 2025-09-06T19:16:45.054769 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 
@@ -17123,6 +17123,12 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzIlSEVCJDI6N10rIVQ
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKz5XPiZLVz8yNCJGKy9BK0VGX0wrHUErUABFWgcARFIEVxsrNA==.m3u8
 
 #EXTGRP:TazzTV - BASEBALL
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png"  tvg-id="24.7.Dummy.us",Chicago Cubs - Washington Nationals [MARQUEE SPORTS NETWORK]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0pTOTgyV0wmMCA6OTElKyFUMEVISlcrE1QwCENOVUhCNEEIPEclWiZUSUg-TVtFQjEhRVoJUz9ANF5IRzAwNA==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png"  tvg-id="24.7.Dummy.us",Chicago Cubs - Washington Nationals [MASN 2]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0pTPkUVMCFaJV5IREIwE1olE0NAQFNCOlQTPEkwQSZaXFM-Q05eQj80XloHRiRAOktTRz4lLw==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png"  tvg-id="24.7.Dummy.us",Chicago Cubs - Washington Nationals [MLB-EVENT-3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgaCyYARg4HUT0YKy9BK0VGX0wrHUErCE1bTkhMIVoIMlI-WihBUkgwWEBFTCQ6RVQcSD9OIUVISSUrNA==.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png"  tvg-id="24.7.Dummy.us",New York Yankees - Toronto Blue Jays [MLB-EVENT-2]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwgaCyYARg4HUT0bKy9BK0VGX0wrHUErB0IpWlA0IkZaXlNFRkJXPlooQV86NyFFPzRBC0cyV1oDRis-Kzo=.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png"  tvg-id="24.7.Dummy.us",New York Yankees - Toronto Blue Jays [SN EAST]
@@ -17135,16 +17141,10 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBeO0hAW01AQDAhWiV
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBeMkwwJCshVDBFSEpXKxNUMAdMPEFQOjddWlBGXkZMQiVaJlREOjk0Xj86VBBHPEJBA0g-JSs0.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png"  tvg-id="24.7.Dummy.us",New York Yankees - Toronto Blue Jays [TNT SPORTS 3 UK]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePxgoJ0YrL0ErRUZfTCsdQSsHQilaUDQiRlpeU0VGQlc-WihBXzo3IUU_NEELRzJXWgNGKz4rOg==.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png"  tvg-id="24.7.Dummy.us",New York Yankees - Toronto Blue Jays [YES NETWORK]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKz5XPiZLVz8yNCJGKy9BK0VGX0wrHUErB0IpWlA0IkZaXlNFRkJXPlooQV86NyFFPzRBC0cyV1oDRis-Kzo=.m3u8
-
-#EXTGRP:TazzTV - BASKETBALL
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/285.png"  tvg-id="24.7.Dummy.us",Latvia - Lithuania [EUROBASKET HD 3]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0InOToWMCFaJV5IREIwE1olGkg_M1tIWihBAUAxWDxIS1tIKzo=.m3u8
 
 #EXTGRP:TazzTV - BOXING
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/YcTTIRrwTHtlq5f88kmV3z4c8aJphY3x9ehC6ZfVJDUU9Np4IF.png"  tvg-id="24.7.Dummy.us",Miguel Parra - Pat McCormack [CA-DAZN-EVENT-1]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwYRJgkESgcmAEYOB1E9GisvQStFRl9MKx1BKwZOWTxMSUFbSDciSFooQVtIMUEGTgYhOURGVUYrOg==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/YcTTIRrwTHtlq5f88kmV3z4c8aJphY3x9ehC6ZfVJDUU9Np4IF.png"  tvg-id="24.7.Dummy.us",Miguel Parra - Pat McCormack [CA-DAZN-EVENT-3]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwYRJgkESgcmAEYOB1E9GCsvQStFRl9MKx1BKwZOWTxMSUFbSDciSFooQVtIMUEGTgYhOURGVUYrOg==.m3u8
 
 #EXTGRP:TazzTV - FOOTBALL
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png"  tvg-id="24.7.Dummy.us",Delaware State Hornets - Albany Great Danes [ESPN-EVENT-20]
@@ -17155,6 +17155,8 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcVJgkESgcmAEYOB1E
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UlOlorS1NETCUIWisHJ0ZMVBBHPEJBCUwzW0c-VD1aAklcQEU0Wz5aAVtCQzFbRUJUGUdHTl5AKzo=.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png"  tvg-id="24.7.Dummy.us",Florida State Seminoles - Texas A&M-Commerce Lions [ACC NETWORK]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0ZVTiZLVz8yNCJGKy9BK0VGX0wrHUErD0khOUBBU1peMVM_TFRFTEROXjpHQiVaJlRETDNGJVoKIR0mCDRfREw3VUxaD1s6RTAwNA==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png"  tvg-id="24.7.Dummy.us",Furman Paladins - Presbyterian Blue Hose [ESPN-EVENT-22]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGxUwIVolXkhEQjATWiUUPDlKU0VaVVNHSEFbRT5UPVpbN1c-ST4kTDlOU0VaBVw8TFQWOj5CMDQ=.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png"  tvg-id="24.7.Dummy.us",Georgetown Hoyas - Wagner Seahawks [ESPN-EVENT-15]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGhAwIVolXkhEQjATWiUXTDo3WUw_NClFWgMhMEgwQSZaXFNCRUIiWl5CU0NIPF0-Kzo=.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png"  tvg-id="24.7.Dummy.us",Indiana Hoosiers - Kennesaw State Owls [FOX SPORTS 1]
@@ -17191,6 +17193,8 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0IlO0UyMCFaJV5IREI
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0ApKyFUMEVISlcrE1QwXjoyJENMN15aBkIkQzpBWz4_VB08PjFTRUIwQSZaBVMwRzQiWgtCUzk-JS8=.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png"  tvg-id="24.7.Dummy.us",Syracuse Orange - Connecticut Huskies [ESPN-EVENT-8]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmHSU6WitLU0RMJQhaK1ArOUhAJz5MVB85SEtZTFooQQg6S15MTjFbTjwxQQ08MF1ATDAwNA==.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png"  tvg-id="24.7.Dummy.us",Temple Owls - Howard Bison [ESPN-EVENT-24]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGxcwIVolXkhEQjATWiVETEQ1XExaCilHPlQ9Wg00KUg5QUELQDAhRSs6.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png"  tvg-id="24.7.Dummy.us",Tennessee Tech - Chattanooga Mocs [ESPN-EVENT-16]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGhEwIVolXkhEQjATWiVETEVLVz4-QldaX0JVQ1ooQQhDRiQ_SEshOkJGQQY6QCUrNA==.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png"  tvg-id="24.7.Dummy.us",Texas A&M Aggies - Utah State Aggies [DE-DAZN-EVENT-3]
@@ -17207,24 +17211,10 @@ https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzElRRslOlorS1NETCU
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzFePysvQStFRl9MKx1BK19CKEg-VERMTk1BWUxBQVlITlRMOTBBJloOV0U_VEU_SDFXWgw0XE9MS0EPR0YlQ0wwMDQ=.m3u8
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png"  tvg-id="24.7.Dummy.us",Texas Tech Red Raiders - Kent State Golden Flashes [TRUTV]
 https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1EiPD9TMCFaJV5IREIwE1olREwzRiVaX0JVQ1pXV09aV1NAT0IiPlooQQBMSyRaXjFTP0xUFzpHQVdFWgFcSD5NVz4rOg==.m3u8
-
-#EXTGRP:TazzTV - SOCCER
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/UV9pbViuRGgjvBIjp0Q7cWtUZDYhzsoSEUpT5G8CGH7luCmJQ3.png"  tvg-id="24.7.Dummy.us",Andorra - England [CA-DAZN-EVENT-23]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwYRJgkESgcmAEYOB1E9GxglOlorS1NETCUIWisEXk86NyJIWihBDkVMXEhFQTA0.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/UV9pbViuRGgjvBIjp0Q7cWtUZDYhzsoSEUpT5G8CGH7luCmJQ3.png"  tvg-id="24.7.Dummy.us",Andorra - England [DE-DAZN-EVENT-36]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcVJgkESgcmAEYOB1E9GB8lOlorS1NETCUIWisEXk86NyJIWihBDkVMXEhFQTA0.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/UV9pbViuRGgjvBIjp0Q7cWtUZDYhzsoSEUpT5G8CGH7luCmJQ3.png"  tvg-id="24.7.Dummy.us",Andorra - England [FOX SPORTS 2]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0MlGysvQStFRl9MKx1BKwpLVDo5N1NaJlQVRUJJU0VPJS8=.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/UV9pbViuRGgjvBIjp0Q7cWtUZDYhzsoSEUpT5G8CGH7luCmJQ3.png"  tvg-id="24.7.Dummy.us",Andorra - England [SPORT TV2]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFTAhWiVeSERCMBNaJRFFTzQiOUhUPVoOS1lHSEtUKzQ=.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/UV9pbViuRGgjvBIjp0Q7cWtUZDYhzsoSEUpT5G8CGH7luCmJQ3.png"  tvg-id="24.7.Dummy.us",Portugal - Armenia [CA-DAZN-EVENT-22]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwYRJgkESgcmAEYOB1E9GxslOlorS1NETCUIWitVITk_MllIR1Q9Wgo3X0xFTlMrNA==.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/UV9pbViuRGgjvBIjp0Q7cWtUZDYhzsoSEUpT5G8CGH7luCmJQ3.png"  tvg-id="24.7.Dummy.us",Portugal - Armenia [DE-DAZN-EVENT-40]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwcVJgkESgcmAEYOB1E9GSUlOlorS1NETCUIWitVITk_MllIR1Q9Wgo3X0xFTlMrNA==.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/UV9pbViuRGgjvBIjp0Q7cWtUZDYhzsoSEUpT5G8CGH7luCmJQ3.png"  tvg-id="24.7.Dummy.us",Portugal - Armenia [FOX SOCCER PLUS]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK0MlOk5AVzk7SSc-Ky9BK0VGX0wrHUErWzQiPzxMU0daKEEKOUpXRUBGMDQ=.m3u8
-#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/UV9pbViuRGgjvBIjp0Q7cWtUZDYhzsoSEUpT5G8CGH7luCmJQ3.png"  tvg-id="24.7.Dummy.us",Portugal - Armenia [SPORT TV1]
-https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaK1AgOjkxPV9dFDAhWiVeSERCMBNaJUA6OTEnQkhJQSZaBCJETEtbSCs6.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png"  tvg-id="24.7.Dummy.us",Wake Forest Demon Deacons - Western Carolina Catamounts [ESPN-EVENT-25]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGxAwIVolXkhEQjATWiVJSEZCQQ86N1c-P1QSTEQ0XloJQlNOOkslWiZUSUw-MVc5RVQTSDk0XEBFRkEISDFTRDoyXj8-JS8=.m3u8
+#EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png"  tvg-id="24.7.Dummy.us",Youngstown State Penguins - Robert Morris Colonials [ESPN-EVENT-23]
+https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKwBFWwcoFV0OCUQmGxYwIVolXkhEQjATWiVLOjxLWT4_NClFWlAkSD9CQVtMS1k8QEslWiZUQjpJQiI_WgghOTlOJVoINFw6RU5TRz4lLw==.m3u8
 
 #EXTGRP:TazzTV - TENNIS
 #EXTINF:-1 tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/gnCt2exBojiplviNgfzPSjbIRRxPg4VtVzu5h6ZNe2F67E3jpk.png"  tvg-id="24.7.Dummy.us",Salisbury J / Skupski N - Granollers M / Zeballos H [ESPN-EVENT-10]
