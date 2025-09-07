@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged3_epg.xml.gz"
-# Last forced update: 2025-09-07T21:09:44.158342Z
+# Last forced update: 2025-09-07T22:10:07.951847Z
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Arizona Cardinals vs New Orleans Saints
 https://city.ncvtmisgov.com/nfl4.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Baltimore Ravens vs Buffalo Bills
@@ -24,7 +24,9 @@ https://too.mytherix.cz/nfl12.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac 
 https://roxie.se-main.com.mx/nba.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",Knicks vs Pacers (Stream 2)
 https://roxie.se-main.com.mx/nbaalt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Las Vegas Raiders vs New England Patriots
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Las Vegas Raiders vs New England Patriots (Stream 1)
+https://san.damynghetiendat.vn/nfl8.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Las Vegas Raiders vs New England Patriots (Stream 2)
 https://too.mytherix.cz/nfl8.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png",MX2 - Race
 https://too.mytherix.cz/mxgp.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
@@ -52,11 +54,15 @@ https://city.ncvtmisgov.com/redzonealt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; I
 https://city.ncvtmisgov.com/nfl5.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Pittsburgh Steelers vs New York Jets
 https://city.ncvtmisgov.com/nfl2.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",San Francisco 49ers vs Seattle Seahawks
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",San Francisco 49ers vs Seattle Seahawks (Stream 1)
+https://san.damynghetiendat.vn/nfl9.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",San Francisco 49ers vs Seattle Seahawks (Stream 2)
 https://too.mytherix.cz/nfl9.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Tampa Bay Buccaneers vs Atlanta Falcons
 https://city.ncvtmisgov.com/nfl6.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Tennessee Titans vs Denver Broncos
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Tennessee Titans vs Denver Broncos (Stream 1)
+https://san.damynghetiendat.vn/nfl10.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Tennessee Titans vs Denver Broncos (Stream 2)
 https://too.mytherix.cz/nfl10.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/ufc-logo.png",UFC Paris: Imavov vs Borralho (Stream 1)
 https://too.mytherix.cz/ufc.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
