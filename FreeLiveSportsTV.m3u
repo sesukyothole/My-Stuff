@@ -5,7 +5,7 @@
 https://amg26268-amg26268c5-freelivesports-emea-8263.playouts.now.amagi.tv/playlist/amg26268-sportsstudio-ssabsynthetv-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="6793f38b28cc86e5b548fd1c" tvg-name="6793f38b28cc86e5b548fd1c" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87" group-title="Action & Extreme" tvg-chno="251", Adventure Zone Sports Network
 https://onestudio.telos.indicue.com/stream.m3u8
-#EXTINF:-1 tvg-id="6675ba23a139017a32428faa" tvg-name="6675ba23a139017a32428faa" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/a88c79a7-4f11-451e-a62b-f295efb375f4" group-title="Action & Extreme" tvg-chno="999", FUEL TV
+#EXTINF:-1 tvg-id="6675ba23a139017a32428faa" tvg-name="6675ba23a139017a32428faa" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/a88c79a7-4f11-451e-a62b-f295efb375f4" group-title="Action & Extreme" tvg-chno="720", FUEL TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
 #EXTINF:-1 tvg-id="67ad38735451dfa36d3d3d1a" tvg-name="67ad38735451dfa36d3d3d1a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/8280d034-d6c9-4628-83b9-9d0a6dda1095" group-title="Action & Extreme" tvg-chno="243", GoPro
 https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8
@@ -61,7 +61,7 @@ https://9ab4bcc639c845d2b682105f4e9afbf8.mediatailor.us-east-1.amazonaws.com/v1/
 https://linear-1016.frequency.stream/dist/freelivesports/1016/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="670800411a95445e2203071e" tvg-name="670800411a95445e2203071e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9f6d504c-b4d1-433a-8bb0-a7b7c8142be9" group-title="Entertainment" tvg-chno="375", Documentary+
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="68a3a2dc90e4094f6286e55a" tvg-name="68a3a2dc90e4094f6286e55a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a3efa855-6f58-41ec-bc4a-1c62b54f4b58" group-title="Entertainment" tvg-chno="10014", Drone TV
+#EXTINF:-1 tvg-id="68a3a2dc90e4094f6286e55a" tvg-name="68a3a2dc90e4094f6286e55a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a3efa855-6f58-41ec-bc4a-1c62b54f4b58" group-title="Entertainment" tvg-chno="910", Drone TV
 https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
 #EXTINF:-1 tvg-id="672a67138e0fe64b11195701" tvg-name="672a67138e0fe64b11195701" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/5dd7d490-69f5-4e11-b524-34a02662348c" group-title="Entertainment" tvg-chno="372", Escape TV
 https://amg00585-amg00585c13-sportstribal-emea-5522.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-escapetv-sportstribalemea/playlist.m3u8
@@ -177,8 +177,8 @@ https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/
 https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="68114951dc7bfd176ab1044f" tvg-name="68114951dc7bfd176ab1044f" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ba4bf3ca-a9ec-47dd-a089-5c68e7bb4d54" group-title="Specialist" tvg-chno="370", GINX TV
 https://amg00348-amg00348c3-freelivesports-emea-7552.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-ginxtv-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-id="68af5411356f6fb90655e8d0" tvg-name="68af5411356f6fb90655e8d0" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842" group-title="Specialist" tvg-chno="5", Golf Network
-https://amg26268-amg26268c12-freelivesports-emea-9477.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-golfnetworkchannel-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="68af5411356f6fb90655e8d0" tvg-name="68af5411356f6fb90655e8d0" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842" group-title="Specialist" tvg-chno="705", Golf Network
+https://streams2.sofast.tv/ptnr-sportstribal/genre-Sports/lang-English/ctgr-Sport/title-Golf_Network/sofastplayout/b7500c3f-bd94-4725-abfd-2644e004132c/manifest.m3u8
 #EXTINF:-1 tvg-id="6675be6a0485604f67e34186" tvg-name="6675be6a0485604f67e34186" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3cf9a158-a2c6-449b-8c16-cb61daa5ea2e" group-title="Specialist" tvg-chno="303", Strongman Champions League
 https://0864a05b1ca54a4e8fe73805bf810fa4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTribal-gb_StrongmanChampionsLeague/playlist.m3u8
 #EXTINF:-1 tvg-id="673b785252254eb082e18520" tvg-name="673b785252254eb082e18520" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3153e0bf-1b87-470c-8959-b07a6676c152" group-title="Specialist" tvg-chno="367", The Boat Show
