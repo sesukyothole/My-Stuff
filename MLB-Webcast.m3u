@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged3_epg.xml.gz"
-# Last forced update: 2025-09-09T09:21:36.521221Z
+# Last forced update: 2025-09-09T10:20:42.316705Z
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Astros - Blue Jays September 9, 2025 (AWAY)
+https://live.webcastserver.online/hdstream/embed/382.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Astros - Blue Jays September 9, 2025 (HOME)
+https://live.webcastserver.online/hdstream/embed/392.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Brewers - Rangers September 8, 2025 (AWAY)
 https://live.webcastserver.online/hdstream/embed/379.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Brewers - Rangers September 8, 2025 (HOME)
@@ -24,8 +28,12 @@ https://live.webcastserver.online/hdstream/embed/384.m3u8|User-Agent=Mozilla/5.0
 https://live.webcastserver.online/hdstream/embed/393.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Nationals - Marlins September 8, 2025 (HOME)
 https://live.webcastserver.online/hdstream/embed/378.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Pirates - Orioles September 9, 2025 (AWAY)
+https://live.webcastserver.online/hdstream/embed/385.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Pirates - Orioles September 9, 2025 (HOME)
+https://live.webcastserver.online/hdstream/embed/367.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Rays - White Sox September 9, 2025 (AWAY)
-https://live.webcastserver.online/hdstream/embed/374.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
+https://live.webcastserver.online/hdstream/embed/390.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Rays - White Sox September 9, 2025 (HOME)
 https://live.webcastserver.online/hdstream/embed/370.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Red Sox - Athletics September 8, 2025 (AWAY)
@@ -44,6 +52,10 @@ https://live.webcastserver.online/hdstream/embed/394.m3u8|User-Agent=Mozilla/5.0
 https://live.webcastserver.online/hdstream/embed/376.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Royals - Guardians September 8, 2025 (HOME)
 https://live.webcastserver.online/hdstream/embed/372.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Tigers - Yankees September 9, 2025 (AWAY)
+https://live.webcastserver.online/hdstream/embed/374.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Tigers - Yankees September 9, 2025 (HOME)
+https://live.webcastserver.online/hdstream/embed/382.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Twins - Angels September 8, 2025 (AWAY)
 https://live.webcastserver.online/hdstream/embed/380.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://mlbwebcast.com/|Origin=https://mlbwebcast.com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="MLB" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Twins - Angels September 8, 2025 (HOME)
