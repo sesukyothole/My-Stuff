@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged3_epg.xml.gz"
-# Last forced update: 2025-09-11T14:22:34.931206Z
+# Last forced update: 2025-09-11T15:21:51.291884Z
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://i.imgur.com/3XIe0au.png",🌍 Intro 🌍
 https://7pal.short.gy/intro
 --- 📺 Sports | 4K UHD
@@ -176,24 +176,6 @@ https://7pal.short.gy/fs2us
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://i.imgur.com/IwezEnz.png", PremierSports2-FHD
 https://7pal.short.gy/prsport2
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://i.imgur.com/Boxa3qc.png", Supersport_Premier_League-FHD
-https://7pal.short.gy/spersppl
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png", Supersport_Football-FHD
-https://7pal.short.gy/sperspfb
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png", Supersport_Laliga-FHD
-https://7pal.short.gy/sperspllg
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png", Supersport_PSL-FHD
-https://7pal.short.gy/spersppsl
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://i.imgur.com/WpL99ea.png", Supersport_Motosport-FHD
-https://7pal.short.gy/sperspmts
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png", Supersport_Action-FHD
-https://7pal.short.gy/sperspat
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png", Supersport_Rugby-FHD
-https://7pal.short.gy/spersprb
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://i.imgur.com/YtTDeWW.jpg", Supersport_Golf-FHD
-https://7pal.short.gy/sperspgf
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="hhttps://i.imgur.com/SfYpvJj.png", Supersport_Tennis-FHD
-https://7pal.short.gy/spersptns
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://i.imgur.com/jVI5bge.png",Ziggo Sport FHD
 https://7pal.short.gy/zigosfhd
 --- 📺 Sports | Events
