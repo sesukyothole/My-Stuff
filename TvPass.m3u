@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 
-# Generated on 2025-09-12T15:09:32.778709 UTC
+# Generated on 2025-09-12T16:09:42.610580 UTC
 
 # 📺 Source: https://tvpass.org/playlist/m3u
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" ,A&E US Eastern Feed SD
@@ -711,64 +711,84 @@ https://tvpass.org/live/WPIX/hd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network HD" ,Yes Network HD
 https://tvpass.org/live/yes-network/hd
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ Baltimore Orioles (09/11 1:06 PM ET) SD" ,Pittsburgh Pirates @ Baltimore Orioles (09/11 1:06 PM ET) SD
-https://tvpass.org/live/mlb-17/sd
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ Baltimore Orioles (09/11 1:06 PM ET) HD" ,Pittsburgh Pirates @ Baltimore Orioles (09/11 1:06 PM ET) HD
-https://tvpass.org/live/mlb-17/hd
-#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays @ Chicago White Sox (09/11 2:10 PM ET) SD" ,Tampa Bay Rays @ Chicago White Sox (09/11 2:10 PM ET) SD
-https://tvpass.org/live/mlb-03/sd
-#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays @ Chicago White Sox (09/11 2:10 PM ET) HD" ,Tampa Bay Rays @ Chicago White Sox (09/11 2:10 PM ET) HD
-https://tvpass.org/live/mlb-03/hd
-#EXTINF:-1 tvg-id="" tvg-name="Houston Astros @ Toronto Blue Jays (09/11 3:08 PM ET) SD" ,Houston Astros @ Toronto Blue Jays (09/11 3:08 PM ET) SD
-https://tvpass.org/live/mlb-12/sd
-#EXTINF:-1 tvg-id="" tvg-name="Houston Astros @ Toronto Blue Jays (09/11 3:08 PM ET) HD" ,Houston Astros @ Toronto Blue Jays (09/11 3:08 PM ET) HD
-https://tvpass.org/live/mlb-12/hd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Nationals @ Miami Marlins (09/11 6:41 PM ET) SD" ,Washington Nationals @ Miami Marlins (09/11 6:41 PM ET) SD
-https://tvpass.org/live/mlb-07/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Nationals @ Miami Marlins (09/11 6:41 PM ET) HD" ,Washington Nationals @ Miami Marlins (09/11 6:41 PM ET) HD
-https://tvpass.org/live/mlb-07/hd
-#EXTINF:-1 tvg-id="" tvg-name="Detroit Tigers @ New York Yankees (09/11 7:06 PM ET) SD" ,Detroit Tigers @ New York Yankees (09/11 7:06 PM ET) SD
-https://tvpass.org/live/mlb-15/sd
-#EXTINF:-1 tvg-id="" tvg-name="Detroit Tigers @ New York Yankees (09/11 7:06 PM ET) HD" ,Detroit Tigers @ New York Yankees (09/11 7:06 PM ET) HD
-https://tvpass.org/live/mlb-15/hd
-#EXTINF:-1 tvg-id="" tvg-name="Kansas City Royals @ Cleveland Guardians (09/11 7:16 PM ET) SD" ,Kansas City Royals @ Cleveland Guardians (09/11 7:16 PM ET) SD
-https://tvpass.org/live/mlb-30/sd
-#EXTINF:-1 tvg-id="" tvg-name="Kansas City Royals @ Cleveland Guardians (09/11 7:16 PM ET) HD" ,Kansas City Royals @ Cleveland Guardians (09/11 7:16 PM ET) HD
-https://tvpass.org/live/mlb-30/hd
-#EXTINF:-1 tvg-id="" tvg-name="New York Mets @ Philadelphia Phillies (09/11 7:16 PM ET) SD" ,New York Mets @ Philadelphia Phillies (09/11 7:16 PM ET) SD
-https://tvpass.org/live/mlb-18/sd
-#EXTINF:-1 tvg-id="" tvg-name="New York Mets @ Philadelphia Phillies (09/11 7:16 PM ET) HD" ,New York Mets @ Philadelphia Phillies (09/11 7:16 PM ET) HD
-https://tvpass.org/live/mlb-18/hd
-#EXTINF:-1 tvg-id="" tvg-name="NC State Wolfpack @ Wake Forest Demon Deacons (09/11 7:30 PM ET) SD" ,NC State Wolfpack @ Wake Forest Demon Deacons (09/11 7:30 PM ET) SD
+#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays @ Chicago Cubs (09/12 2:21 PM ET) SD" ,Tampa Bay Rays @ Chicago Cubs (09/12 2:21 PM ET) SD
+https://tvpass.org/live/MLB01/sd
+#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Rays @ Chicago Cubs (09/12 2:21 PM ET) HD" ,Tampa Bay Rays @ Chicago Cubs (09/12 2:21 PM ET) HD
+https://tvpass.org/live/MLB01/hd
+#EXTINF:-1 tvg-id="" tvg-name="Indiana State Sycamores @ Indiana Hoosiers (09/12 6:30 PM ET) SD" ,Indiana State Sycamores @ Indiana Hoosiers (09/12 6:30 PM ET) SD
+https://tvpass.org/live/BTN/sd
+#EXTINF:-1 tvg-id="" tvg-name="Indiana State Sycamores @ Indiana Hoosiers (09/12 6:30 PM ET) HD" ,Indiana State Sycamores @ Indiana Hoosiers (09/12 6:30 PM ET) HD
+https://tvpass.org/live/BTN/hd
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ Washington Nationals (09/12 6:45 PM ET) SD" ,Pittsburgh Pirates @ Washington Nationals (09/12 6:45 PM ET) SD
+https://tvpass.org/live/MLB02/sd
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Pirates @ Washington Nationals (09/12 6:45 PM ET) HD" ,Pittsburgh Pirates @ Washington Nationals (09/12 6:45 PM ET) HD
+https://tvpass.org/live/MLB02/hd
+#EXTINF:-1 tvg-id="" tvg-name="Kansas City Royals @ Philadelphia Phillies (09/12 6:46 PM ET) SD" ,Kansas City Royals @ Philadelphia Phillies (09/12 6:46 PM ET) SD
+https://tvpass.org/live/MLB03/sd
+#EXTINF:-1 tvg-id="" tvg-name="Kansas City Royals @ Philadelphia Phillies (09/12 6:46 PM ET) HD" ,Kansas City Royals @ Philadelphia Phillies (09/12 6:46 PM ET) HD
+https://tvpass.org/live/MLB03/hd
+#EXTINF:-1 tvg-id="" tvg-name="Colgate Raiders @ Syracuse Orange (09/12 7:00 PM ET) SD" ,Colgate Raiders @ Syracuse Orange (09/12 7:00 PM ET) SD
+https://tvpass.org/live/ACCNetwork/sd
+#EXTINF:-1 tvg-id="" tvg-name="Colgate Raiders @ Syracuse Orange (09/12 7:00 PM ET) HD" ,Colgate Raiders @ Syracuse Orange (09/12 7:00 PM ET) HD
+https://tvpass.org/live/ACCNetwork/hd
+#EXTINF:-1 tvg-id="" tvg-name="Baltimore Orioles @ Toronto Blue Jays (09/12 7:08 PM ET) SD" ,Baltimore Orioles @ Toronto Blue Jays (09/12 7:08 PM ET) SD
+https://tvpass.org/live/MLB04/sd
+#EXTINF:-1 tvg-id="" tvg-name="Baltimore Orioles @ Toronto Blue Jays (09/12 7:08 PM ET) HD" ,Baltimore Orioles @ Toronto Blue Jays (09/12 7:08 PM ET) HD
+https://tvpass.org/live/MLB04/hd
+#EXTINF:-1 tvg-id="" tvg-name="New York Yankees @ Boston Red Sox (09/12 7:11 PM ET) SD" ,New York Yankees @ Boston Red Sox (09/12 7:11 PM ET) SD
+https://tvpass.org/live/MLB05/sd
+#EXTINF:-1 tvg-id="" tvg-name="New York Yankees @ Boston Red Sox (09/12 7:11 PM ET) HD" ,New York Yankees @ Boston Red Sox (09/12 7:11 PM ET) HD
+https://tvpass.org/live/MLB05/hd
+#EXTINF:-1 tvg-id="" tvg-name="Chicago White Sox @ Cleveland Guardians (09/12 7:11 PM ET) SD" ,Chicago White Sox @ Cleveland Guardians (09/12 7:11 PM ET) SD
+https://tvpass.org/live/MLB06/sd
+#EXTINF:-1 tvg-id="" tvg-name="Chicago White Sox @ Cleveland Guardians (09/12 7:11 PM ET) HD" ,Chicago White Sox @ Cleveland Guardians (09/12 7:11 PM ET) HD
+https://tvpass.org/live/MLB06/hd
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Tigers @ Miami Marlins (09/12 7:11 PM ET) SD" ,Detroit Tigers @ Miami Marlins (09/12 7:11 PM ET) SD
+https://tvpass.org/live/MLB07/sd
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Tigers @ Miami Marlins (09/12 7:11 PM ET) HD" ,Detroit Tigers @ Miami Marlins (09/12 7:11 PM ET) HD
+https://tvpass.org/live/MLB07/hd
+#EXTINF:-1 tvg-id="" tvg-name="Texas Rangers @ New York Mets (09/12 7:11 PM ET) SD" ,Texas Rangers @ New York Mets (09/12 7:11 PM ET) SD
+https://tvpass.org/live/MLB08/sd
+#EXTINF:-1 tvg-id="" tvg-name="Texas Rangers @ New York Mets (09/12 7:11 PM ET) HD" ,Texas Rangers @ New York Mets (09/12 7:11 PM ET) HD
+https://tvpass.org/live/MLB08/hd
+#EXTINF:-1 tvg-id="" tvg-name="Houston Astros @ Atlanta Braves (09/12 7:16 PM ET) SD" ,Houston Astros @ Atlanta Braves (09/12 7:16 PM ET) SD
+https://tvpass.org/live/MLB09/sd
+#EXTINF:-1 tvg-id="" tvg-name="Houston Astros @ Atlanta Braves (09/12 7:16 PM ET) HD" ,Houston Astros @ Atlanta Braves (09/12 7:16 PM ET) HD
+https://tvpass.org/live/MLB09/hd
+#EXTINF:-1 tvg-id="" tvg-name="Colorado Buffaloes @ Houston Cougars (09/12 7:30 PM ET) SD" ,Colorado Buffaloes @ Houston Cougars (09/12 7:30 PM ET) SD
 https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="" tvg-name="NC State Wolfpack @ Wake Forest Demon Deacons (09/11 7:30 PM ET) HD" ,NC State Wolfpack @ Wake Forest Demon Deacons (09/11 7:30 PM ET) HD
+#EXTINF:-1 tvg-id="" tvg-name="Colorado Buffaloes @ Houston Cougars (09/12 7:30 PM ET) HD" ,Colorado Buffaloes @ Houston Cougars (09/12 7:30 PM ET) HD
 https://tvpass.org/live/ESPN/hd
-#EXTINF:-1 tvg-id="" tvg-name="New York Liberty @ Chicago Sky (09/11 8:00 PM ET) SD" ,New York Liberty @ Chicago Sky (09/11 8:00 PM ET) SD
-https://tvpass.org/live/WNBA01/sd
-#EXTINF:-1 tvg-id="" tvg-name="New York Liberty @ Chicago Sky (09/11 8:00 PM ET) HD" ,New York Liberty @ Chicago Sky (09/11 8:00 PM ET) HD
-https://tvpass.org/live/WNBA01/hd
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix Mercury @ Dallas Wings (09/11 8:00 PM ET) SD" ,Phoenix Mercury @ Dallas Wings (09/11 8:00 PM ET) SD
-https://tvpass.org/live/WNBA02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix Mercury @ Dallas Wings (09/11 8:00 PM ET) HD" ,Phoenix Mercury @ Dallas Wings (09/11 8:00 PM ET) HD
-https://tvpass.org/live/WNBA02/hd
-#EXTINF:-1 tvg-id="" tvg-name="Golden State Valkyries @ Minnesota Lynx (09/11 8:00 PM ET) SD" ,Golden State Valkyries @ Minnesota Lynx (09/11 8:00 PM ET) SD
-https://tvpass.org/live/WNBA03/sd
-#EXTINF:-1 tvg-id="" tvg-name="Golden State Valkyries @ Minnesota Lynx (09/11 8:00 PM ET) HD" ,Golden State Valkyries @ Minnesota Lynx (09/11 8:00 PM ET) HD
-https://tvpass.org/live/WNBA03/hd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Commanders @ Green Bay Packers (09/11 8:16 PM ET) SD" ,Washington Commanders @ Green Bay Packers (09/11 8:16 PM ET) SD
-https://tvpass.org/live/NFL09/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Commanders @ Green Bay Packers (09/11 8:16 PM ET) HD" ,Washington Commanders @ Green Bay Packers (09/11 8:16 PM ET) HD
-https://tvpass.org/live/NFL09/hd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Angels @ Seattle Mariners (09/11 9:40 PM ET) SD" ,Los Angeles Angels @ Seattle Mariners (09/11 9:40 PM ET) SD
-https://tvpass.org/live/mlb-10/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Angels @ Seattle Mariners (09/11 9:40 PM ET) HD" ,Los Angeles Angels @ Seattle Mariners (09/11 9:40 PM ET) HD
-https://tvpass.org/live/mlb-10/hd
-#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies @ San Diego Padres (09/11 9:41 PM ET) SD" ,Colorado Rockies @ San Diego Padres (09/11 9:41 PM ET) SD
-https://tvpass.org/live/mlb-02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies @ San Diego Padres (09/11 9:41 PM ET) HD" ,Colorado Rockies @ San Diego Padres (09/11 9:41 PM ET) HD
-https://tvpass.org/live/mlb-02/hd
-#EXTINF:-1 tvg-id="" tvg-name="Las Vegas Aces @ Los Angeles Sparks (09/11 10:00 PM ET) SD" ,Las Vegas Aces @ Los Angeles Sparks (09/11 10:00 PM ET) SD
-https://tvpass.org/live/WNBA04/sd
-#EXTINF:-1 tvg-id="" tvg-name="Las Vegas Aces @ Los Angeles Sparks (09/11 10:00 PM ET) HD" ,Las Vegas Aces @ Los Angeles Sparks (09/11 10:00 PM ET) HD
-https://tvpass.org/live/WNBA04/hd
+#EXTINF:-1 tvg-id="" tvg-name="St. Louis Cardinals @ Milwaukee Brewers (09/12 8:11 PM ET) SD" ,St. Louis Cardinals @ Milwaukee Brewers (09/12 8:11 PM ET) SD
+https://tvpass.org/live/MLB11/sd
+#EXTINF:-1 tvg-id="" tvg-name="St. Louis Cardinals @ Milwaukee Brewers (09/12 8:11 PM ET) HD" ,St. Louis Cardinals @ Milwaukee Brewers (09/12 8:11 PM ET) HD
+https://tvpass.org/live/MLB11/hd
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Minnesota Twins (09/12 8:11 PM ET) SD" ,Arizona Diamondbacks @ Minnesota Twins (09/12 8:11 PM ET) SD
+https://tvpass.org/live/MLB10/sd
+#EXTINF:-1 tvg-id="" tvg-name="Arizona Diamondbacks @ Minnesota Twins (09/12 8:11 PM ET) HD" ,Arizona Diamondbacks @ Minnesota Twins (09/12 8:11 PM ET) HD
+https://tvpass.org/live/MLB10/hd
+#EXTINF:-1 tvg-id="" tvg-name="Kansas State Wildcats @ Arizona Wildcats (09/12 9:00 PM ET) SD" ,Kansas State Wildcats @ Arizona Wildcats (09/12 9:00 PM ET) SD
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="" tvg-name="Kansas State Wildcats @ Arizona Wildcats (09/12 9:00 PM ET) HD" ,Kansas State Wildcats @ Arizona Wildcats (09/12 9:00 PM ET) HD
+https://tvpass.org/live/WNYWDT1/hd
+#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies @ San Diego Padres (09/12 9:40 PM ET) SD" ,Colorado Rockies @ San Diego Padres (09/12 9:40 PM ET) SD
+https://tvpass.org/live/MLB12/sd
+#EXTINF:-1 tvg-id="" tvg-name="Colorado Rockies @ San Diego Padres (09/12 9:40 PM ET) HD" ,Colorado Rockies @ San Diego Padres (09/12 9:40 PM ET) HD
+https://tvpass.org/live/MLB12/hd
+#EXTINF:-1 tvg-id="" tvg-name="New Mexico Lobos @ UCLA Bruins (09/12 10:00 PM ET) SD" ,New Mexico Lobos @ UCLA Bruins (09/12 10:00 PM ET) SD
+https://tvpass.org/live/BTN/sd
+#EXTINF:-1 tvg-id="" tvg-name="New Mexico Lobos @ UCLA Bruins (09/12 10:00 PM ET) HD" ,New Mexico Lobos @ UCLA Bruins (09/12 10:00 PM ET) HD
+https://tvpass.org/live/BTN/hd
+#EXTINF:-1 tvg-id="" tvg-name="Cincinnati Reds @ Oakland Athletics (09/12 10:06 PM ET) SD" ,Cincinnati Reds @ Oakland Athletics (09/12 10:06 PM ET) SD
+https://tvpass.org/live/MLB13/sd
+#EXTINF:-1 tvg-id="" tvg-name="Cincinnati Reds @ Oakland Athletics (09/12 10:06 PM ET) HD" ,Cincinnati Reds @ Oakland Athletics (09/12 10:06 PM ET) HD
+https://tvpass.org/live/MLB13/hd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Angels @ Seattle Mariners (09/12 10:11 PM ET) SD" ,Los Angeles Angels @ Seattle Mariners (09/12 10:11 PM ET) SD
+https://tvpass.org/live/MLB14/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Angels @ Seattle Mariners (09/12 10:11 PM ET) HD" ,Los Angeles Angels @ Seattle Mariners (09/12 10:11 PM ET) HD
+https://tvpass.org/live/MLB14/hd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Dodgers @ San Francisco Giants (09/12 10:16 PM ET) SD" ,Los Angeles Dodgers @ San Francisco Giants (09/12 10:16 PM ET) SD
+https://tvpass.org/live/MLB15/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Dodgers @ San Francisco Giants (09/12 10:16 PM ET) HD" ,Los Angeles Dodgers @ San Francisco Giants (09/12 10:16 PM ET) HD
+https://tvpass.org/live/MLB15/hd
 
