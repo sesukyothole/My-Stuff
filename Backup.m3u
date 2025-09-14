@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/epgs/Backup-epg.xml.gz"
 
-# Generated on 2025-09-14T04:26:55.925165 UTC
+# Generated on 2025-09-14T05:21:07.589493 UTC
 
 # 📺 Source: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
 
@@ -11,8 +11,10 @@ https://jmp2.uk/stvp-CA2900005KG
 # https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
 # -------------- Local TV --------------
 
-#EXTINF:-1   tvg-id="ABC.(WPVI).Philadelphia,.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (WPVI) PA
-http://cord-cutter.net:8080/hq3y4G/234247/121149
+# EXTINF:-1   tvg-id="ABC.(WPVI).Philadelphia,.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (WPVI) PA
+# FOX http://cord-cutter.net:8080/hq3y4G/234247/121149
+
+
 #EXTINF:-1  tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (WABC) NY
 http://fl25.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1  tvg-id="ABC.(KMIZ).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (KMIZ) MO
@@ -38,7 +40,11 @@ https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 #EXTINF:-1  tvg-id="CW.(KYOU4).Ottumwa,.IA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true", CW (KYOU) IA
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 
+
 #EXTINF:-1  tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WNYW) NY
+http://fl25.moveonjoy.com/FOX_EAST/index.m3u8
+
+#EXTINF:-1  tvg-id="FOX.35.Plus.(WRBW).Orlando,.FL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WRBW) FL
 http://fl25.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1  tvg-id="FOX.(KYOU).Ottumwa,.IA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (KYOU) IA
 https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
@@ -61,7 +67,7 @@ https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 https://jmp2.uk/stvp-CA2900005KG
 # ------------------ MoveOnJoy+ ---------------------------
 
-#EXTINF:-1  tvg-id="ABC.(WDFL-LD).Miami,.FL.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC", ABC (WDFL) FL
+#EXTINF:-1  tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC", ABC (WABC) NY
 http://fl25.moveonjoy.com/ABC_EAST/index.m3u8
 # http://fl25.moveonjoy.com/ABC_EAST/index.m3u8
 
@@ -69,7 +75,7 @@ http://fl25.moveonjoy.com/ABC_EAST/index.m3u8
 http://fl25.moveonjoy.com/CBSEAST/index.m3u8
 # http://fl25.moveonjoy.com/CBSEAST/index.m3u8
 
-#EXTINF:-1  tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)", FOX (WNYW) NY
+#EXTINF:-1  tvg-id="FOX.35.Plus.(WRBW).Orlando,.FL.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)", FOX (WRBW) FL
 http://fl25.moveonjoy.com/FOX_EAST/index.m3u8
 # http://fl25.moveonjoy.com/FOX_EAST/index.m3u8
 
@@ -107,9 +113,6 @@ http://fl25.moveonjoy.com/Aspire/index.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8
 
 #EXTINF:-1  tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA", BBC AMERICA
-http://vocotv.pro:80/gast/gast/269006
-
-#EXTINF:-1  tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA", BBC AMERICA (WEST) You ave to timeshift it to west coast time zone.
 http://fl25.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1  tvg-id="plex.tv.BBC.Earth.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0694fd21-4459-41d9-b49d-cef804553424/PLEX_BBCEarth_Logo_Light_1500X1000.png" tvg-name="BBC EARTH", BBC EARTH
