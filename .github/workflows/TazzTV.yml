@@ -2,7 +2,7 @@ name: 🔄 Force Update TazzTV Playlist
 
 on:
   schedule:
-    - cron: 'H * * * *'  # ⏱ Every 1 hour (UTC)
+    - cron: '15 7 * * *'  # ⏱ At 7:15am daily (UTC)
   workflow_dispatch:      # 🔘 Manual trigger
 
 permissions:
