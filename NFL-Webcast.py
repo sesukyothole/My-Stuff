@@ -3,7 +3,7 @@ import re
 import socket
 from datetime import datetime
 
-UPSTREAM_URL = "https://pigscanflyyy-scraper.vercel.app/nflwebcast/nflwebcast.m3u8"
+UPSTREAM_URL = "https://iptv-scraper-re.vercel.app/nflwebcast/nflwebcast.m3u8"
 EPG_URL = "http://drewlive24.duckdns.org:8081/merged3_epg.xml.gz"
 OUTPUT_FILE = "NFL-Webcast.m3u"
 FORCED_GROUP = "NFL"
